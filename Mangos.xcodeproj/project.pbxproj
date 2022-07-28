@@ -1,0 +1,939 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 52;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B10FB3F6272A78630012704C /* TestDataVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10FB3F5272A78630012704C /* TestDataVC.swift */; };
+		B124FA3323753E2D000F9440 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B124FA3223753E2D000F9440 /* AppDelegate.swift */; };
+		B124FA3523753E2D000F9440 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B124FA3423753E2D000F9440 /* SceneDelegate.swift */; };
+		B124FA3723753E2D000F9440 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B124FA3623753E2D000F9440 /* MainVC.swift */; };
+		B124FA3A23753E2D000F9440 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B124FA3823753E2D000F9440 /* Main.storyboard */; };
+		B124FA3C23753E2F000F9440 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B124FA3B23753E2F000F9440 /* Assets.xcassets */; };
+		B124FA3F23753E2F000F9440 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B124FA3D23753E2F000F9440 /* LaunchScreen.storyboard */; };
+		B124FA4A23753E2F000F9440 /* MangosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B124FA4923753E2F000F9440 /* MangosTests.swift */; };
+		B124FA5523753E2F000F9440 /* MangosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B124FA5423753E2F000F9440 /* MangosUITests.swift */; };
+		B12FF9AE239A24DD004BEF11 /* ChapterListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12FF9AD239A24DD004BEF11 /* ChapterListVC.swift */; };
+		B12FF9B0239A3206004BEF11 /* ChapterTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12FF9AF239A3206004BEF11 /* ChapterTableCell.swift */; };
+		B14578A1238F289000F68757 /* MangoTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14578A0238F289000F68757 /* MangoTableCell.swift */; };
+		B17EDC54273742F100B82EFE /* MangoChapterClassifier_V3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B17EDC53273742F100B82EFE /* MangoChapterClassifier_V3.mlmodel */; };
+		B17EDC56273742F700B82EFE /* MangoPageClassifier_V2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B17EDC55273742F700B82EFE /* MangoPageClassifier_V2.mlmodel */; };
+		B18E346A25B55E3300687602 /* ShareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B18E346925B55E3300687602 /* ShareViewController.swift */; };
+		B18E347125B55E3300687602 /* MangoAddShare.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = B18E346725B55E3300687602 /* MangoAddShare.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B1A8790225B1339800C9A27F /* SwiftSoup in Frameworks */ = {isa = PBXBuildFile; productRef = B1A8790125B1339800C9A27F /* SwiftSoup */; };
+		B1A8790825B133EA00C9A27F /* StringMetric in Frameworks */ = {isa = PBXBuildFile; productRef = B1A8790725B133EA00C9A27F /* StringMetric */; };
+		B1BCC0C425B2CA0000E65487 /* ImageScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BCC0C325B2CA0000E65487 /* ImageScrollView.swift */; };
+		B1D87372239C6006004FC978 /* ChapterReadVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D87371239C6006004FC978 /* ChapterReadVC.swift */; };
+		B1DD868D246B819B006800E9 /* MangoPageViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DD868C246B819B006800E9 /* MangoPageViewCell.swift */; };
+		B1DFBE8A25B135AA00295CA5 /* MangoPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE7C25B135AA00295CA5 /* MangoPage.swift */; };
+		B1DFBE8B25B135AA00295CA5 /* HrefData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE7E25B135AA00295CA5 /* HrefData.swift */; };
+		B1DFBE8C25B135AA00295CA5 /* ImgData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE7F25B135AA00295CA5 /* ImgData.swift */; };
+		B1DFBE8D25B135AA00295CA5 /* MangosML.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8125B135AA00295CA5 /* MangosML.swift */; };
+		B1DFBE8E25B135AA00295CA5 /* MangosMLData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8325B135AA00295CA5 /* MangosMLData.swift */; };
+		B1DFBE8F25B135AA00295CA5 /* PageImageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8425B135AA00295CA5 /* PageImageData.swift */; };
+		B1DFBE9025B135AA00295CA5 /* ChapterHrefData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8525B135AA00295CA5 /* ChapterHrefData.swift */; };
+		B1DFBE9125B135AA00295CA5 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8625B135AA00295CA5 /* Utility.swift */; };
+		B1DFBE9225B135AA00295CA5 /* Mango.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8725B135AA00295CA5 /* Mango.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B124FA4623753E2F000F9440 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B124FA2723753E2D000F9440 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B124FA2E23753E2D000F9440;
+			remoteInfo = Mangos;
+		};
+		B124FA5123753E2F000F9440 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B124FA2723753E2D000F9440 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B124FA2E23753E2D000F9440;
+			remoteInfo = Mangos;
+		};
+		B18E346F25B55E3300687602 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B124FA2723753E2D000F9440 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B18E346625B55E3300687602;
+			remoteInfo = MangoAddShare;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		B18E347225B55E3300687602 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				B18E347125B55E3300687602 /* MangoAddShare.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		B10FB3F5272A78630012704C /* TestDataVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDataVC.swift; sourceTree = "<group>"; };
+		B124FA2F23753E2D000F9440 /* Mangos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mangos.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B124FA3223753E2D000F9440 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B124FA3423753E2D000F9440 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		B124FA3623753E2D000F9440 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
+		B124FA3923753E2D000F9440 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B124FA3B23753E2F000F9440 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B124FA3E23753E2F000F9440 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B124FA4023753E2F000F9440 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B124FA4523753E2F000F9440 /* MangosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MangosTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B124FA4923753E2F000F9440 /* MangosTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangosTests.swift; sourceTree = "<group>"; };
+		B124FA4B23753E2F000F9440 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B124FA5023753E2F000F9440 /* MangosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MangosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B124FA5423753E2F000F9440 /* MangosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangosUITests.swift; sourceTree = "<group>"; };
+		B124FA5623753E2F000F9440 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B12FF9AD239A24DD004BEF11 /* ChapterListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterListVC.swift; sourceTree = "<group>"; };
+		B12FF9AF239A3206004BEF11 /* ChapterTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterTableCell.swift; sourceTree = "<group>"; };
+		B14578A0238F289000F68757 /* MangoTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangoTableCell.swift; sourceTree = "<group>"; };
+		B17EDC53273742F100B82EFE /* MangoChapterClassifier_V3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MangoChapterClassifier_V3.mlmodel; sourceTree = "<group>"; };
+		B17EDC55273742F700B82EFE /* MangoPageClassifier_V2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MangoPageClassifier_V2.mlmodel; sourceTree = "<group>"; };
+		B18E346725B55E3300687602 /* MangoAddShare.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = MangoAddShare.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		B18E346925B55E3300687602 /* ShareViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareViewController.swift; sourceTree = "<group>"; };
+		B18E346E25B55E3300687602 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1BCC0C325B2CA0000E65487 /* ImageScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageScrollView.swift; sourceTree = "<group>"; };
+		B1D87371239C6006004FC978 /* ChapterReadVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterReadVC.swift; sourceTree = "<group>"; };
+		B1DD868C246B819B006800E9 /* MangoPageViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangoPageViewCell.swift; sourceTree = "<group>"; };
+		B1DFBE7C25B135AA00295CA5 /* MangoPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MangoPage.swift; sourceTree = "<group>"; };
+		B1DFBE7E25B135AA00295CA5 /* HrefData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HrefData.swift; sourceTree = "<group>"; };
+		B1DFBE7F25B135AA00295CA5 /* ImgData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImgData.swift; sourceTree = "<group>"; };
+		B1DFBE8125B135AA00295CA5 /* MangosML.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MangosML.swift; sourceTree = "<group>"; };
+		B1DFBE8325B135AA00295CA5 /* MangosMLData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MangosMLData.swift; sourceTree = "<group>"; };
+		B1DFBE8425B135AA00295CA5 /* PageImageData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageImageData.swift; sourceTree = "<group>"; };
+		B1DFBE8525B135AA00295CA5 /* ChapterHrefData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChapterHrefData.swift; sourceTree = "<group>"; };
+		B1DFBE8625B135AA00295CA5 /* Utility.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
+		B1DFBE8725B135AA00295CA5 /* Mango.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mango.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B124FA2C23753E2D000F9440 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B1A8790225B1339800C9A27F /* SwiftSoup in Frameworks */,
+				B1A8790825B133EA00C9A27F /* StringMetric in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B124FA4223753E2F000F9440 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B124FA4D23753E2F000F9440 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B18E346425B55E3300687602 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B10FB3F4272A78520012704C /* Test */ = {
+			isa = PBXGroup;
+			children = (
+				B10FB3F5272A78630012704C /* TestDataVC.swift */,
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+		B11BAB462390FA5F0082CBD9 /* SelectItem */ = {
+			isa = PBXGroup;
+			children = (
+				B12FF9AD239A24DD004BEF11 /* ChapterListVC.swift */,
+				B1D87371239C6006004FC978 /* ChapterReadVC.swift */,
+			);
+			path = SelectItem;
+			sourceTree = "<group>";
+		};
+		B124FA2623753E2D000F9440 = {
+			isa = PBXGroup;
+			children = (
+				B124FA3123753E2D000F9440 /* Mangos */,
+				B124FA4823753E2F000F9440 /* MangosTests */,
+				B124FA5323753E2F000F9440 /* MangosUITests */,
+				B18E346825B55E3300687602 /* MangoAddShare */,
+				B124FA3023753E2D000F9440 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B124FA3023753E2D000F9440 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B124FA2F23753E2D000F9440 /* Mangos.app */,
+				B124FA4523753E2F000F9440 /* MangosTests.xctest */,
+				B124FA5023753E2F000F9440 /* MangosUITests.xctest */,
+				B18E346725B55E3300687602 /* MangoAddShare.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B124FA3123753E2D000F9440 /* Mangos */ = {
+			isa = PBXGroup;
+			children = (
+				B1DFBE9C25B137AD00295CA5 /* ML */,
+				B1DFBE7925B135AA00295CA5 /* Logic */,
+				B145789C238F271600F68757 /* UI */,
+				B124FA3223753E2D000F9440 /* AppDelegate.swift */,
+				B124FA3423753E2D000F9440 /* SceneDelegate.swift */,
+				B124FA3823753E2D000F9440 /* Main.storyboard */,
+				B124FA3B23753E2F000F9440 /* Assets.xcassets */,
+				B124FA3D23753E2F000F9440 /* LaunchScreen.storyboard */,
+				B124FA4023753E2F000F9440 /* Info.plist */,
+			);
+			path = Mangos;
+			sourceTree = "<group>";
+		};
+		B124FA4823753E2F000F9440 /* MangosTests */ = {
+			isa = PBXGroup;
+			children = (
+				B124FA4923753E2F000F9440 /* MangosTests.swift */,
+				B124FA4B23753E2F000F9440 /* Info.plist */,
+			);
+			path = MangosTests;
+			sourceTree = "<group>";
+		};
+		B124FA5323753E2F000F9440 /* MangosUITests */ = {
+			isa = PBXGroup;
+			children = (
+				B124FA5423753E2F000F9440 /* MangosUITests.swift */,
+				B124FA5623753E2F000F9440 /* Info.plist */,
+			);
+			path = MangosUITests;
+			sourceTree = "<group>";
+		};
+		B124FA6223754FF3000F9440 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				B10FB3F4272A78520012704C /* Test */,
+				B11BAB462390FA5F0082CBD9 /* SelectItem */,
+				B124FA3623753E2D000F9440 /* MainVC.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		B145789C238F271600F68757 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				B124FA6223754FF3000F9440 /* ViewControllers */,
+				B145789D238F272800F68757 /* Views */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		B145789D238F272800F68757 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B1BCC0C325B2CA0000E65487 /* ImageScrollView.swift */,
+				B14578A0238F289000F68757 /* MangoTableCell.swift */,
+				B1DD868C246B819B006800E9 /* MangoPageViewCell.swift */,
+				B12FF9AF239A3206004BEF11 /* ChapterTableCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B18E346825B55E3300687602 /* MangoAddShare */ = {
+			isa = PBXGroup;
+			children = (
+				B18E346925B55E3300687602 /* ShareViewController.swift */,
+				B18E346E25B55E3300687602 /* Info.plist */,
+			);
+			path = MangoAddShare;
+			sourceTree = "<group>";
+		};
+		B1DFBE7925B135AA00295CA5 /* Logic */ = {
+			isa = PBXGroup;
+			children = (
+				B1DFBE7D25B135AA00295CA5 /* Html */,
+				B1DFBE8025B135AA00295CA5 /* ML */,
+				B1DFBE7C25B135AA00295CA5 /* MangoPage.swift */,
+				B1DFBE8625B135AA00295CA5 /* Utility.swift */,
+				B1DFBE8725B135AA00295CA5 /* Mango.swift */,
+			);
+			path = Logic;
+			sourceTree = "<group>";
+		};
+		B1DFBE7D25B135AA00295CA5 /* Html */ = {
+			isa = PBXGroup;
+			children = (
+				B1DFBE7E25B135AA00295CA5 /* HrefData.swift */,
+				B1DFBE7F25B135AA00295CA5 /* ImgData.swift */,
+			);
+			path = Html;
+			sourceTree = "<group>";
+		};
+		B1DFBE8025B135AA00295CA5 /* ML */ = {
+			isa = PBXGroup;
+			children = (
+				B1DFBE8125B135AA00295CA5 /* MangosML.swift */,
+				B1DFBE8225B135AA00295CA5 /* Data */,
+			);
+			path = ML;
+			sourceTree = "<group>";
+		};
+		B1DFBE8225B135AA00295CA5 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				B1DFBE8325B135AA00295CA5 /* MangosMLData.swift */,
+				B1DFBE8425B135AA00295CA5 /* PageImageData.swift */,
+				B1DFBE8525B135AA00295CA5 /* ChapterHrefData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		B1DFBE9C25B137AD00295CA5 /* ML */ = {
+			isa = PBXGroup;
+			children = (
+				B17EDC55273742F700B82EFE /* MangoPageClassifier_V2.mlmodel */,
+				B17EDC53273742F100B82EFE /* MangoChapterClassifier_V3.mlmodel */,
+			);
+			path = ML;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B124FA2E23753E2D000F9440 /* Mangos */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B124FA5923753E2F000F9440 /* Build configuration list for PBXNativeTarget "Mangos" */;
+			buildPhases = (
+				B124FA2B23753E2D000F9440 /* Sources */,
+				B124FA2C23753E2D000F9440 /* Frameworks */,
+				B124FA2D23753E2D000F9440 /* Resources */,
+				B18E347225B55E3300687602 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B18E347025B55E3300687602 /* PBXTargetDependency */,
+			);
+			name = Mangos;
+			packageProductDependencies = (
+				B1A8790125B1339800C9A27F /* SwiftSoup */,
+				B1A8790725B133EA00C9A27F /* StringMetric */,
+			);
+			productName = Mangos;
+			productReference = B124FA2F23753E2D000F9440 /* Mangos.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B124FA4423753E2F000F9440 /* MangosTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B124FA5C23753E2F000F9440 /* Build configuration list for PBXNativeTarget "MangosTests" */;
+			buildPhases = (
+				B124FA4123753E2F000F9440 /* Sources */,
+				B124FA4223753E2F000F9440 /* Frameworks */,
+				B124FA4323753E2F000F9440 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B124FA4723753E2F000F9440 /* PBXTargetDependency */,
+			);
+			name = MangosTests;
+			productName = MangosTests;
+			productReference = B124FA4523753E2F000F9440 /* MangosTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B124FA4F23753E2F000F9440 /* MangosUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B124FA5F23753E2F000F9440 /* Build configuration list for PBXNativeTarget "MangosUITests" */;
+			buildPhases = (
+				B124FA4C23753E2F000F9440 /* Sources */,
+				B124FA4D23753E2F000F9440 /* Frameworks */,
+				B124FA4E23753E2F000F9440 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B124FA5223753E2F000F9440 /* PBXTargetDependency */,
+			);
+			name = MangosUITests;
+			productName = MangosUITests;
+			productReference = B124FA5023753E2F000F9440 /* MangosUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		B18E346625B55E3300687602 /* MangoAddShare */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B18E347525B55E3300687602 /* Build configuration list for PBXNativeTarget "MangoAddShare" */;
+			buildPhases = (
+				B18E346325B55E3300687602 /* Sources */,
+				B18E346425B55E3300687602 /* Frameworks */,
+				B18E346525B55E3300687602 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MangoAddShare;
+			productName = MangoAddShare;
+			productReference = B18E346725B55E3300687602 /* MangoAddShare.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B124FA2723753E2D000F9440 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1230;
+				LastUpgradeCheck = 1230;
+				ORGANIZATIONNAME = "Brad Guerrero";
+				TargetAttributes = {
+					B124FA2E23753E2D000F9440 = {
+						CreatedOnToolsVersion = 11.1;
+					};
+					B124FA4423753E2F000F9440 = {
+						CreatedOnToolsVersion = 11.1;
+						TestTargetID = B124FA2E23753E2D000F9440;
+					};
+					B124FA4F23753E2F000F9440 = {
+						CreatedOnToolsVersion = 11.1;
+						TestTargetID = B124FA2E23753E2D000F9440;
+					};
+					B18E346625B55E3300687602 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+				};
+			};
+			buildConfigurationList = B124FA2A23753E2D000F9440 /* Build configuration list for PBXProject "Mangos" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B124FA2623753E2D000F9440;
+			packageReferences = (
+				B1A8790025B1339800C9A27F /* XCRemoteSwiftPackageReference "SwiftSoup" */,
+				B1A8790625B133EA00C9A27F /* XCRemoteSwiftPackageReference "StringMetric.swift" */,
+			);
+			productRefGroup = B124FA3023753E2D000F9440 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B124FA2E23753E2D000F9440 /* Mangos */,
+				B124FA4423753E2F000F9440 /* MangosTests */,
+				B124FA4F23753E2F000F9440 /* MangosUITests */,
+				B18E346625B55E3300687602 /* MangoAddShare */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B124FA2D23753E2D000F9440 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B124FA3F23753E2F000F9440 /* LaunchScreen.storyboard in Resources */,
+				B124FA3C23753E2F000F9440 /* Assets.xcassets in Resources */,
+				B124FA3A23753E2D000F9440 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B124FA4323753E2F000F9440 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B124FA4E23753E2F000F9440 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B18E346525B55E3300687602 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B124FA2B23753E2D000F9440 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B12FF9B0239A3206004BEF11 /* ChapterTableCell.swift in Sources */,
+				B1DFBE8E25B135AA00295CA5 /* MangosMLData.swift in Sources */,
+				B1DFBE9025B135AA00295CA5 /* ChapterHrefData.swift in Sources */,
+				B14578A1238F289000F68757 /* MangoTableCell.swift in Sources */,
+				B1BCC0C425B2CA0000E65487 /* ImageScrollView.swift in Sources */,
+				B124FA3723753E2D000F9440 /* MainVC.swift in Sources */,
+				B17EDC56273742F700B82EFE /* MangoPageClassifier_V2.mlmodel in Sources */,
+				B1DFBE9225B135AA00295CA5 /* Mango.swift in Sources */,
+				B1DFBE8F25B135AA00295CA5 /* PageImageData.swift in Sources */,
+				B1DFBE8B25B135AA00295CA5 /* HrefData.swift in Sources */,
+				B17EDC54273742F100B82EFE /* MangoChapterClassifier_V3.mlmodel in Sources */,
+				B1DFBE8A25B135AA00295CA5 /* MangoPage.swift in Sources */,
+				B124FA3323753E2D000F9440 /* AppDelegate.swift in Sources */,
+				B1DD868D246B819B006800E9 /* MangoPageViewCell.swift in Sources */,
+				B10FB3F6272A78630012704C /* TestDataVC.swift in Sources */,
+				B124FA3523753E2D000F9440 /* SceneDelegate.swift in Sources */,
+				B1DFBE9125B135AA00295CA5 /* Utility.swift in Sources */,
+				B12FF9AE239A24DD004BEF11 /* ChapterListVC.swift in Sources */,
+				B1D87372239C6006004FC978 /* ChapterReadVC.swift in Sources */,
+				B1DFBE8D25B135AA00295CA5 /* MangosML.swift in Sources */,
+				B1DFBE8C25B135AA00295CA5 /* ImgData.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B124FA4123753E2F000F9440 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B124FA4A23753E2F000F9440 /* MangosTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B124FA4C23753E2F000F9440 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B124FA5523753E2F000F9440 /* MangosUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B18E346325B55E3300687602 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B18E346A25B55E3300687602 /* ShareViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B124FA4723753E2F000F9440 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B124FA2E23753E2D000F9440 /* Mangos */;
+			targetProxy = B124FA4623753E2F000F9440 /* PBXContainerItemProxy */;
+		};
+		B124FA5223753E2F000F9440 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B124FA2E23753E2D000F9440 /* Mangos */;
+			targetProxy = B124FA5123753E2F000F9440 /* PBXContainerItemProxy */;
+		};
+		B18E347025B55E3300687602 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B18E346625B55E3300687602 /* MangoAddShare */;
+			targetProxy = B18E346F25B55E3300687602 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		B124FA3823753E2D000F9440 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B124FA3923753E2D000F9440 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B124FA3D23753E2F000F9440 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B124FA3E23753E2F000F9440 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B124FA5723753E2F000F9440 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B124FA5823753E2F000F9440 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B124FA5A23753E2F000F9440 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = ENSZYY2HUU;
+				INFOPLIST_FILE = Mangos/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamicarts.mangos;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B124FA5B23753E2F000F9440 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = ENSZYY2HUU;
+				INFOPLIST_FILE = Mangos/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamicarts.mangos;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		B124FA5D23753E2F000F9440 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ENSZYY2HUU;
+				INFOPLIST_FILE = MangosTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamicarts.MangosTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mangos.app/Mangos";
+			};
+			name = Debug;
+		};
+		B124FA5E23753E2F000F9440 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ENSZYY2HUU;
+				INFOPLIST_FILE = MangosTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamicarts.MangosTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mangos.app/Mangos";
+			};
+			name = Release;
+		};
+		B124FA6023753E2F000F9440 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ENSZYY2HUU;
+				INFOPLIST_FILE = MangosUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamicarts.MangosUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Mangos;
+			};
+			name = Debug;
+		};
+		B124FA6123753E2F000F9440 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ENSZYY2HUU;
+				INFOPLIST_FILE = MangosUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamicarts.MangosUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Mangos;
+			};
+			name = Release;
+		};
+		B18E347325B55E3300687602 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = ENSZYY2HUU;
+				INFOPLIST_FILE = MangoAddShare/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamicarts.mangos.MangoAddShare;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B18E347425B55E3300687602 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = ENSZYY2HUU;
+				INFOPLIST_FILE = MangoAddShare/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamicarts.mangos.MangoAddShare;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B124FA2A23753E2D000F9440 /* Build configuration list for PBXProject "Mangos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B124FA5723753E2F000F9440 /* Debug */,
+				B124FA5823753E2F000F9440 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B124FA5923753E2F000F9440 /* Build configuration list for PBXNativeTarget "Mangos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B124FA5A23753E2F000F9440 /* Debug */,
+				B124FA5B23753E2F000F9440 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B124FA5C23753E2F000F9440 /* Build configuration list for PBXNativeTarget "MangosTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B124FA5D23753E2F000F9440 /* Debug */,
+				B124FA5E23753E2F000F9440 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B124FA5F23753E2F000F9440 /* Build configuration list for PBXNativeTarget "MangosUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B124FA6023753E2F000F9440 /* Debug */,
+				B124FA6123753E2F000F9440 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B18E347525B55E3300687602 /* Build configuration list for PBXNativeTarget "MangoAddShare" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B18E347325B55E3300687602 /* Debug */,
+				B18E347425B55E3300687602 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		B1A8790025B1339800C9A27F /* XCRemoteSwiftPackageReference "SwiftSoup" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/scinfu/SwiftSoup.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.3.2;
+			};
+		};
+		B1A8790625B133EA00C9A27F /* XCRemoteSwiftPackageReference "StringMetric.swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/autozimu/StringMetric.swift.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.3.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		B1A8790125B1339800C9A27F /* SwiftSoup */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B1A8790025B1339800C9A27F /* XCRemoteSwiftPackageReference "SwiftSoup" */;
+			productName = SwiftSoup;
+		};
+		B1A8790725B133EA00C9A27F /* StringMetric */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B1A8790625B133EA00C9A27F /* XCRemoteSwiftPackageReference "StringMetric.swift" */;
+			productName = StringMetric;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = B124FA2723753E2D000F9440 /* Project object */;
+}

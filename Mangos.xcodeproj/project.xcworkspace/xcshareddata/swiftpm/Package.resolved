@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "StringMetric",
+        "repositoryURL": "https://github.com/autozimu/StringMetric.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "ac08419f609e53636bd2d5d140d95d1d14960d6a",
+          "version": "0.3.2"
+        }
+      },
+      {
+        "package": "SwiftSoup",
+        "repositoryURL": "https://github.com/scinfu/SwiftSoup.git",
+        "state": {
+          "branch": null,
+          "revision": "774dc9c7213085db8aa59595e27c1cd22e428904",
+          "version": "2.3.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
