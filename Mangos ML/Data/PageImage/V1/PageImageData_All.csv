@@ -1,0 +1,187 @@
+isPageImage, link, compareLink, similarUrlCount, isRelatedLink, containsHost
+false,/logo.png,/logo.png,1,false,false
+false,/logo-small.png,/logo-small.png,1,false,false
+true,https://img.mghubcdn.com/file/imghub/return-of-immortal-emperor/154/1.jpg,file/imghub/return-of-immortal-emperor/154/1.jpg,4,true,false
+true,https://img.mghubcdn.com/file/imghub/return-of-immortal-emperor/154/2.jpg,file/imghub/return-of-immortal-emperor/154/2.jpg,4,true,false
+true,https://img.mghubcdn.com/file/imghub/return-of-immortal-emperor/154/3.jpg,file/imghub/return-of-immortal-emperor/154/3.jpg,4,true,false
+true,https://img.mghubcdn.com/file/imghub/return-of-immortal-emperor/154/4.jpg,file/imghub/return-of-immortal-emperor/154/4.jpg,4,true,false
+true,https://img.mghubcdn.com/file/imghub/return-of-immortal-emperor/154/5.jpg,file/imghub/return-of-immortal-emperor/154/5.jpg,4,true,false
+false,//s3t3d2y7.ackcdn.net/images/close-icon-circle.png,//s3t3d2y7.ackcdn.net/images/close-icon-circle.png,0,false,false
+
+
+false,/logo.png,/logo.png,1,false,false
+false,/logo-small.png,/logo-small.png,1,false,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/1.jpg,file/imghub/coffee-vanilla/16/1.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/2.jpg,file/imghub/coffee-vanilla/16/2.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/3.jpg,file/imghub/coffee-vanilla/16/3.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/4.jpg,file/imghub/coffee-vanilla/16/4.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/5.jpg,file/imghub/coffee-vanilla/16/5.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/6.jpg,file/imghub/coffee-vanilla/16/6.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/7.jpg,file/imghub/coffee-vanilla/16/7.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/8.jpg,file/imghub/coffee-vanilla/16/8.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/9.jpg,file/imghub/coffee-vanilla/16/9.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/10.jpg,file/imghub/coffee-vanilla/16/10.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/11.jpg,file/imghub/coffee-vanilla/16/11.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/12.jpg,file/imghub/coffee-vanilla/16/12.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/13.jpg,file/imghub/coffee-vanilla/16/13.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/14.jpg,file/imghub/coffee-vanilla/16/14.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/15.jpg,file/imghub/coffee-vanilla/16/15.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/16.jpg,file/imghub/coffee-vanilla/16/16.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/17.jpg,file/imghub/coffee-vanilla/16/17.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/18.jpg,file/imghub/coffee-vanilla/16/18.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/19.jpg,file/imghub/coffee-vanilla/16/19.jpg,19,true,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/20.jpg,file/imghub/coffee-vanilla/16/20.jpg,19,true,false
+false,//s3t3d2y7.ackcdn.net/images/close-icon-circle.png,//s3t3d2y7.ackcdn.net/images/close-icon-circle.png,0,false,false
+
+
+false,/static/images/user-small.png,/static/images/user-small.png,2,false,false
+false,/static/images/previous.png,/static/images/previous.png,2,false,false
+false,/static/images/next.png,/static/images/next.png,2,false,false
+true,https://cm.blazefast.co/87/62/876293d9b8d925f3104a1e7f8205c828.jpg,87/62/876293d9b8d925f3104a1e7f8205c828.jpg,6,false,false
+true,https://cm.blazefast.co/74/5c/745c36d72337153a3c5b2f57d2a2643f.jpg,74/5c/745c36d72337153a3c5b2f57d2a2643f.jpg,12,false,false
+true,https://cm.blazefast.co/7c/8e/7c8ec1002a37a3241ed433bd54695474.jpg,7c/8e/7c8ec1002a37a3241ed433bd54695474.jpg,11,false,false
+true,https://cm.blazefast.co/24/9b/249b8f5a9761e4f80027398f19d4fa9f.jpg,24/9b/249b8f5a9761e4f80027398f19d4fa9f.jpg,11,false,false
+true,https://cm.blazefast.co/cb/4d/cb4d09a6458b036e360bb363822bca6a.jpg,cb/4d/cb4d09a6458b036e360bb363822bca6a.jpg,8,false,false
+true,https://cm.blazefast.co/83/b4/83b4654f1694815177de18fb70d4a8de.jpg,83/b4/83b4654f1694815177de18fb70d4a8de.jpg,11,false,false
+true,https://cm.blazefast.co/4c/fb/4cfbc8fbe80395dd614c68b999837fbf.jpg,4c/fb/4cfbc8fbe80395dd614c68b999837fbf.jpg,13,false,false
+true,https://cm.blazefast.co/43/57/4357f2f80cc60659fa3c84f9e5d8f082.jpg,43/57/4357f2f80cc60659fa3c84f9e5d8f082.jpg,8,false,false
+true,https://cm.blazefast.co/be/ae/beaeea9f74d6592801cc928c000b03f3.jpg,be/ae/beaeea9f74d6592801cc928c000b03f3.jpg,16,false,false
+true,https://cm.blazefast.co/a5/9a/a59a0e8aa075ec4f5b25e2e2ea93f1d1.jpg,a5/9a/a59a0e8aa075ec4f5b25e2e2ea93f1d1.jpg,12,false,false
+true,https://cm.blazefast.co/a0/f0/a0f0a70f79d84a348e2b8132dd38e473.jpg,a0/f0/a0f0a70f79d84a348e2b8132dd38e473.jpg,10,false,false
+true,https://cm.blazefast.co/5c/1e/5c1e16278903e615ecd0f796ecbdfc24.jpg,5c/1e/5c1e16278903e615ecd0f796ecbdfc24.jpg,8,false,false
+true,https://cm.blazefast.co/c8/85/c885c8edbb77b6439b063c61e4c27cf1.jpg,c8/85/c885c8edbb77b6439b063c61e4c27cf1.jpg,15,false,false
+true,https://cm.blazefast.co/25/1f/251f432bc907cb0a49092d4359994d0d.jpg,25/1f/251f432bc907cb0a49092d4359994d0d.jpg,12,false,false
+true,https://cm.blazefast.co/a0/9f/a09f5c485bc406d3302d50a9330db909.jpg,a0/9f/a09f5c485bc406d3302d50a9330db909.jpg,11,false,false
+true,https://cm.blazefast.co/e6/be/e6bef786368b731819b5325cc7317328.jpg,e6/be/e6bef786368b731819b5325cc7317328.jpg,11,false,false
+true,https://cm.blazefast.co/d7/97/d79797d790e55e3437488597c4e63a5e.jpg,d7/97/d79797d790e55e3437488597c4e63a5e.jpg,16,false,false
+true,https://cm.blazefast.co/01/70/0170533fdb608cfe4c80b4719693378b.jpg,01/70/0170533fdb608cfe4c80b4719693378b.jpg,9,false,false
+true,https://cm.blazefast.co/3d/85/3d8591f97c60d5d6bb75187eab1ef9ba.jpg,3d/85/3d8591f97c60d5d6bb75187eab1ef9ba.jpg,11,false,false
+true,https://cm.blazefast.co/d7/fb/d7fb4af68fd6befa9aa0ed840a11d24d.jpg,d7/fb/d7fb4af68fd6befa9aa0ed840a11d24d.jpg,9,false,false
+true,https://cm.blazefast.co/03/98/0398f4fe80ee210061d1d6dd912c74ee.jpg,03/98/0398f4fe80ee210061d1d6dd912c74ee.jpg,15,false,false
+true,https://cm.blazefast.co/bc/eb/bcebf6ae208f090c4c74ed779222c379.jpg,bc/eb/bcebf6ae208f090c4c74ed779222c379.jpg,11,false,false
+true,https://cm.blazefast.co/9c/75/9c75f9e8b9b4af041f86f762c6183537.jpg,9c/75/9c75f9e8b9b4af041f86f762c6183537.jpg,6,false,false
+true,https://cm.blazefast.co/77/cb/77cbaebae7d595e2c960e9903247068c.jpg,77/cb/77cbaebae7d595e2c960e9903247068c.jpg,14,false,false
+true,https://cm.blazefast.co/39/c2/39c25fe65c4da2f95eb27690eae1eaf4.jpg,39/c2/39c25fe65c4da2f95eb27690eae1eaf4.jpg,9,false,false
+true,https://cm.blazefast.co/3d/49/3d492d77d1473175879c73182654c443.jpg,3d/49/3d492d77d1473175879c73182654c443.jpg,14,false,false
+true,https://cm.blazefast.co/5d/c1/5dc13a53ecdafea9b3088894e61a776f.jpg,5d/c1/5dc13a53ecdafea9b3088894e61a776f.jpg,11,false,false
+true,https://cm.blazefast.co/3a/20/3a206045bf7ff1afe0b35edf9f0cb958.jpg,3a/20/3a206045bf7ff1afe0b35edf9f0cb958.jpg,8,false,false
+true,https://cm.blazefast.co/54/a3/54a3e8faec6fbf6dff6b757341527728.jpg,54/a3/54a3e8faec6fbf6dff6b757341527728.jpg,12,false,false
+true,https://cm.blazefast.co/39/17/39170546b93d84b0640f1b5bd99daf57.jpg,39/17/39170546b93d84b0640f1b5bd99daf57.jpg,13,false,false
+true,https://cm.blazefast.co/53/5b/535be8dda94ecac8e18f5fe95bf8a8de.jpg,53/5b/535be8dda94ecac8e18f5fe95bf8a8de.jpg,12,false,false
+true,https://cm.blazefast.co/3a/94/3a942815ad719c31110f46a56750c118.jpg,3a/94/3a942815ad719c31110f46a56750c118.jpg,12,false,false
+true,https://cm.blazefast.co/e4/7f/e47f9ff1a89779a1022499a0512634be.jpg,e4/7f/e47f9ff1a89779a1022499a0512634be.jpg,13,false,false
+true,https://cm.blazefast.co/e4/6c/e46cf2116bdd67765851859eb242449d.jpg,e4/6c/e46cf2116bdd67765851859eb242449d.jpg,12,false,false
+true,https://cm.blazefast.co/9a/45/9a4584554a627df69c76d0cad952ad22.jpg,9a/45/9a4584554a627df69c76d0cad952ad22.jpg,14,false,false
+true,https://cm.blazefast.co/5f/ca/5fca21a50a6b7e7eaa771943a792701d.jpg,5f/ca/5fca21a50a6b7e7eaa771943a792701d.jpg,12,false,false
+true,https://cm.blazefast.co/ce/92/ce9274aeefb3579ff6de3852f55e1c5f.jpg,ce/92/ce9274aeefb3579ff6de3852f55e1c5f.jpg,13,false,false
+true,https://cm.blazefast.co/35/cc/35ccc5207cb1cab89091174df9c75e47.jpg,35/cc/35ccc5207cb1cab89091174df9c75e47.jpg,13,false,false
+
+
+false,https://static.animemark.com/img/logo-batoto.png?v0,img/logo-batoto.png?v0,0,false,false
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214835_940_1347_104154.jpeg?acc=KWx81GHS1AJ4gARSvC-xng&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214835_940_1347_104154.jpeg?acc=kwx81ghs1aj4garsvc-xng&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214836_940_1995_208271.jpeg?acc=0qZWsY1NWcb8WiTi7rXz5w&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214836_940_1995_208271.jpeg?acc=0qzwsy1nwcb8witi7rxz5w&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214837_940_1995_274077.jpeg?acc=Y-MqewZ_Cpjob-k80rvWtQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214837_940_1995_274077.jpeg?acc=y-mqewz_cpjob-k80rvwtq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214838_940_1995_204391.jpeg?acc=ZoHgC4kaJPgfBKpBpWh7AQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214838_940_1995_204391.jpeg?acc=zohgc4kajpgfbkpbpwh7aq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214839_940_1995_262975.jpeg?acc=geK1KImudVyxKFlmvSjpjA&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214839_940_1995_262975.jpeg?acc=gek1kimudvyxkflmvsjpja&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214840_940_1995_265357.jpeg?acc=sEoIBs-ReEYIuE_1_FPwuA&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214840_940_1995_265357.jpeg?acc=seoibs-reeyiue_1_fpwua&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214841_940_1995_191407.jpeg?acc=MPDVZhSYS1FUsc0Ai6gWBQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214841_940_1995_191407.jpeg?acc=mpdvzhsys1fusc0ai6gwbq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214842_940_1989_210903.jpeg?acc=npvF7qhdlfUU85iHsrIlew&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214842_940_1989_210903.jpeg?acc=npvf7qhdlfuu85ihsrilew&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214843_940_1769_221639.jpeg?acc=CsQFu9eLfKa7_i3QmrmfEg&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214843_940_1769_221639.jpeg?acc=csqfu9elfka7_i3qmrmfeg&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214844_940_1769_181581.jpeg?acc=HGKyRCMEHdxoER3m96S3FQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214844_940_1769_181581.jpeg?acc=hgkyrcmehdxoer3m96s3fq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214847_940_1769_208999.jpeg?acc=nO57rmJAWBKOGLX1hfxgXg&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214847_940_1769_208999.jpeg?acc=no57rmjawbkoglx1hfxgxg&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214846_940_1769_184388.jpeg?acc=T2_zhMV7615vIe8E98wAsQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214846_940_1769_184388.jpeg?acc=t2_zhmv7615vie8e98wasq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214845_940_1769_166218.jpeg?acc=FKKx4k9Q_iW3zOD7kZaYkg&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214845_940_1769_166218.jpeg?acc=fkkx4k9q_iw3zod7kzaykg&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214848_940_1769_214760.jpeg?acc=2_Ko6hpJYseubaGNF_GMLw&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214848_940_1769_214760.jpeg?acc=2_ko6hpjyseubagnf_gmlw&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214849_940_1769_191703.jpeg?acc=CdZywvqa860FUxvExtdiOg&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214849_940_1769_191703.jpeg?acc=cdzywvqa860fuxvextdiog&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214850_940_1767_206465.jpeg?acc=pwZT9BGVAWrLN9aVkWIEhg&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214850_940_1767_206465.jpeg?acc=pwzt9bgvawrln9avkwiehg&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214851_940_1777_213431.jpeg?acc=p0umF2NAprfQBrXljxjvfg&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214851_940_1777_213431.jpeg?acc=p0umf2naprfqbrxljxjvfg&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214853_940_1777_128867.jpeg?acc=C1ZdpO1GzBpZq8odtkemuw&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214853_940_1777_128867.jpeg?acc=c1zdpo1gzbpzq8odtkemuw&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214855_940_1777_164218.jpeg?acc=cNV5n-sdwwdngpnFwR9cFQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214855_940_1777_164218.jpeg?acc=cnv5n-sdwwdngpnfwr9cfq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214857_940_1777_173488.jpeg?acc=bEBSeLTD6TYxmJ8IZ7szfg&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214857_940_1777_173488.jpeg?acc=bebseltd6tyxmj8iz7szfg&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214859_940_1777_188472.jpeg?acc=pUsVwlGOeh7Mt1zIOfznIA&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214859_940_1777_188472.jpeg?acc=pusvwlgoeh7mt1ziofznia&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214861_940_1777_243618.jpeg?acc=S5MpdnveYYkC55F35JH4DQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214861_940_1777_243618.jpeg?acc=s5mpdnveyykc55f35jh4dq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214863_940_1777_188302.jpeg?acc=Vj1tmysWPuBH1caRekRAsg&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214863_940_1777_188302.jpeg?acc=vj1tmyswpubh1carekrasg&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214864_940_1777_152225.jpeg?acc=Iy2vu4zzmDhCMs2vlBUa3g&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214864_940_1777_152225.jpeg?acc=iy2vu4zzmdhcms2vlbua3g&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214866_940_1759_219785.jpeg?acc=IJ4FUq5KUtPkw9wWeaZGxQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214866_940_1759_219785.jpeg?acc=ij4fuq5kutpkw9wweazgxq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214868_940_1759_142393.jpeg?acc=38ugxbS0ErWxqNZupGUDNQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214868_940_1759_142393.jpeg?acc=38ugxbs0erwxqnzupgudnq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214870_940_1759_273080.jpeg?acc=VAZp7rQueCIibJb2hLI_2Q&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214870_940_1759_273080.jpeg?acc=vazp7rqueciibjb2hli_2q&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214872_940_1759_189022.jpeg?acc=cRON8ANHv8OckTe2XegcxA&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214872_940_1759_189022.jpeg?acc=cron8anhv8ockte2xegcxa&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214874_940_1759_103384.jpeg?acc=lGCkp1BlxTj0gRcvLWTLcA&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214874_940_1759_103384.jpeg?acc=lgckp1blxtj0grcvlwtlca&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214876_940_1759_144302.jpeg?acc=ATbY6xZw1MlrfOeyzzUIQw&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214876_940_1759_144302.jpeg?acc=atby6xzw1mlrfoeyzzuiqw&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214878_940_1759_191630.jpeg?acc=LhfhYWb6UHb0X8M9g2zxVA&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214878_940_1759_191630.jpeg?acc=lhfhywb6uhb0x8m9g2zxva&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214880_940_1755_145399.jpeg?acc=PzY3fNf9QMonlFmWuq2SIQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214880_940_1755_145399.jpeg?acc=pzy3fnf9qmonlfmwuq2siq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214883_940_1922_205291.jpeg?acc=i7DMDxcj93ee7xuJTnpcnA&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214883_940_1922_205291.jpeg?acc=i7dmdxcj93ee7xujtnpcna&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214884_940_1922_272983.jpeg?acc=xj_VrDvfl0Rap1WT5m8fVQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214884_940_1922_272983.jpeg?acc=xj_vrdvfl0rap1wt5m8fvq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214886_940_1922_193268.jpeg?acc=Fi-3cun-jzYO9_FwDkXs4w&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214886_940_1922_193268.jpeg?acc=fi-3cun-jzyo9_fwdkxs4w&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214889_940_1922_178424.jpeg?acc=7WUEHWDC-Of-t3pVPeF6jw&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214889_940_1922_178424.jpeg?acc=7wuehwdc-of-t3pvpef6jw&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214891_940_1922_161661.jpeg?acc=Ysj1ZrMwJYuG4Mf6O64sJg&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214891_940_1922_161661.jpeg?acc=ysj1zrmwjyug4mf6o64sjg&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214893_940_1922_332071.jpeg?acc=PASEg6h9-IbN_5wXDHZa9Q&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214893_940_1922_332071.jpeg?acc=paseg6h9-ibn_5wxdhza9q&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214894_940_1922_250869.jpeg?acc=C6QZNmNRDYCjz-7pklrVNQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214894_940_1922_250869.jpeg?acc=c6qznmnrdycjz-7pklrvnq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214896_940_1919_232655.jpeg?acc=254iksvWkaNMIGg2i1edJw&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214896_940_1919_232655.jpeg?acc=254iksvwkanmigg2i1edjw&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214898_940_1709_168868.jpeg?acc=wTk-cajqEspmze9E29G_4g&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214898_940_1709_168868.jpeg?acc=wtk-cajqespmze9e29g_4g&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214900_940_1709_183907.jpeg?acc=VXySj3-rOcPlutgprGWfHw&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214900_940_1709_183907.jpeg?acc=vxysj3-rocplutgprgwfhw&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214902_940_1709_133318.jpeg?acc=-GwiDok72QIYkLk1dMfKnw&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214902_940_1709_133318.jpeg?acc=-gwidok72qiyklk1dmfknw&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214905_940_1709_221339.jpeg?acc=y_3-qNufx0zOmX_lHegcpA&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214905_940_1709_221339.jpeg?acc=y_3-qnufx0zomx_lhegcpa&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214906_940_1709_237306.jpeg?acc=EMSmgN8WfQKBL_IBbHO4YQ&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214906_940_1709_237306.jpeg?acc=emsmgn8wfqkbl_ibbho4yq&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214908_940_1704_92947.jpeg?acc=SUmT-nnWcdNsRuZvKarJ3A&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214908_940_1704_92947.jpeg?acc=sumt-nnwcdnsruzvkarj3a&exp=1610780064,46,false,true
+true,https://xcdn-210.bato.to/7002/36c/5fc0030a1379ea4f51550c63/2214910_940_672_63617.jpeg?acc=zEHmsvvbqKPMuqG0Gs_EUA&exp=1610780064,7002/36c/5fc0030a1379ea4f51550c63/2214910_940_672_63617.jpeg?acc=zehmsvvbqkpmuqg0gs_eua&exp=1610780064,46,false,true
+
+
+false,https://www.mangaread.org/wp-content/uploads/2017/10/llogos.png,wp-content/uploads/2017/10/llogos.png,2,false,true
+true,			
+			https://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/1.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/1.jpg,9,false,true
+true,			
+			https://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/2.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/2.jpg,9,false,true
+true,			
+			https://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/3.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/3.jpg,9,false,true
+true,			
+			https://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/4.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/4.jpg,9,false,true
+true,			
+			https://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/5.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/5.jpg,9,false,true
+true,			
+			https://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/6.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/6.jpg,9,false,true
+true,			
+			https://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/7.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/7.jpg,9,false,true
+true,			
+			https://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/8.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/8.jpg,9,false,true
+true,			
+			https://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/9.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/9.jpg,9,false,true
+true,			
+			https://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/10.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/10.jpg,9,false,true
+false,https://www.mangaread.org/wp-content/uploads/2020/02/home.png,wp-content/uploads/2020/02/home.png,2,false,true
+false,https://www.mangaread.org/wp-content/themes/madara/images/dflazy.jpg,wp-content/themes/madara/images/dflazy.jpg,2,false,true
+false,//logs.vlitag.com/sub/?d=mangaread.org&h=www.mangaread.org,//logs.vlitag.com/sub/?d=mangaread.org&h=www.mangaread.org,0,false,true
+false,https://zem.outbrainimg.com/p/srv/sha/e3/75/15/bf8355fdf04038ca10262539f1d5c86a7d.jpg?w=90&h=70&fit=crop&crop=center&fm=jpg,p/srv/sha/e3/75/15/bf8355fdf04038ca10262539f1d5c86a7d.jpg?w=90&h=70&fit=crop&crop=center&fm=jpg,0,false,false
+false,https://rt3014.infolinks.com/action/adview.htm?rid=b56617ed-c7eb-4315-9d2a-10150eaa2791&bdc=1&midx=0&emd=NDI0fjU5MTkwOV81OTE5MTE&rts=1610779505972&prod_t=d&jsv=1722.011-3.010.ab.1724.007-3.010&sdata=email&scs=PVa8PcBKFn&rsd=Dr3r7wwQQhCmKW_sVu6ydM0j8fTJ8BKgrooGxEegpimOnrTX58eM5Q6P3HinIZCpOeAiUE3XNxtzDX9E5a8wIoXzIfMLo7kCttPfhp2z4s3LcxbW7yQ-S7AOWHWdRyfAlQqfaHn6cToXDdlIPXJ7ZKeTLDFoDYiH&rsk=59&rcs=QrXVPRlQc-zYDkxxSGc2jA,action/adview.htm?rid=b56617ed-c7eb-4315-9d2a-10150eaa2791&bdc=1&midx=0&emd=ndi0fju5mtkwov81ote5mte&rts=1610779505972&prod_t=d&jsv=1722.011-3.010.ab.1724.007-3.010&sdata=email&scs=pva8pcbkfn&rsd=dr3r7wwqqhcmkw_svu6ydm0j8ftj8bkgroogxeegpimonrtx58em5q6p3hinizcpoeaiue3xnxtzdx9e5a8wioxzifmlo7kcttpfhp2z4s3lcxbw7yq-s7aowhwdryfalqqfahn6ctoxddlipxj7zketldfodyih&rsk=59&rcs=qrxvprlqc-zydkxxsgc2ja,1,false,false
+false,https://node75.impressionssl.adshop.infolinks.com/impression/?vh=874718566&agy=414981&aid=590640&cid=591909&gid=591910&id=591911&st=1610779505&kwid=0&skw=email&sid=3306463_0&sip=2285114880&pid=15&tid=2&mime=image/png&dev=1&mtyp=501&agtyp=0&rid=b56617ed-c7eb-4315-9d2a-10150eaa2791&idfa=&gaid=&kw_cat=300&pixel=1,impression/?vh=874718566&agy=414981&aid=590640&cid=591909&gid=591910&id=591911&st=1610779505&kwid=0&skw=email&sid=3306463_0&sip=2285114880&pid=15&tid=2&mime=image/png&dev=1&mtyp=501&agtyp=0&rid=b56617ed-c7eb-4315-9d2a-10150eaa2791&idfa=&gaid=&kw_cat=300&pixel=1,0,false,false
+false,https://rt3014.infolinks.com/action/adview.htm?rid=b56617ed-c7eb-4315-9d2a-10150eaa2791&bdc=2&midx=0&emd=NDg0fndvcmRzYS5jb20&rts=1610779505995&prod_t=h&jsv=1722.011-3.010.ab.1724.007-3.010&sdata=brief&scs=nC7n0qq6u2&rsd=Dr3r7wwQQhCmKW_sVu6ydM0j8fTJ8BKgrooGxEegpimOnrTX58eM5Q6P3HinIZCpOeAiUE3XNxtzDX9E5a8wIoXzIfMLo7kCttPfhp2z4s3LcxbW7yQ-S7AOWHWdRyfAlQqfaHn6cToXDdlIPXJ7ZKeTLDFoDYiH&rsk=59&rcs=QrXVPRlQc-zYDkxxSGc2jA,action/adview.htm?rid=b56617ed-c7eb-4315-9d2a-10150eaa2791&bdc=2&midx=0&emd=ndg0fndvcmrzys5jb20&rts=1610779505995&prod_t=h&jsv=1722.011-3.010.ab.1724.007-3.010&sdata=brief&scs=nc7n0qq6u2&rsd=dr3r7wwqqhcmkw_svu6ydm0j8ftj8bkgroogxeegpimonrtx58em5q6p3hinizcpoeaiue3xnxtzdx9e5a8wioxzifmlo7kcttpfhp2z4s3lcxbw7yq-s7aowhwdryfalqqfahn6ctoxddlipxj7zketldfodyih&rsk=59&rcs=qrxvprlqc-zydkxxsgc2ja,1,false,false
+false,https://b1t-nydc1.zemanta.com/t/imp/impression/RVEHM24COZTRNB2KMKD32EDXU5GCBXYORQXGADYSSVWILJLC4JVU54ULDX4JF4ZVQN6TC5NYAVVKFYEB3EGTN4HPQNVP4MOI4DXJ6Q4GBCEE5DC7MM4OPF4QUBTPT6FV76BOEZIPMFRDZDX2NI4AHLLXL2R3MSW6RZVR533UF7YAOPCFH4RYM4ZVKCDEUB2USUILWP5ESXBNJBRJ7T2RGQ3VEOZBT2VE7ZIBRWMY4GBXWXUFFIRTJ2SKTJD5K5J5QYVAENXAZIYTK,t/imp/impression/rvehm24coztrnb2kmkd32edxu5gcbxyorqxgadyssvwiljlc4jvu54uldx4jf4zvqn6tc5nyavvkfyeb3egtn4hpqnvp4moi4dxj6q4gbcee5dc7mm4opf4qubtpt6fv76boezipmfrdzdx2ni4ahllxl2r3msw6rzvr533uf7yaopcfh4rym4zvkcdeub2usuilwp5esxbnjbrj7t2rgq3veozbt2ve7zibrwmy4gbxwxuffirtj2sktjd5k5j5qyvaenxaziytk,0,false,false
+false,https://sb.scorecardresearch.com/p?c1=7&c2=14320224&c3=123456&cv=2.0&cj=1&cs_ucfr=1,p?c1=7&c2=14320224&c3=123456&cv=2.0&cj=1&cs_ucfr=1,0,false,false
+
+
+
+false,/logo.png,/logo.png,1,false,false
+false,/logo-small.png,/logo-small.png,1,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/1.jpg,file/imghub/fairy-tail-100-years-quest/72/1.jpg,11,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/2.jpg,file/imghub/fairy-tail-100-years-quest/72/2.jpg,11,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/3.jpg,file/imghub/fairy-tail-100-years-quest/72/3.jpg,11,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/4.jpg,file/imghub/fairy-tail-100-years-quest/72/4.jpg,11,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/5.jpg,file/imghub/fairy-tail-100-years-quest/72/5.jpg,11,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/6.jpg,file/imghub/fairy-tail-100-years-quest/72/6.jpg,11,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/7.jpg,file/imghub/fairy-tail-100-years-quest/72/7.jpg,11,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/8.jpg,file/imghub/fairy-tail-100-years-quest/72/8.jpg,11,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/9.jpg,file/imghub/fairy-tail-100-years-quest/72/9.jpg,11,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/10.jpg,file/imghub/fairy-tail-100-years-quest/72/10.jpg,11,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/11.jpg,file/imghub/fairy-tail-100-years-quest/72/11.jpg,11,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/12.jpg,file/imghub/fairy-tail-100-years-quest/72/12.jpg,11,false,false
+false,//s3t3d2y7.ackcdn.net/images/close-icon-circle.png,//s3t3d2y7.ackcdn.net/images/close-icon-circle.png,0,false,false

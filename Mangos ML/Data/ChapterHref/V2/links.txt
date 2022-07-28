@@ -1,0 +1,8 @@
+    private static var testChapterLinks = [
+        "https://mangahere.onl/manga/return-of-immortal-emperor",
+        "https://mangapanda.onl/manga/coffee-vanilla",
+        "https://kissmanga.org/manga/dz919342",
+        "https://bato.to/series/80296/flirting-with-the-villain-s-dad",
+        "https://www.mangaread.org/manga/cultivator-against-hero-society/",
+        "https://mangareader.site/manga/fairy-tail-100-years-quest_103"
+    ]

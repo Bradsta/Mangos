@@ -1,0 +1,1152 @@
+isChapter, link, compareLink, text, isChildLink, similarityRatio, containsChapter, endsWithNumber
+false,https://mangahere.onl/opensearch.xml,opensearch.xml,,false,0.0030581039755351682,false,false
+false,https://mangahere.onl/manga/return-of-immortal-emperor,manga/return-of-immortal-emperor,,true,0.03669724770642202,false,false
+false,/apple-touch-icon.png,/apple-touch-icon.png,,false,0.0030581039755351682,false,false
+false,/favicon-32x32.png,/favicon-32x32.png,,false,0.0061162079510703364,false,true
+false,/favicon-16x16.png,/favicon-16x16.png,,false,0.0061162079510703364,false,true
+false,/manifest.json,/manifest.json,,false,0.0030581039755351682,false,false
+false,/safari-pinned-tab.svg,/safari-pinned-tab.svg,,false,0.0030581039755351682,false,false
+false,https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700,css?family=roboto:400,400i,500,700,,false,0.0030581039755351682,false,true
+false,/css/bootstrap.css?v=200927,/css/bootstrap.css?v=200927,,false,0.009174311926605505,false,true
+false,/assets/vendors.f3db9421.chunk.js,/assets/vendors.f3db9421.chunk.js,,false,0.012232415902140673,false,true
+false,/assets/client.895406fe.js,/assets/client.895406fe.js,,false,0.0030581039755351682,false,true
+false,/assets/vendors~chapter~contact~directory~home~login~manga~not-found~privacy~terms~user.c4c05cdd.chunk.js,/assets/vendors~chapter~contact~directory~home~login~manga~not-found~privacy~terms~user.c4c05cdd.chunk.js,,false,0.0061162079510703364,true,true
+false,/assets/vendors~chapter~manga~user.3e00107c.chunk.js,/assets/vendors~chapter~manga~user.3e00107c.chunk.js,,false,0.012232415902140673,true,true
+false,/assets/vendors~chapter~manga.23f0149f.chunk.js,/assets/vendors~chapter~manga.23f0149f.chunk.js,,false,0.012232415902140673,true,true
+false,/assets/contact~directory~home~login~manga~not-found~privacy~terms~user.444df516.chunk.js,/assets/contact~directory~home~login~manga~not-found~privacy~terms~user.444df516.chunk.js,,false,0.0061162079510703364,false,true
+false,/assets/manga.d81c8031.chunk.js,/assets/manga.d81c8031.chunk.js,,false,0.012232415902140673,false,true
+false,https://c.disquscdn.com/next/embed/styles/lounge.45ce3ab7627dd20241bfd7e5b01d3737.css,next/embed/styles/lounge.45ce3ab7627dd20241bfd7e5b01d3737.css,,false,0.009174311926605505,false,true
+false,https://c.disquscdn.com/next/embed/common.bundle.2f2f40d40785c9541a90e9086c8770a3.js,next/embed/common.bundle.2f2f40d40785c9541a90e9086c8770a3.js,,false,0.009174311926605505,false,true
+false,https://c.disquscdn.com/next/embed/lounge.bundle.ace98c1ec418cae085455f6914352928.js,next/embed/lounge.bundle.ace98c1ec418cae085455f6914352928.js,,false,0.009174311926605505,false,true
+false,https://disqus.com/next/config.js,next/config.js,,false,0.0030581039755351682,false,false
+false,https://mangahere.onl,https://mangahere.onl,MangaHere.onl,false,0.0061162079510703364,false,false
+false,https://mangahere.onl/login,login,,false,0.0030581039755351682,false,false
+false,https://mangahere.onl/search,search,Directory,false,0.0030581039755351682,false,false
+false,https://mangahere.onl/popular,popular,Popular,false,0.0030581039755351682,false,false
+false,https://mangahere.onl/updates,updates,Updates,false,0.0030581039755351682,false,false
+false,https://mangahere.onl/new,new,New,false,0.0030581039755351682,false,false
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-248,chapter/return-of-immortal-emperor/chapter-248,Chapter 248,true,0.8103975535168195,true,true
+false,https://mangahere.onl/genre/action,genre/action,Action,false,0.01529051987767584,false,false
+false,https://mangahere.onl/genre/adventure,genre/adventure,Adventure,false,0.01529051987767584,false,false
+false,https://mangahere.onl/genre/fantasy,genre/fantasy,Fantasy,false,0.01529051987767584,false,false
+false,https://mangahere.onl/genre/shounen,genre/shounen,Shounen,false,0.01529051987767584,false,false
+false,https://mangahere.onl/genre/webtoons,genre/webtoons,Webtoons,false,0.01529051987767584,false,false
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-155,chapter/return-of-immortal-emperor/chapter-155,Continue #155,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-1,chapter/return-of-immortal-emperor/chapter-1,Start Reading,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-247,chapter/return-of-immortal-emperor/chapter-247,#247 - 247-eng-li2 days ago,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-246,chapter/return-of-immortal-emperor/chapter-246,#246 - Chapter 2464 days ago,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-245,chapter/return-of-immortal-emperor/chapter-245,#245 - Chapter 2451 weeks ago,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-244,chapter/return-of-immortal-emperor/chapter-244,#244 - Chapter 2442 weeks ago,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-243,chapter/return-of-immortal-emperor/chapter-243,#243 - Chapter 2432 weeks ago,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-242,chapter/return-of-immortal-emperor/chapter-242,#242 - Chapter 2423 weeks ago,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-241,chapter/return-of-immortal-emperor/chapter-241,#241 - Chapter 2413 weeks ago,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-240,chapter/return-of-immortal-emperor/chapter-240,#240 - Chapter 2403 weeks ago,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-239,chapter/return-of-immortal-emperor/chapter-239,#239 - Chapter 2394 weeks ago,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-238,chapter/return-of-immortal-emperor/chapter-238,#238 - Chapter 2384 weeks ago,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-237,chapter/return-of-immortal-emperor/chapter-237,#237 - Chapter 2374 weeks ago,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-236,chapter/return-of-immortal-emperor/chapter-236,#236 - Chapter 23610-06-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-235,chapter/return-of-immortal-emperor/chapter-235,#235 - Chapter 23510-02-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-234,chapter/return-of-immortal-emperor/chapter-234,#234 - Chapter 23409-27-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-233,chapter/return-of-immortal-emperor/chapter-233,#233 - Chapter 23309-21-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-232,chapter/return-of-immortal-emperor/chapter-232,#232 - chapter 23209-16-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-231,chapter/return-of-immortal-emperor/chapter-231,#231 - Chapter 23109-10-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-230,chapter/return-of-immortal-emperor/chapter-230,#230 - Chapter 23009-09-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-229,chapter/return-of-immortal-emperor/chapter-229,#229 - Chapter 22909-04-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-228,chapter/return-of-immortal-emperor/chapter-228,#228 - Chapter 22808-30-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-227,chapter/return-of-immortal-emperor/chapter-227,#227 - Chapter 22708-25-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-226,chapter/return-of-immortal-emperor/chapter-226,#226 - Chapter 22608-25-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-225,chapter/return-of-immortal-emperor/chapter-225,#225 - Chapter 22508-24-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-224,chapter/return-of-immortal-emperor/chapter-224,#224 - Chapter 22408-21-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-223,chapter/return-of-immortal-emperor/chapter-223,#223 - Chapter 22308-17-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-222,chapter/return-of-immortal-emperor/chapter-222,#222 - Chapter 22208-14-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-221,chapter/return-of-immortal-emperor/chapter-221,#221 - Chapter 22108-10-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-220,chapter/return-of-immortal-emperor/chapter-220,#220 - Chapter 22008-07-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-219,chapter/return-of-immortal-emperor/chapter-219,#219 - Chapter 21908-06-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-218,chapter/return-of-immortal-emperor/chapter-218,#218 - Chapter 21808-01-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-217,chapter/return-of-immortal-emperor/chapter-217,#217 - Chapter 21707-28-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-216,chapter/return-of-immortal-emperor/chapter-216,#216 - Chapter 21607-24-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-215,chapter/return-of-immortal-emperor/chapter-215,#215 - Chapter 21507-20-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-214,chapter/return-of-immortal-emperor/chapter-214,#214 - Chapter 21407-17-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-213,chapter/return-of-immortal-emperor/chapter-213,#213 - Chapter 21307-10-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-212,chapter/return-of-immortal-emperor/chapter-212,#212 - Chapter 21207-03-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-211,chapter/return-of-immortal-emperor/chapter-211,#211 - Chapter 21106-28-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-210,chapter/return-of-immortal-emperor/chapter-210,#210 - Chapter 21006-25-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-209,chapter/return-of-immortal-emperor/chapter-209,#209 - Chapter 20906-21-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-208,chapter/return-of-immortal-emperor/chapter-208,#208 - Chapter 20806-18-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-207,chapter/return-of-immortal-emperor/chapter-207,#207 - Chapter 20706-15-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-206,chapter/return-of-immortal-emperor/chapter-206,#206 - Chapter 20606-11-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-205,chapter/return-of-immortal-emperor/chapter-205,#205 - Chapter 20506-08-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-204,chapter/return-of-immortal-emperor/chapter-204,#204 - Chapter 20406-08-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-203,chapter/return-of-immortal-emperor/chapter-203,#203 - Chapter 20306-07-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-202,chapter/return-of-immortal-emperor/chapter-202,#202 - Chapter 20206-05-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-201,chapter/return-of-immortal-emperor/chapter-201,#201 - Chapter 20105-30-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-200,chapter/return-of-immortal-emperor/chapter-200,#200 - Chapter 20005-23-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-199,chapter/return-of-immortal-emperor/chapter-199,#199 - Chapter 19905-20-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-198,chapter/return-of-immortal-emperor/chapter-198,#198 - Chapter 19805-17-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-197,chapter/return-of-immortal-emperor/chapter-197,#197 - Chapter 19705-14-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-196,chapter/return-of-immortal-emperor/chapter-196,#196 - Chapter 19605-12-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-195,chapter/return-of-immortal-emperor/chapter-195,#195 - Chapter 19505-09-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-194,chapter/return-of-immortal-emperor/chapter-194,#194 - Chapter 19405-07-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-193,chapter/return-of-immortal-emperor/chapter-193,#193 - Chapter 19304-30-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-192,chapter/return-of-immortal-emperor/chapter-192,#192 - Chapter 19204-26-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-191,chapter/return-of-immortal-emperor/chapter-191,#191 - Chapter 19104-19-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-190,chapter/return-of-immortal-emperor/chapter-190,#190 - Chapter 19004-16-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-189,chapter/return-of-immortal-emperor/chapter-189,#189 - Chapter 18904-13-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-188,chapter/return-of-immortal-emperor/chapter-188,#188 - Chapter 18804-10-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-187,chapter/return-of-immortal-emperor/chapter-187,#187 - Chapter 18704-08-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-186,chapter/return-of-immortal-emperor/chapter-186,#186 - Chapter 18604-07-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-185,chapter/return-of-immortal-emperor/chapter-185,#185 - chapter 18504-04-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-184,chapter/return-of-immortal-emperor/chapter-184,#184 - Chapter 18404-02-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-183,chapter/return-of-immortal-emperor/chapter-183,#183 - Chapter 18303-31-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-182,chapter/return-of-immortal-emperor/chapter-182,#182 - chapter 18203-29-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-181,chapter/return-of-immortal-emperor/chapter-181,#181 - chapter 18103-29-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-180,chapter/return-of-immortal-emperor/chapter-180,#180 - Chapter 18003-27-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-179,chapter/return-of-immortal-emperor/chapter-179,#179 - Chapter 17903-26-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-178,chapter/return-of-immortal-emperor/chapter-178,#178 - Chapter 17803-26-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-177,chapter/return-of-immortal-emperor/chapter-177,#177 - Chapter 17703-26-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-176,chapter/return-of-immortal-emperor/chapter-176,#176 - Chapter 17603-25-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-175,chapter/return-of-immortal-emperor/chapter-175,#175 - Chapter 17503-23-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-174,chapter/return-of-immortal-emperor/chapter-174,#174 - Chapter 17403-19-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-173,chapter/return-of-immortal-emperor/chapter-173,#173 - Chapter 17303-16-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-172,chapter/return-of-immortal-emperor/chapter-172,#172 - Chapter 17203-12-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-171,chapter/return-of-immortal-emperor/chapter-171,#171 - Chapter 17103-08-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-170,chapter/return-of-immortal-emperor/chapter-170,#170 - Chapter 17003-03-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-169,chapter/return-of-immortal-emperor/chapter-169,#169 - Chapter 16902-25-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-168,chapter/return-of-immortal-emperor/chapter-168,#168 - Chapter 16802-20-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-167,chapter/return-of-immortal-emperor/chapter-167,#167 - Chapter 16702-12-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-166,chapter/return-of-immortal-emperor/chapter-166,#166 - Chapter 16602-08-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-165,chapter/return-of-immortal-emperor/chapter-165,#165 - Chapter 16502-03-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-164,chapter/return-of-immortal-emperor/chapter-164,#164 - Chapter 16401-31-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-163,chapter/return-of-immortal-emperor/chapter-163,#163 - Chapter 16301-25-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-162,chapter/return-of-immortal-emperor/chapter-162,#162 - Chapter 16201-19-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-161,chapter/return-of-immortal-emperor/chapter-161,#161 - Chapter 16101-17-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-160,chapter/return-of-immortal-emperor/chapter-160,#160 - Chapter 16001-14-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-159,chapter/return-of-immortal-emperor/chapter-159,#159 - Chapter 15901-11-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-158,chapter/return-of-immortal-emperor/chapter-158,#158 - Chapter 15801-09-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-157,chapter/return-of-immortal-emperor/chapter-157,#157 - Chapter 15701-07-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-156,chapter/return-of-immortal-emperor/chapter-156,#156 - chapter 15601-06-2021,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-154,chapter/return-of-immortal-emperor/chapter-154,#154 - Chapter 15412-31-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-153,chapter/return-of-immortal-emperor/chapter-153,#153 - Chapter 15312-28-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-152,chapter/return-of-immortal-emperor/chapter-152,#152 - Chapter 15212-24-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-151,chapter/return-of-immortal-emperor/chapter-151,#151 - Chapter 15112-19-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-150,chapter/return-of-immortal-emperor/chapter-150,#150 - Chapter 15012-14-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-149,chapter/return-of-immortal-emperor/chapter-149,#149 - Chapter 14912-10-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-148,chapter/return-of-immortal-emperor/chapter-148,#148 - Chapter 14812-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-147,chapter/return-of-immortal-emperor/chapter-147,#147 - Chapter 14712-02-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-146,chapter/return-of-immortal-emperor/chapter-146,#146 - Chapter 14611-26-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-145,chapter/return-of-immortal-emperor/chapter-145,#145 - Chapter 14511-23-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-144,chapter/return-of-immortal-emperor/chapter-144,#144 - Chapter 14411-21-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-143,chapter/return-of-immortal-emperor/chapter-143,#143 - Chapter 14311-17-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-142,chapter/return-of-immortal-emperor/chapter-142,#142 - Chapter 14211-09-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-141,chapter/return-of-immortal-emperor/chapter-141,#141 - Chapter 14111-04-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-140,chapter/return-of-immortal-emperor/chapter-140,#140 - Chapter 14010-31-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-139,chapter/return-of-immortal-emperor/chapter-139,#139 - Chapter 13910-27-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-138,chapter/return-of-immortal-emperor/chapter-138,#138 - Chapter 13810-22-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-137,chapter/return-of-immortal-emperor/chapter-137,#137 - Chapter 13710-22-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-136,chapter/return-of-immortal-emperor/chapter-136,#136 - Chapter 13610-22-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-135,chapter/return-of-immortal-emperor/chapter-135,#135 - Chapter 13510-20-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-134,chapter/return-of-immortal-emperor/chapter-134,#134 - Chapter 13410-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-133,chapter/return-of-immortal-emperor/chapter-133,#133 - Chapter 13310-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-132,chapter/return-of-immortal-emperor/chapter-132,#132 - Chapter 13210-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-131,chapter/return-of-immortal-emperor/chapter-131,#131 - Chapter 13110-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-130,chapter/return-of-immortal-emperor/chapter-130,#130 - Chapter 13010-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-129,chapter/return-of-immortal-emperor/chapter-129,#129 - Chapter 12910-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-128,chapter/return-of-immortal-emperor/chapter-128,#128 - Chapter 12810-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-127,chapter/return-of-immortal-emperor/chapter-127,#127 - Chapter 12710-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-126,chapter/return-of-immortal-emperor/chapter-126,#126 - Chapter 12610-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-125,chapter/return-of-immortal-emperor/chapter-125,#125 - Chapter 12510-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-124,chapter/return-of-immortal-emperor/chapter-124,#124 - Chapter 12410-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-123,chapter/return-of-immortal-emperor/chapter-123,#123 - Chapter 12310-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-122,chapter/return-of-immortal-emperor/chapter-122,#122 - Chapter 12210-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-121,chapter/return-of-immortal-emperor/chapter-121,#121 - Chapter 12110-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-120,chapter/return-of-immortal-emperor/chapter-120,#120 - Chapter 12010-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-119,chapter/return-of-immortal-emperor/chapter-119,#119 - Chapter 11910-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-118,chapter/return-of-immortal-emperor/chapter-118,#118 - Chapter 11810-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-117,chapter/return-of-immortal-emperor/chapter-117,#117 - Chapter 11710-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-116,chapter/return-of-immortal-emperor/chapter-116,#116 - Chapter 11610-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-115,chapter/return-of-immortal-emperor/chapter-115,#115 - Chapter 11510-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-114,chapter/return-of-immortal-emperor/chapter-114,#114 - Chapter 11410-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-113,chapter/return-of-immortal-emperor/chapter-113,#113 - Chapter 11310-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-112,chapter/return-of-immortal-emperor/chapter-112,#112 - Chapter 11210-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-111,chapter/return-of-immortal-emperor/chapter-111,#111 - Chapter 11110-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-110,chapter/return-of-immortal-emperor/chapter-110,#110 - Chapter 11010-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-109,chapter/return-of-immortal-emperor/chapter-109,#109 - Chapter 10910-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-108,chapter/return-of-immortal-emperor/chapter-108,#108 - Chapter 10810-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-107,chapter/return-of-immortal-emperor/chapter-107,#107 - Chapter 10710-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-106,chapter/return-of-immortal-emperor/chapter-106,#106 - Chapter 10610-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-105,chapter/return-of-immortal-emperor/chapter-105,#105 - Chapter 10510-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-104,chapter/return-of-immortal-emperor/chapter-104,#104 - Chapter 10410-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-103,chapter/return-of-immortal-emperor/chapter-103,#103 - Chapter 10310-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-102,chapter/return-of-immortal-emperor/chapter-102,#102 - Chapter 10210-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-101,chapter/return-of-immortal-emperor/chapter-101,#101 - Chapter 10110-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-100,chapter/return-of-immortal-emperor/chapter-100,#100 - Chapter 10010-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-99,chapter/return-of-immortal-emperor/chapter-99,#99 - Chapter 9910-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-98,chapter/return-of-immortal-emperor/chapter-98,#98 - Chapter 9810-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-97,chapter/return-of-immortal-emperor/chapter-97,#97 - Chapter 9710-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-96,chapter/return-of-immortal-emperor/chapter-96,#96 - Chapter 9610-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-95,chapter/return-of-immortal-emperor/chapter-95,#95 - Chapter 9510-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-94,chapter/return-of-immortal-emperor/chapter-94,#94 - Chapter 9410-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-93,chapter/return-of-immortal-emperor/chapter-93,#93 - Chapter 9310-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-92,chapter/return-of-immortal-emperor/chapter-92,#92 - Chapter 9210-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-91,chapter/return-of-immortal-emperor/chapter-91,#91 - Chapter 9110-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-90,chapter/return-of-immortal-emperor/chapter-90,#90 - Chapter 9010-06-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-89,chapter/return-of-immortal-emperor/chapter-89,#89 - Chapter 8910-03-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-88,chapter/return-of-immortal-emperor/chapter-88,#88 - Chapter 8809-29-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-87,chapter/return-of-immortal-emperor/chapter-87,#87 - Chapter 8709-27-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-86,chapter/return-of-immortal-emperor/chapter-86,#86 - Chapter 8609-23-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-85,chapter/return-of-immortal-emperor/chapter-85,#85 - Chapter 8509-20-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-84,chapter/return-of-immortal-emperor/chapter-84,#84 - Chapter 8409-17-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-83,chapter/return-of-immortal-emperor/chapter-83,#83 - Chapter 8309-14-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-82,chapter/return-of-immortal-emperor/chapter-82,#82 - Chapter 8209-10-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-81,chapter/return-of-immortal-emperor/chapter-81,#81 - Chapter 8109-08-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-80,chapter/return-of-immortal-emperor/chapter-80,#80 - Chapter 8009-05-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-79,chapter/return-of-immortal-emperor/chapter-79,#79 - Chapter 7909-02-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-78,chapter/return-of-immortal-emperor/chapter-78,#78 - Chapter 7808-31-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-77,chapter/return-of-immortal-emperor/chapter-77,#77 - Chapter 7708-28-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-76,chapter/return-of-immortal-emperor/chapter-76,#76 - Chapter 7608-25-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-75,chapter/return-of-immortal-emperor/chapter-75,#75 - Chapter 7508-23-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-74,chapter/return-of-immortal-emperor/chapter-74,#74 - Chapter 7408-20-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-73,chapter/return-of-immortal-emperor/chapter-73,#73 - Chapter 7308-16-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-72,chapter/return-of-immortal-emperor/chapter-72,#72 - Chapter 7208-12-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-71,chapter/return-of-immortal-emperor/chapter-71,#71 - Chapter 7108-12-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-70,chapter/return-of-immortal-emperor/chapter-70,#70 - Chapter 7008-09-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-69,chapter/return-of-immortal-emperor/chapter-69,#69 - Chapter 6908-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-68,chapter/return-of-immortal-emperor/chapter-68,#68 - Chapter 6808-04-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-67,chapter/return-of-immortal-emperor/chapter-67,#67 - Chapter 6708-02-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-66,chapter/return-of-immortal-emperor/chapter-66,#66 - Chapter 6607-31-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-65,chapter/return-of-immortal-emperor/chapter-65,#65 - Chapter 6507-29-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-64,chapter/return-of-immortal-emperor/chapter-64,#64 - Chapter 6407-26-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-63,chapter/return-of-immortal-emperor/chapter-63,#63 - Chapter 6307-23-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-62,chapter/return-of-immortal-emperor/chapter-62,#62 - Chapter 6207-20-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-61,chapter/return-of-immortal-emperor/chapter-61,#61 - Chapter 6107-18-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-60,chapter/return-of-immortal-emperor/chapter-60,#60 - Chapter 6007-18-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-59,chapter/return-of-immortal-emperor/chapter-59,#59 - Chapter 5907-08-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-58,chapter/return-of-immortal-emperor/chapter-58,#58 - Chapter 5807-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-57,chapter/return-of-immortal-emperor/chapter-57,#57 - Chapter 5707-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-56,chapter/return-of-immortal-emperor/chapter-56,#56 - Chapter 5607-03-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-55,chapter/return-of-immortal-emperor/chapter-55,#55 - Chapter 5506-24-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-54,chapter/return-of-immortal-emperor/chapter-54,#54 - Chapter 5406-23-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-53,chapter/return-of-immortal-emperor/chapter-53,#53 - Chapter 5306-10-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-52,chapter/return-of-immortal-emperor/chapter-52,#52 - Chapter 5206-02-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-51,chapter/return-of-immortal-emperor/chapter-51,#51 - Chapter 5105-25-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-50,chapter/return-of-immortal-emperor/chapter-50,#50 - Chapter 5005-18-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-49,chapter/return-of-immortal-emperor/chapter-49,#49 - Chapter 4905-11-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-48,chapter/return-of-immortal-emperor/chapter-48,#48 - Chapter 4805-04-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-47,chapter/return-of-immortal-emperor/chapter-47,#47 - Chapter 4704-28-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-46,chapter/return-of-immortal-emperor/chapter-46,#46 - Chapter 4604-27-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-45,chapter/return-of-immortal-emperor/chapter-45,#45 - Chapter 4504-24-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-44,chapter/return-of-immortal-emperor/chapter-44,#44 - Chapter 4404-22-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-43,chapter/return-of-immortal-emperor/chapter-43,#43 - Chapter 4304-20-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-42,chapter/return-of-immortal-emperor/chapter-42,#42 - Chapter 4204-17-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-41,chapter/return-of-immortal-emperor/chapter-41,#41 - Chapter 4104-17-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-40,chapter/return-of-immortal-emperor/chapter-40,#40 - Chapter 4004-16-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-39,chapter/return-of-immortal-emperor/chapter-39,#39 - Chapter 3904-16-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-38,chapter/return-of-immortal-emperor/chapter-38,#38 - Chapter 3804-15-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-37,chapter/return-of-immortal-emperor/chapter-37,#37 - Chapter 3704-15-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-36,chapter/return-of-immortal-emperor/chapter-36,#36 - Chapter 3604-15-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-35,chapter/return-of-immortal-emperor/chapter-35,#35 - Chapter 3504-14-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-34,chapter/return-of-immortal-emperor/chapter-34,#34 - Chapter 3404-14-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-33,chapter/return-of-immortal-emperor/chapter-33,#33 - Chapter 3304-14-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-32,chapter/return-of-immortal-emperor/chapter-32,#32 - Chapter 3204-14-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-31,chapter/return-of-immortal-emperor/chapter-31,#31 - Chapter 3104-14-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-30,chapter/return-of-immortal-emperor/chapter-30,#30 - Chapter 3004-14-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-29,chapter/return-of-immortal-emperor/chapter-29,#29 - Chapter 2904-06-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-28,chapter/return-of-immortal-emperor/chapter-28,#28 - Chapter 2803-30-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-27,chapter/return-of-immortal-emperor/chapter-27,#27 - Chapter 2703-23-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-26,chapter/return-of-immortal-emperor/chapter-26,#26 - Chapter 2603-16-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-25,chapter/return-of-immortal-emperor/chapter-25,#25 - Chapter 2503-09-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-24,chapter/return-of-immortal-emperor/chapter-24,#24 - Chapter 2403-09-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-23,chapter/return-of-immortal-emperor/chapter-23,#23 - Chapter 2303-02-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-22,chapter/return-of-immortal-emperor/chapter-22,#22 - Chapter 2202-24-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-21,chapter/return-of-immortal-emperor/chapter-21,#21 - Chapter 2102-17-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-20,chapter/return-of-immortal-emperor/chapter-20,#20 - Chapter 2002-17-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-19,chapter/return-of-immortal-emperor/chapter-19,#19 - Chapter 1902-10-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-18,chapter/return-of-immortal-emperor/chapter-18,#18 - Chapter 1802-03-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-17,chapter/return-of-immortal-emperor/chapter-17,#17 - Chapter 1701-27-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-16,chapter/return-of-immortal-emperor/chapter-16,#16 - Chapter 1601-20-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-15,chapter/return-of-immortal-emperor/chapter-15,#15 - Chapter 1501-14-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-14,chapter/return-of-immortal-emperor/chapter-14,#14 - Ch.01401-07-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-13,chapter/return-of-immortal-emperor/chapter-13,#13 - Chapter 1301-05-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-12,chapter/return-of-immortal-emperor/chapter-12,#12 - Chapter 1201-01-2020,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-11,chapter/return-of-immortal-emperor/chapter-11,#11 - Chapter 1112-26-2019,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-10,chapter/return-of-immortal-emperor/chapter-10,#10 - Chapter 1012-25-2019,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-9,chapter/return-of-immortal-emperor/chapter-9,#9 - Chapter 912-18-2019,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-8,chapter/return-of-immortal-emperor/chapter-8,#8 - Chapter 812-10-2019,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-7,chapter/return-of-immortal-emperor/chapter-7,#7 - Chapter 712-02-2019,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-6,chapter/return-of-immortal-emperor/chapter-6,#6 - Chapter 611-26-2019,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-5,chapter/return-of-immortal-emperor/chapter-5,#5 - Chapter 511-21-2019,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-4,chapter/return-of-immortal-emperor/chapter-4,#4 - Chapter 411-20-2019,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-3,chapter/return-of-immortal-emperor/chapter-3,#3 - Chapter 311-20-2019,true,0.8103975535168195,true,true
+true,https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-2,chapter/return-of-immortal-emperor/chapter-2,#2 - Chapter 211-20-2019,true,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/spirit-sword-sovereign,manga/spirit-sword-sovereign,,false,0.024464831804281346,false,false
+false,https://mangahere.onl/chapter/spirit-sword-sovereign/chapter-442,chapter/spirit-sword-sovereign/chapter-442,#442,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen_102,manga/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen_102,,false,0.03669724770642202,false,true
+false,https://mangahere.onl/chapter/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen_102/chapter-243,chapter/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen_102/chapter-243,#243,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/a-returner-s-magic-should-be-special,manga/a-returner-s-magic-should-be-special,,false,0.03669724770642202,false,false
+false,https://mangahere.onl/chapter/a-returner-s-magic-should-be-special/chapter-172,chapter/a-returner-s-magic-should-be-special/chapter-172,#172,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/hardcore-leveling-warrior,manga/hardcore-leveling-warrior,,false,0.03669724770642202,false,false
+false,https://mangahere.onl/chapter/hardcore-leveling-warrior/chapter-303,chapter/hardcore-leveling-warrior/chapter-303,#303,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/martial-peak,manga/martial-peak,,false,0.03669724770642202,false,false
+false,https://mangahere.onl/chapter/martial-peak/chapter-1660,chapter/martial-peak/chapter-1660,#1660,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/i-m-the-great-immortal,manga/i-m-the-great-immortal,,false,0.03669724770642202,false,false
+false,https://mangahere.onl/chapter/i-m-the-great-immortal/chapter-366,chapter/i-m-the-great-immortal/chapter-366,#366,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/apotheosis,manga/apotheosis,,false,0.024464831804281346,false,false
+false,https://mangahere.onl/chapter/apotheosis/chapter-837,chapter/apotheosis/chapter-837,#837,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/star-martial-god-technique,manga/star-martial-god-technique,,false,0.03669724770642202,false,false
+false,https://mangahere.onl/chapter/star-martial-god-technique/chapter-498,chapter/star-martial-god-technique/chapter-498,#498,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/tales-of-demons-and-gods,manga/tales-of-demons-and-gods,,false,0.03669724770642202,false,false
+false,https://mangahere.onl/chapter/tales-of-demons-and-gods/chapter-352.5,chapter/tales-of-demons-and-gods/chapter-352.5,#352.5,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/versatile-mage,manga/versatile-mage,,false,0.03669724770642202,false,false
+false,https://mangahere.onl/chapter/versatile-mage/chapter-783,chapter/versatile-mage/chapter-783,#783,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/yuan-zun,manga/yuan-zun,,false,0.01529051987767584,false,false
+false,https://mangahere.onl/chapter/yuan-zun/chapter-356,chapter/yuan-zun/chapter-356,#356,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/shen-yi-di-nu,manga/shen-yi-di-nu,,false,0.024464831804281346,false,false
+false,https://mangahere.onl/chapter/shen-yi-di-nu/chapter-443.5,chapter/shen-yi-di-nu/chapter-443.5,#443.5,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/the-last-human,manga/the-last-human,,false,0.03669724770642202,false,false
+false,https://mangahere.onl/chapter/the-last-human/chapter-394,chapter/the-last-human/chapter-394,#394,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/mairimashita-iruma-kun,manga/mairimashita-iruma-kun,,false,0.03669724770642202,false,false
+false,https://mangahere.onl/chapter/mairimashita-iruma-kun/chapter-227,chapter/mairimashita-iruma-kun/chapter-227,#227,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/rebirth-of-the-urban-immortal-cultivator,manga/rebirth-of-the-urban-immortal-cultivator,,false,0.03669724770642202,false,false
+false,https://mangahere.onl/chapter/rebirth-of-the-urban-immortal-cultivator/chapter-668,chapter/rebirth-of-the-urban-immortal-cultivator/chapter-668,#668,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/detective-conan_122,manga/detective-conan_122,,false,0.012232415902140673,false,true
+false,https://mangahere.onl/chapter/detective-conan_122/chapter-1081,chapter/detective-conan_122/chapter-1081,#1081,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/jujutsu-kaisen,manga/jujutsu-kaisen,,false,0.01529051987767584,false,false
+false,https://mangahere.onl/chapter/jujutsu-kaisen/chapter-164,chapter/jujutsu-kaisen/chapter-164,#164,false,0.8103975535168195,true,true
+false,https://mangahere.onl/manga/black-clover_115,manga/black-clover_115,,false,0.012232415902140673,false,true
+false,https://mangahere.onl/manga/boku-no-hero-academia_121,manga/boku-no-hero-academia_121,,false,0.012232415902140673,false,true
+false,https://mangahere.onl/manga/one-piece_122,manga/one-piece_122,,false,0.012232415902140673,false,true
+false,https://www.facebook.com/mangaherefun,mangaherefun,,false,0.012232415902140673,false,false
+false,https://www.instagram.com/mangahub.io,mangahub.io,,false,0.012232415902140673,false,false
+false,https://twitter.com/MangaHubIO,mangahubio,,false,0.012232415902140673,false,false
+false,https://www.pinterest.com/mangahub,mangahub,,false,0.01529051987767584,false,false
+false,https://mangahere.onl/contact,contact,Contact,false,0.0030581039755351682,false,false
+false,https://mangahere.onl/terms,terms,Terms,false,0.0030581039755351682,false,false
+false,https://mangahere.onl/privacy,privacy,Privacy,false,0.0030581039755351682,false,false
+false,https://mangahub.io,https://mangahub.io,©mangahub.io group,false,0.0061162079510703364,false,false
+false,https://mangahere.onl/user/history,user/history,Full List,false,0.0030581039755351682,false,false
+false,/css/notifications.css,/css/notifications.css,,false,0.009174311926605505,false,false
+false,/css/nprogress.css,/css/nprogress.css,,false,0.009174311926605505,false,false
+false,https://mangapanda.onl/opensearch.xml,opensearch.xml,,false,0.007462686567164179,false,false
+false,https://mangapanda.onl/manga/coffee-vanilla,manga/coffee-vanilla,,true,0.11194029850746269,false,false
+false,/apple-touch-icon.png,/apple-touch-icon.png,,false,0.007462686567164179,false,false
+false,/favicon-32x32.png,/favicon-32x32.png,,false,0.014925373134328358,false,true
+false,/favicon-16x16.png,/favicon-16x16.png,,false,0.014925373134328358,false,true
+false,/manifest.json,/manifest.json,,false,0.007462686567164179,false,false
+false,/safari-pinned-tab.svg,/safari-pinned-tab.svg,,false,0.007462686567164179,false,false
+false,https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700,css?family=roboto:400,400i,500,700,,false,0.007462686567164179,false,true
+false,/css/bootstrap.css?v=200927,/css/bootstrap.css?v=200927,,false,0.022388059701492536,false,true
+false,/assets/vendors.f3db9421.chunk.js,/assets/vendors.f3db9421.chunk.js,,false,0.029850746268656716,false,true
+false,/assets/client.a008a93e.js,/assets/client.a008a93e.js,,false,0.014925373134328358,false,true
+false,/assets/vendors~chapter~contact~directory~home~login~manga~not-found~privacy~terms~user.c4c05cdd.chunk.js,/assets/vendors~chapter~contact~directory~home~login~manga~not-found~privacy~terms~user.c4c05cdd.chunk.js,,false,0.014925373134328358,true,true
+false,/assets/vendors~chapter~manga~user.3e00107c.chunk.js,/assets/vendors~chapter~manga~user.3e00107c.chunk.js,,false,0.029850746268656716,true,true
+false,/assets/vendors~chapter~manga.23f0149f.chunk.js,/assets/vendors~chapter~manga.23f0149f.chunk.js,,false,0.029850746268656716,true,true
+false,/assets/contact~directory~home~login~manga~not-found~privacy~terms~user.444df516.chunk.js,/assets/contact~directory~home~login~manga~not-found~privacy~terms~user.444df516.chunk.js,,false,0.014925373134328358,false,true
+false,/assets/manga.d81c8031.chunk.js,/assets/manga.d81c8031.chunk.js,,false,0.029850746268656716,false,true
+false,https://c.disquscdn.com/next/embed/styles/lounge.45ce3ab7627dd20241bfd7e5b01d3737.css,next/embed/styles/lounge.45ce3ab7627dd20241bfd7e5b01d3737.css,,false,0.022388059701492536,false,true
+false,https://c.disquscdn.com/next/embed/common.bundle.2f2f40d40785c9541a90e9086c8770a3.js,next/embed/common.bundle.2f2f40d40785c9541a90e9086c8770a3.js,,false,0.022388059701492536,false,true
+false,https://c.disquscdn.com/next/embed/lounge.bundle.ace98c1ec418cae085455f6914352928.js,next/embed/lounge.bundle.ace98c1ec418cae085455f6914352928.js,,false,0.022388059701492536,false,true
+false,https://disqus.com/next/config.js,next/config.js,,false,0.007462686567164179,false,false
+false,https://mangapanda.onl,https://mangapanda.onl,MangaPanda,false,0.014925373134328358,false,false
+false,https://mangapanda.onl/login,login,,false,0.007462686567164179,false,false
+false,https://mangapanda.onl/search,search,Directory,false,0.007462686567164179,false,false
+false,https://mangapanda.onl/popular,popular,Popular,false,0.007462686567164179,false,false
+false,https://mangapanda.onl/updates,updates,Updates,false,0.007462686567164179,false,false
+false,https://mangapanda.onl/new,new,New,false,0.007462686567164179,false,false
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-58,chapter/coffee-vanilla/chapter-58,Chapter 58,true,0.5522388059701493,true,true
+false,https://mangapanda.onl/genre/romance,genre/romance,Romance,false,0.022388059701492536,false,false
+false,https://mangapanda.onl/genre/shoujo,genre/shoujo,Shoujo,false,0.022388059701492536,false,false
+false,https://mangapanda.onl/genre/ecchi,genre/ecchi,Ecchi,false,0.022388059701492536,false,false
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-17,chapter/coffee-vanilla/chapter-17,Continue #17,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-1,chapter/coffee-vanilla/chapter-1,Start Reading,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-57,chapter/coffee-vanilla/chapter-57,#57 - Chapter 5706-15-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-56,chapter/coffee-vanilla/chapter-56,#56 - Chapter 5606-15-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-55,chapter/coffee-vanilla/chapter-55,#55 - Chapter 5506-15-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-54,chapter/coffee-vanilla/chapter-54,#54 - Chapter 5405-24-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-53,chapter/coffee-vanilla/chapter-53,#53 - Chapter 5305-10-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-52,chapter/coffee-vanilla/chapter-52,#52 - Chapter 5205-06-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-51,chapter/coffee-vanilla/chapter-51,#51 - Chapter 5104-24-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-50,chapter/coffee-vanilla/chapter-50,#50 - Chapter 5004-24-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-49,chapter/coffee-vanilla/chapter-49,#49 - Chapter 4904-24-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-48,chapter/coffee-vanilla/chapter-48,#48 - Chapter 4804-24-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-47,chapter/coffee-vanilla/chapter-47,#47 - Chapter 4704-24-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-46,chapter/coffee-vanilla/chapter-46,#46 - Vol.12 Chapter 4603-18-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-45,chapter/coffee-vanilla/chapter-45,#45 - Coffee & Vanilla 4503-10-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-44,chapter/coffee-vanilla/chapter-44,#44 - Vol.11 Chapter 4403-03-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-43,chapter/coffee-vanilla/chapter-43,#43 - Coffee & Vanilla 4302-22-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-42,chapter/coffee-vanilla/chapter-42,#42 - Coffee & Vanilla 4202-08-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-41,chapter/coffee-vanilla/chapter-41,#41 - Coffee & Vanilla 4102-08-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-40,chapter/coffee-vanilla/chapter-40,#40 - Coffee & Vanilla 4001-19-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-39,chapter/coffee-vanilla/chapter-39,#39 - Coffee & Vanilla 3901-12-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-38,chapter/coffee-vanilla/chapter-38,#38 - Coffee & Vanilla 3801-03-2021,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-37.5,chapter/coffee-vanilla/chapter-37.5,#37.5 - Extra Episode: Side:Natsuki06-19-2020,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-27,chapter/coffee-vanilla/chapter-27,#27 - Coffee & Vanilla 2706-28-2020,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-26,chapter/coffee-vanilla/chapter-26,#26 - Vol. 7 Ch. 2602-05-2020,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-25.5,chapter/coffee-vanilla/chapter-25.5,#25.5 - Vol. 6 Ch. 25.5 - Extra11-17-2019,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-25,chapter/coffee-vanilla/chapter-25,#25 - Vol.6 Chapter 2506-13-2019,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-24,chapter/coffee-vanilla/chapter-24,#24 - Vol.6 Chapter 2402-26-2019,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-23,chapter/coffee-vanilla/chapter-23,#23 - Chapter 2312-14-2018,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-22,chapter/coffee-vanilla/chapter-22,#22 - Chapter 2211-20-2018,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-21.5,chapter/coffee-vanilla/chapter-21.5,#21.5 - Coffee & Vanilla 21.506-20-2020,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-21,chapter/coffee-vanilla/chapter-21,#21 - Chapter 2104-06-2018,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-20,chapter/coffee-vanilla/chapter-20,#20 - Ch.2001-17-2018,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-19,chapter/coffee-vanilla/chapter-19,#19 - Ch.1909-26-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-18,chapter/coffee-vanilla/chapter-18,#18 - Chapter 1807-22-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-17.5,chapter/coffee-vanilla/chapter-17.5,#17.5 - Extra05-14-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-16,chapter/coffee-vanilla/chapter-16,#16 - Chapter 1604-25-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-15,chapter/coffee-vanilla/chapter-15,#15 - Date & Friend04-09-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-14.5,chapter/coffee-vanilla/chapter-14.5,#14.5 - Coffee & Vanilla 14.506-20-2020,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-14,chapter/coffee-vanilla/chapter-14,#14 - Home & Accident04-09-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-13.5,chapter/coffee-vanilla/chapter-13.5,#13.5 - Chapter 13.503-24-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-13,chapter/coffee-vanilla/chapter-13,#13 - Chapter 1303-13-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-12,chapter/coffee-vanilla/chapter-12,#12 - Chapter 1203-04-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-11,chapter/coffee-vanilla/chapter-11,#11 - Chapter 1102-26-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-10.5,chapter/coffee-vanilla/chapter-10.5,#10.5 - Coffee & Vanilla 10.502-27-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-10,chapter/coffee-vanilla/chapter-10,#10 - Enemy & Guardian02-21-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-9.5,chapter/coffee-vanilla/chapter-9.5,#9.5 - [Vol 2 Extra]02-14-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-9,chapter/coffee-vanilla/chapter-9,#9 - Heat & Competition02-14-2017,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-8.5,chapter/coffee-vanilla/chapter-8.5,#8.5 - Chapter 8.507-19-2016,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-8,chapter/coffee-vanilla/chapter-8,#8 - Chapter 807-19-2016,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-7,chapter/coffee-vanilla/chapter-7,#7 - Chapter 706-02-2016,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-6,chapter/coffee-vanilla/chapter-6,#6 - Chapter 606-02-2016,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-5,chapter/coffee-vanilla/chapter-5,#5 - Vol.1 chapter 505-24-2016,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-4,chapter/coffee-vanilla/chapter-4,#4 - Chapter 405-23-2016,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-3,chapter/coffee-vanilla/chapter-3,#3 - 3rd Cup - First Overnight Stay & XXX05-20-2016,true,0.5522388059701493,true,true
+true,https://mangapanda.onl/chapter/coffee-vanilla/chapter-2,chapter/coffee-vanilla/chapter-2,#2 - 2nd Cup - Bitter Call05-17-2016,true,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/world-trigger_121,manga/world-trigger_121,,false,0.11194029850746269,false,true
+false,https://mangapanda.onl/chapter/world-trigger_121/chapter-215,chapter/world-trigger_121/chapter-215,#215,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/goddess-creation-system,manga/goddess-creation-system,,false,0.11194029850746269,false,false
+false,https://mangapanda.onl/chapter/goddess-creation-system/chapter-436.5,chapter/goddess-creation-system/chapter-436.5,#436.5,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/a-returner-s-magic-should-be-special,manga/a-returner-s-magic-should-be-special,,false,0.05970149253731343,false,false
+false,https://mangapanda.onl/chapter/a-returner-s-magic-should-be-special/chapter-172,chapter/a-returner-s-magic-should-be-special/chapter-172,#172,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/martial-peak,manga/martial-peak,,false,0.11194029850746269,false,false
+false,https://mangapanda.onl/chapter/martial-peak/chapter-1660,chapter/martial-peak/chapter-1660,#1660,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/star-martial-god-technique,manga/star-martial-god-technique,,false,0.11194029850746269,false,false
+false,https://mangapanda.onl/chapter/star-martial-god-technique/chapter-498,chapter/star-martial-god-technique/chapter-498,#498,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/tales-of-demons-and-gods,manga/tales-of-demons-and-gods,,false,0.11194029850746269,false,false
+false,https://mangapanda.onl/chapter/tales-of-demons-and-gods/chapter-352.5,chapter/tales-of-demons-and-gods/chapter-352.5,#352.5,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/yuan-zun,manga/yuan-zun,,false,0.11194029850746269,false,false
+false,https://mangapanda.onl/chapter/yuan-zun/chapter-356,chapter/yuan-zun/chapter-356,#356,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/shen-yi-di-nu,manga/shen-yi-di-nu,,false,0.11194029850746269,false,false
+false,https://mangapanda.onl/chapter/shen-yi-di-nu/chapter-443.5,chapter/shen-yi-di-nu/chapter-443.5,#443.5,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/giant-killing,manga/giant-killing,,false,0.11194029850746269,false,false
+false,https://mangapanda.onl/chapter/giant-killing/chapter-435,chapter/giant-killing/chapter-435,#435,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/mairimashita-iruma-kun,manga/mairimashita-iruma-kun,,false,0.05970149253731343,false,false
+false,https://mangapanda.onl/chapter/mairimashita-iruma-kun/chapter-227,chapter/mairimashita-iruma-kun/chapter-227,#227,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/diamond-no-ace-act-ii,manga/diamond-no-ace-act-ii,,false,0.11194029850746269,false,false
+false,https://mangapanda.onl/chapter/diamond-no-ace-act-ii/chapter-268,chapter/diamond-no-ace-act-ii/chapter-268,#268,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/detective-conan_130,manga/detective-conan_130,,false,0.11194029850746269,false,true
+false,https://mangapanda.onl/chapter/detective-conan_130/chapter-1081,chapter/detective-conan_130/chapter-1081,#1081,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/jujutsu-kaisen,manga/jujutsu-kaisen,,false,0.029850746268656716,false,false
+false,https://mangapanda.onl/chapter/jujutsu-kaisen/chapter-164,chapter/jujutsu-kaisen/chapter-164,#164,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/black-clover_116,manga/black-clover_116,,false,0.11194029850746269,false,true
+false,https://mangapanda.onl/manga/boku-no-hero-academia_121,manga/boku-no-hero-academia_121,,false,0.05223880597014925,false,true
+false,https://mangapanda.onl/manga/one-piece_122,manga/one-piece_122,,false,0.11194029850746269,false,true
+false,https://mangapanda.onl/manga/akatsuki-no-yona_116,manga/akatsuki-no-yona_116,,false,0.05223880597014925,false,true
+false,https://mangapanda.onl/chapter/akatsuki-no-yona_116/chapter-216,chapter/akatsuki-no-yona_116/chapter-216,#216,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/enen-no-shouboutai,manga/enen-no-shouboutai,,false,0.05970149253731343,false,false
+false,https://mangapanda.onl/chapter/enen-no-shouboutai/chapter-290,chapter/enen-no-shouboutai/chapter-290,#290,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/against-the-gods,manga/against-the-gods,,false,0.05970149253731343,false,false
+false,https://mangapanda.onl/chapter/against-the-gods/chapter-417,chapter/against-the-gods/chapter-417,#417,false,0.5522388059701493,true,true
+false,https://mangapanda.onl/manga/tower-of-god_101,manga/tower-of-god_101,,false,0.11194029850746269,false,true
+false,https://mangapanda.onl/chapter/tower-of-god_101/chapter-515,chapter/tower-of-god_101/chapter-515,#515,false,0.5522388059701493,true,true
+false,https://www.facebook.com/MangaPanda.io,mangapanda.io,,false,0.029850746268656716,false,false
+false,https://www.instagram.com/mangapanda.io,mangapanda.io,,false,0.029850746268656716,false,false
+false,https://twitter.com/MangaPandaIO,mangapandaio,,false,0.11194029850746269,false,false
+false,https://www.pinterest.com/mangareaderio,mangareaderio,,false,0.05223880597014925,false,false
+false,https://mangapanda.onl/contact,contact,Contact,false,0.007462686567164179,false,false
+false,https://mangapanda.onl/terms,terms,Terms,false,0.007462686567164179,false,false
+false,https://mangapanda.onl/privacy,privacy,Privacy,false,0.007462686567164179,false,false
+false,https://mangahub.io,https://mangahub.io,©mangahub.io group,false,0.014925373134328358,false,false
+false,https://mangapanda.onl/user/history,user/history,Full List,false,0.007462686567164179,false,false
+false,/css/notifications.css,/css/notifications.css,,false,0.022388059701492536,false,false
+false,/css/nprogress.css,/css/nprogress.css,,false,0.022388059701492536,false,false
+false,https://kissmanga.org/manga/manga-ec981811,manga/manga-ec981811,,true,0.03007518796992481,false,true
+false,/static/images/favicon.ico,/static/images/favicon.ico,,false,0.022556390977443608,false,false
+false,/static/resources/style.min.css,/static/resources/style.min.css,,false,0.022556390977443608,false,false
+false,https://static.animecdn.xyz/manifest.json,manifest.json,,false,0.007518796992481203,false,false
+false,/static/theme/css/override.css,/static/theme/css/override.css,,false,0.022556390977443608,false,false
+false,//dsomethove.xyz,//dsomethove.xyz,,false,0.007518796992481203,false,false
+false,//withvendedink.xyz,//withvendedink.xyz,,false,0.007518796992481203,false,false
+false,//excimpossipellas.xyz,//excimpossipellas.xyz,,false,0.007518796992481203,false,false
+false,https://kissmanga.org/login?redirect_to=,login?redirect_to=,login,false,0.007518796992481203,false,false
+false,https://kissmanga.org/register?redirect_to=,register?redirect_to=,register,false,0.007518796992481203,false,false
+false,https://kissmanga.org,https://kissmanga.org,KissAnime,false,0.007518796992481203,false,false
+false,/manga_list,/manga_list,Manga list,false,0.03759398496240601,false,false
+false,/manga_list?action=genre&q=Action,/manga_list?action=genre&q=action,Action Manga,false,0.03759398496240601,false,false
+false,/manga_list?action=genre&q=Adventure,/manga_list?action=genre&q=adventure,Adventure Manga,false,0.03759398496240601,false,false
+false,/manga_list?action=genre&q=Fantasy,/manga_list?action=genre&q=fantasy,Fantasy Manga,false,0.03759398496240601,false,false
+false,/manga_list?action=genre&q=Webtoons,/manga_list?action=genre&q=webtoons,Webtoons Manga,false,0.03759398496240601,false,false
+false,/login,/login,Login,false,0.007518796992481203,false,false
+false,/register,/register,Register,false,0.007518796992481203,false,false
+true,/chapter/manga-ec981811/chapter-104,/chapter/manga-ec981811/chapter-104,Ranker Who Lives A Second Time - Chapter 104,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-103,/chapter/manga-ec981811/chapter-103,Ranker Who Lives A Second Time - Chapter 103,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-102,/chapter/manga-ec981811/chapter-102,Ranker Who Lives A Second Time - Chapter 102,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-101,/chapter/manga-ec981811/chapter-101,Ranker Who Lives A Second Time - Chapter 101,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-100,/chapter/manga-ec981811/chapter-100,Ranker Who Lives A Second Time - Chapter 100,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-99,/chapter/manga-ec981811/chapter-99,Ranker Who Lives A Second Time - Chapter 99,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-98,/chapter/manga-ec981811/chapter-98,Ranker Who Lives A Second Time - Chapter 98,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-97,/chapter/manga-ec981811/chapter-97,Ranker Who Lives A Second Time - Chapter 97,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-96,/chapter/manga-ec981811/chapter-96,Ranker Who Lives A Second Time - Chapter 96,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-95,/chapter/manga-ec981811/chapter-95,Ranker Who Lives A Second Time - Chapter 95,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-94,/chapter/manga-ec981811/chapter-94,Ranker Who Lives A Second Time - Chapter 94,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-93,/chapter/manga-ec981811/chapter-93,Ranker Who Lives A Second Time - Chapter 93,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-92,/chapter/manga-ec981811/chapter-92,Ranker Who Lives A Second Time - Chapter 92,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-91,/chapter/manga-ec981811/chapter-91,Ranker Who Lives A Second Time - Chapter 91,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-90,/chapter/manga-ec981811/chapter-90,Ranker Who Lives A Second Time - Chapter 90,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-89,/chapter/manga-ec981811/chapter-89,Ranker Who Lives A Second Time - Chapter 89,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-88,/chapter/manga-ec981811/chapter-88,Ranker Who Lives A Second Time - Chapter 88,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-87,/chapter/manga-ec981811/chapter-87,Ranker Who Lives A Second Time - Chapter 87,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-86,/chapter/manga-ec981811/chapter-86,Ranker Who Lives A Second Time - Chapter 86,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-85,/chapter/manga-ec981811/chapter-85,Ranker Who Lives A Second Time - Chapter 85,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-84,/chapter/manga-ec981811/chapter-84,Ranker Who Lives A Second Time - Chapter 84,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-83,/chapter/manga-ec981811/chapter-83,Ranker Who Lives A Second Time - Chapter 83,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-82,/chapter/manga-ec981811/chapter-82,Ranker Who Lives A Second Time - Chapter 82,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-81,/chapter/manga-ec981811/chapter-81,Ranker Who Lives A Second Time - Chapter 81,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-80,/chapter/manga-ec981811/chapter-80,Ranker Who Lives A Second Time - Chapter 80,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-79,/chapter/manga-ec981811/chapter-79,Ranker Who Lives A Second Time - Chapter 79,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-78,/chapter/manga-ec981811/chapter-78,Ranker Who Lives A Second Time - Chapter 78,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-77,/chapter/manga-ec981811/chapter-77,Ranker Who Lives A Second Time - Chapter 77,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-76,/chapter/manga-ec981811/chapter-76,Ranker Who Lives A Second Time - Chapter 76,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-75,/chapter/manga-ec981811/chapter-75,Ranker Who Lives A Second Time - Vol.2 Chapter 75,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-74,/chapter/manga-ec981811/chapter-74,Ranker Who Lives A Second Time - Chapter 74,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-73,/chapter/manga-ec981811/chapter-73,Ranker Who Lives A Second Time - Chapter 73,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-72,/chapter/manga-ec981811/chapter-72,Ranker Who Lives A Second Time - Chapter 72,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-71,/chapter/manga-ec981811/chapter-71,Ranker Who Lives A Second Time - Chapter 71,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-70,/chapter/manga-ec981811/chapter-70,Ranker Who Lives A Second Time - Chapter 70,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-69,/chapter/manga-ec981811/chapter-69,Ranker Who Lives A Second Time - Chapter 69,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-68,/chapter/manga-ec981811/chapter-68,Ranker Who Lives A Second Time - Chapter 68,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-67,/chapter/manga-ec981811/chapter-67,Ranker Who Lives A Second Time - Chapter 67,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-66,/chapter/manga-ec981811/chapter-66,Ranker Who Lives A Second Time - Chapter 66,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-65,/chapter/manga-ec981811/chapter-65,Ranker Who Lives A Second Time - Chapter 65,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-64,/chapter/manga-ec981811/chapter-64,Ranker Who Lives A Second Time - Chapter 64,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-63,/chapter/manga-ec981811/chapter-63,Ranker Who Lives A Second Time - Chapter 63,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-62,/chapter/manga-ec981811/chapter-62,Ranker Who Lives A Second Time - Chapter 62,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-61,/chapter/manga-ec981811/chapter-61,Ranker Who Lives A Second Time - Chapter 61,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-60,/chapter/manga-ec981811/chapter-60,Ranker Who Lives A Second Time - Chapter 60,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-59,/chapter/manga-ec981811/chapter-59,Ranker Who Lives A Second Time - Chapter 59,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-58,/chapter/manga-ec981811/chapter-58,Ranker Who Lives A Second Time - Chapter 58,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-57,/chapter/manga-ec981811/chapter-57,Ranker Who Lives A Second Time - Chapter 57,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-56,/chapter/manga-ec981811/chapter-56,Ranker Who Lives A Second Time - Chapter 56,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-55,/chapter/manga-ec981811/chapter-55,Ranker Who Lives A Second Time - Chapter 55,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-54,/chapter/manga-ec981811/chapter-54,Ranker Who Lives A Second Time - Chapter 54,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-53,/chapter/manga-ec981811/chapter-53,Ranker Who Lives A Second Time - Chapter 53,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-52,/chapter/manga-ec981811/chapter-52,Ranker Who Lives A Second Time - Chapter 52,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-51,/chapter/manga-ec981811/chapter-51,Ranker Who Lives A Second Time - Chapter 51,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-50,/chapter/manga-ec981811/chapter-50,Ranker Who Lives A Second Time - Chapter 50,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-49,/chapter/manga-ec981811/chapter-49,Ranker Who Lives A Second Time - Chapter 49,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-48,/chapter/manga-ec981811/chapter-48,Ranker Who Lives A Second Time - Chapter 48,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-47,/chapter/manga-ec981811/chapter-47,Ranker Who Lives A Second Time - Chapter 47,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-46,/chapter/manga-ec981811/chapter-46,Ranker Who Lives A Second Time - Chapter 46,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-45,/chapter/manga-ec981811/chapter-45,Ranker Who Lives A Second Time - Chapter 45,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-44,/chapter/manga-ec981811/chapter-44,Ranker Who Lives A Second Time - Chapter 44,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-43,/chapter/manga-ec981811/chapter-43,Ranker Who Lives A Second Time - Chapter 43,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-42,/chapter/manga-ec981811/chapter-42,Ranker Who Lives A Second Time - Chapter 42,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-41,/chapter/manga-ec981811/chapter-41,Ranker Who Lives A Second Time - Chapter 41,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-40,/chapter/manga-ec981811/chapter-40,Ranker Who Lives A Second Time - Chapter 40,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-39,/chapter/manga-ec981811/chapter-39,Ranker Who Lives A Second Time - Chapter 39,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-38.1,/chapter/manga-ec981811/chapter-38.1,Ranker Who Lives A Second Time - Chapter 38.1,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-37,/chapter/manga-ec981811/chapter-37,Ranker Who Lives A Second Time - Chapter 37,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-36,/chapter/manga-ec981811/chapter-36,Ranker Who Lives A Second Time - Chapter 36,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-35,/chapter/manga-ec981811/chapter-35,Ranker Who Lives A Second Time - Chapter 35,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-34,/chapter/manga-ec981811/chapter-34,Ranker Who Lives A Second Time - Chapter 34,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-33,/chapter/manga-ec981811/chapter-33,Ranker Who Lives A Second Time - Chapter 33,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-32,/chapter/manga-ec981811/chapter-32,Ranker Who Lives A Second Time - Chapter 32,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-31,/chapter/manga-ec981811/chapter-31,Ranker Who Lives A Second Time - Chapter 31,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-30,/chapter/manga-ec981811/chapter-30,Ranker Who Lives A Second Time - Chapter 30,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-29,/chapter/manga-ec981811/chapter-29,Ranker Who Lives A Second Time - Chapter 29,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-28,/chapter/manga-ec981811/chapter-28,Ranker Who Lives A Second Time - Chapter 28,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-27,/chapter/manga-ec981811/chapter-27,Ranker Who Lives A Second Time - Chapter 27,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-26,/chapter/manga-ec981811/chapter-26,Ranker Who Lives A Second Time - Chapter 26,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-25,/chapter/manga-ec981811/chapter-25,Ranker Who Lives A Second Time - Chapter 25,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-24,/chapter/manga-ec981811/chapter-24,Ranker Who Lives A Second Time - Chapter 24,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-23,/chapter/manga-ec981811/chapter-23,Ranker Who Lives A Second Time - Chapter 23,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-22,/chapter/manga-ec981811/chapter-22,Ranker Who Lives A Second Time - Chapter 22,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-21,/chapter/manga-ec981811/chapter-21,Ranker Who Lives A Second Time - Chapter 21,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-20,/chapter/manga-ec981811/chapter-20,Ranker Who Lives A Second Time - Chapter 20,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-19,/chapter/manga-ec981811/chapter-19,Ranker Who Lives A Second Time - Chapter 19,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-18,/chapter/manga-ec981811/chapter-18,Ranker Who Lives A Second Time - Chapter 18,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-17,/chapter/manga-ec981811/chapter-17,Ranker Who Lives A Second Time - Chapter 17,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-16,/chapter/manga-ec981811/chapter-16,Ranker Who Lives A Second Time - Chapter 16,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-15,/chapter/manga-ec981811/chapter-15,Ranker Who Lives A Second Time - Chapter 15,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-14,/chapter/manga-ec981811/chapter-14,Ranker Who Lives A Second Time - Chapter 14,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-13,/chapter/manga-ec981811/chapter-13,Ranker Who Lives A Second Time - Chapter 13,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-12,/chapter/manga-ec981811/chapter-12,Ranker Who Lives A Second Time - Chapter 12,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-11,/chapter/manga-ec981811/chapter-11,Ranker Who Lives A Second Time - Chapter 11,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-10,/chapter/manga-ec981811/chapter-10,Ranker Who Lives A Second Time - Chapter 10,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-9,/chapter/manga-ec981811/chapter-9,Ranker Who Lives A Second Time - Chapter 9,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-8,/chapter/manga-ec981811/chapter-8,Ranker Who Lives A Second Time - Chapter 8,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-7,/chapter/manga-ec981811/chapter-7,Ranker Who Lives A Second Time - Chapter 7,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-6,/chapter/manga-ec981811/chapter-6,Ranker Who Lives A Second Time - Chapter 6,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-5,/chapter/manga-ec981811/chapter-5,Ranker Who Lives A Second Time - Chapter 5,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-4,/chapter/manga-ec981811/chapter-4,Ranker Who Lives A Second Time - Chapter 4,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-3,/chapter/manga-ec981811/chapter-3,Ranker Who Lives A Second Time - Chapter 3,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-2,/chapter/manga-ec981811/chapter-2,Ranker Who Lives A Second Time - Chapter 2,true,0.7819548872180451,true,true
+true,/chapter/manga-ec981811/chapter-1,/chapter/manga-ec981811/chapter-1,Ranker Who Lives A Second Time - Chapter 1,true,0.7819548872180451,true,true
+false,/manga/manga-ci980191,/manga/manga-ci980191,read A Returner's Magic Should Be Special,false,0.06766917293233082,false,true
+false,/manga/manga-dp980698,/manga/manga-dp980698,read Slave Of The Magic Capital's Elite Troops,false,0.06766917293233082,false,true
+false,/manga/manga-dr980474,/manga/manga-dr980474,read Solo Leveling,false,0.06766917293233082,false,true
+false,/manga/manga-ec981811,/manga/manga-ec981811,read Ranker Who Lives A Second Time,true,0.06766917293233082,false,true
+false,/manga/manga-fr982926,/manga/manga-fr982926,read Rebirth Of The Urban Immortal Cultivator,false,0.06766917293233082,false,true
+false,/manga/manga-hg985315,/manga/manga-hg985315,read Maou Gakuen No Hangyakusha,false,0.06766917293233082,false,true
+false,/manga/manga-jo986949,/manga/manga-jo986949,read Memorize,false,0.06766917293233082,false,true
+false,/manga/manga-mr989552,/manga/manga-mr989552,read I Became The Male Lead’S Adopted Daughter,false,0.06766917293233082,false,true
+false,/manga/manga-mr989926,/manga/manga-mr989926,read Player From Today Onwards,false,0.06766917293233082,false,true
+false,/manga/manga-va953509,/manga/manga-va953509,read Komi-San Wa Komyushou Desu,false,0.06766917293233082,false,true
+false,/Message/PrivacyPolicy,/message/privacypolicy,Privacy Policy,false,0.007518796992481203,false,false
+false,https://styles.amarkcdn.com/img/batoto/favicon.ico?v0,img/batoto/favicon.ico?v0,,false,0.019230769230769232,false,true
+false,https://styles.amarkcdn.com/img/batoto/favicon.gif?v0,img/batoto/favicon.gif?v0,,false,0.019230769230769232,false,true
+false,https://styles.amarkcdn.com/build/css-btoto-light.css?7e8f4ee83d17fbc2b3d5005fb44bda37,build/css-btoto-light.css?7e8f4ee83d17fbc2b3d5005fb44bda37,,false,0.009615384615384616,false,true
+false,https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css,ajax/libs/font-awesome/5.15.4/css/all.min.css,,false,0.009615384615384616,false,true
+false,https://styles.amarkcdn.com/eflag/base.css?v53,eflag/base.css?v53,,false,0.019230769230769232,false,true
+false,https://styles.amarkcdn.com/eflag/twtr.css?v53,eflag/twtr.css?v53,,false,0.019230769230769232,false,true
+false,https://styles.amarkcdn.com/emojis/twtr.css?v53,emojis/twtr.css?v53,,false,0.009615384615384616,false,true
+false,https://bato.to/series/80296,series/80296,,false,0.009615384615384616,false,true
+false,/latest,/latest,Latest,false,0.009615384615384616,false,false
+false,/browse,/browse,Browse,false,0.009615384615384616,false,false
+false,/search,/search,Search,false,0.028846153846153848,false,false
+false,/random,/random,,false,0.009615384615384616,false,false
+false,/my-history-by-device,/my-history-by-device,,false,0.009615384615384616,false,false
+false,//publish.bato.to,//publish.bato.to,,false,0.019230769230769232,false,false
+false,https://batotoo.com/discord,discord,,false,0.009615384615384616,false,false
+false,/instructions,/instructions,,false,0.009615384615384616,false,false
+false,/settings,/settings,,false,0.009615384615384616,false,false
+false,//id.bato.to/login,//id.bato.to/login,,false,0.019230769230769232,false,false
+false,/series/80296/flirting-with-the-villain-s-dad,/series/80296/flirting-with-the-villain-s-dad,Flirting with the Villain's Dad,true,0.009615384615384616,false,true
+false,/search?word=dalseul,/search?word=dalseul,Dalseul,false,0.028846153846153848,false,false
+false,/search?word=via,/search?word=via,Via,false,0.028846153846153848,false,false
+false,https://en.wikipedia.org/wiki/Motion_picture_content_rating_system,wiki/motion_picture_content_rating_system,?,false,0.009615384615384616,false,false
+true,/chapter/1544051,/chapter/1544051,Ch.23,false,0.7403846153846154,true,true
+true,/chapter/1799416,/chapter/1799416,Chapter 77 : A Spoonful of Lingering [End of Season 3],false,0.7403846153846154,true,true
+false,/user/468495/meilin,/user/468495/meilin,meilin,false,0.019230769230769232,false,true
+true,/chapter/1793961,/chapter/1793961,Chapter 76 : The Living Witness,false,0.7403846153846154,true,true
+true,/chapter/1789825,/chapter/1789825,Chapter 75 : I Will Survive!,false,0.7403846153846154,true,true
+true,/chapter/1785366,/chapter/1785366,Chapter 74 : Recovery,false,0.7403846153846154,true,true
+true,/chapter/1780433,/chapter/1780433,Chapter 73 : With Just Your Power Alone?,false,0.7403846153846154,true,true
+true,/chapter/1774159,/chapter/1774159,Chapter 72 : Epic Battle,false,0.7403846153846154,true,true
+true,/chapter/1769070,/chapter/1769070,Chapter 71 : A Tiny Fish,false,0.7403846153846154,true,true
+true,/chapter/1763716,/chapter/1763716,Chapter 70 : I'm Not Dead!,false,0.7403846153846154,true,true
+true,/chapter/1758105,/chapter/1758105,Chapter 69 : A Pretty Corpse,false,0.7403846153846154,true,true
+true,/chapter/1751876,/chapter/1751876,Chapter 68 : The Summoning of Laurus,false,0.7403846153846154,true,true
+true,/chapter/1746738,/chapter/1746738,Chapter 67 : How Dare She!,false,0.7403846153846154,true,true
+true,/chapter/1741591,/chapter/1741591,Chapter 66 : Frozen in Time,false,0.7403846153846154,true,true
+true,/chapter/1737198,/chapter/1737198,Chapter 65 : Her Latest Proposal,false,0.7403846153846154,true,true
+true,/chapter/1733056,/chapter/1733056,Chapter 64 : Gossip,false,0.7403846153846154,true,true
+true,/chapter/1728351,/chapter/1728351,Chapter 63 : Sincerity,false,0.7403846153846154,true,true
+true,/chapter/1693437,/chapter/1693437,Chapter 62 : Negotiating with the Villain’s Dad,false,0.7403846153846154,true,true
+true,/chapter/1687133,/chapter/1687133,Chapter 61 : Talking About the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1679007,/chapter/1679007,Chapter 60 : In the Moment with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1670885,/chapter/1670885,Chapter 59 : Reunited with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1665968,/chapter/1665968,Chapter 58 : Archenemy of the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1636283,/chapter/1636283,Chapter 57 : Pampered by the Villain's Dad,false,0.7403846153846154,true,true
+false,/user/471365/chigusa,/user/471365/chigusa,chigusa,false,0.019230769230769232,false,true
+true,/chapter/1633312,/chapter/1633312,Chapter 56 : Warning for the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1633311,/chapter/1633311,Chapter 55 : Trading Places with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1627414,/chapter/1627414,Chapter 54 : Finding the Name of the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1627413,/chapter/1627413,Chapter 53 : Overprotected by the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1621227,/chapter/1621227,Chapter 52 : The Only One in the Eyes of the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1621226,/chapter/1621226,Chapter 51 : Late Night Talks with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1615859,/chapter/1615859,Chapter 50 : To Be Married to the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1615858,/chapter/1615858,Chapter 49 : Winning the Heart of the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1609223,/chapter/1609223,Chapter 48 : Spoken by the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1609222,/chapter/1609222,Chapter 47 : Tea with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1605152,/chapter/1605152,Chapter 46 : Theories with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1605151,/chapter/1605151,Chapter 45 : Closer to the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1601143,/chapter/1601143,Chapter 44 : Known by the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1601142,/chapter/1601142,Chapter 43 : Contained by the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1597455,/chapter/1597455,Chapter 42 : Waking Up Beside the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1597454,/chapter/1597454,Chapter 41 : Dreaming Beside the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1588596,/chapter/1588596,Chapter 40 : Goodbye to the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1588595,/chapter/1588595,Chapter 39 : The Ghosts Visit In the Absence of the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1584229,/chapter/1584229,Chapter 38 : Wilting Flowers Despite Protection From the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1584228,/chapter/1584228,Chapter 37 : Numerous Attempts to Capture The Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1578290,/chapter/1578290,Chapter 36 : The Second Proposal to the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1578289,/chapter/1578289,Chapter 35 : Closing the Distance From the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1572866,/chapter/1572866,Chapter 34 : Memories Bereft of the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1572865,/chapter/1572865,Chapter 33 : Return to the Palace with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1567103,/chapter/1567103,Chapter 32 : The God and the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1567102,/chapter/1567102,Chapter 31 : Conspiring to Save the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1561459,/chapter/1561459,Chapter 30 : The Wanderer Waiting for the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1561458,/chapter/1561458,Chapter 29 : Sending off the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1554678,/chapter/1554678,Chapter 28 : Escape to the Temple with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1554677,/chapter/1554677,Chapter 27 : Shopping with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1549092,/chapter/1549092,Chapter 26 : Being Friendly with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1549091,/chapter/1549091,Chapter 25 : A Tour with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1544052,/chapter/1544052,Chapter 24 : Cloaked with the Villain’s Dad,false,0.7403846153846154,true,true
+true,/chapter/1540291,/chapter/1540291,Chapter 22 : Sneaking away with the Villain’s Dad,false,0.7403846153846154,true,true
+true,/chapter/1540290,/chapter/1540290,Chapter 21 : Safety for the Villain’s Dad,false,0.7403846153846154,true,true
+true,/chapter/1536619,/chapter/1536619,Chapter 20 : Staying for the Villain’s Dad,false,0.7403846153846154,true,true
+true,/chapter/1536618,/chapter/1536618,Chapter 19 : Thirty Minutes with the Villain’s Dad,false,0.7403846153846154,true,true
+true,/chapter/1532593,/chapter/1532593,Chapter 18 : Making a Deal with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1528532,/chapter/1528532,Chapter 17 : Being Noticed by the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1526261,/chapter/1526261,Chapter 16 : Getting the Attention of the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1525066,/chapter/1525066,Chapter 15 : Level Up to the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523594,/chapter/1523594,Chapter 14 : Getting Lectured by the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523593,/chapter/1523593,Chapter 13 : Naming the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523592,/chapter/1523592,Chapter 12 : Worried about the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523591,/chapter/1523591,Chapter 11 : Competition for the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523590,/chapter/1523590,Chapter 10 : A Trip with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523589,/chapter/1523589,Chapter 9 : Wed the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523586,/chapter/1523586,Chapter 8 : Saved by the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523585,/chapter/1523585,Chapter 7 : Safe with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523584,/chapter/1523584,Chapter 6 : Crying over the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523582,/chapter/1523582,Chapter 5 : Meeting with the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523581,/chapter/1523581,Chapter 4 : Preparing for the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523580,/chapter/1523580,Chapter 3 : The Story behind the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523579,/chapter/1523579,Chapter 2 : Worried for the Villain's Dad,false,0.7403846153846154,true,true
+true,/chapter/1523130,/chapter/1523130,Chapter 1 : Flirting with the Villain's Dad,false,0.7403846153846154,true,true
+false,/rss/series/80296.xml,/rss/series/80296.xml,,false,0.009615384615384616,false,true
+false,mailto:animemark.com@gmail.com?subject=[Bato.To] ,mailto:animemark.com@gmail.com?subject=[bato.to] ,Contact US,false,0.009615384615384616,false,false
+false,//AnimeMark.com,//animemark.com,AnimeMark.com,false,0.009615384615384616,false,false
+false,https://cdn.proadscdn.com/s/script.protag/script.protag.js,s/script.protag/script.protag.js,,false,0.003663003663003663,false,false
+false,https://gmpg.org/xfn/11,xfn/11,,false,0.003663003663003663,false,true
+false,https://www.mangaread.org/xmlrpc.php,xmlrpc.php,,false,0.007326007326007326,false,false
+false,https://www.mangaread.org/manga/cultivator-against-hero-society,manga/cultivator-against-hero-society,,true,0.5714285714285714,false,false
+false,//s.w.org,//s.w.org,,false,0.003663003663003663,false,false
+false,https://www.mangaread.org/feed,feed,,false,0.003663003663003663,false,false
+false,https://www.mangaread.org/comments/feed,comments/feed,,false,0.003663003663003663,false,false
+false,https://www.mangaread.org/manga/cultivator-against-hero-society/feed,manga/cultivator-against-hero-society/feed,,true,0.5714285714285714,false,false
+false,https://www.mangaread.org/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1,wp-includes/css/dist/block-library/style.min.css?ver=5.8.1,,false,0.040293040293040296,false,true
+false,https://www.mangaread.org/wp-includes/css/dashicons.min.css?ver=5.8.1,wp-includes/css/dashicons.min.css?ver=5.8.1,,false,0.040293040293040296,false,true
+false,https://www.mangaread.org/wp-content/plugins/madara-shortcodes/shortcodes/css/shortcodes.css?ver=5.8.1,wp-content/plugins/madara-shortcodes/shortcodes/css/shortcodes.css?ver=5.8.1,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz/themes/default/style.css?ver=7.3.0,wp-content/plugins/wpdiscuz/themes/default/style.css?ver=7.3.0,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/css/fa.min.css?ver=7.3.0,wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/css/fa.min.css?ver=7.3.0,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz/assets/css/wpdiscuz-combo.min.css?ver=5.8.1,wp-content/plugins/wpdiscuz/assets/css/wpdiscuz-combo.min.css?ver=5.8.1,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-report-flagging/assets/css/flag.min.css?ver=7.0.7,wp-content/plugins/wpdiscuz-report-flagging/assets/css/flag.min.css?ver=7.0.7,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/assets/third-party/quill-emoji/quill-emoji.min.css?ver=7.0.12,wp-content/plugins/wpdiscuz-emoticons/assets/third-party/quill-emoji/quill-emoji.min.css?ver=7.0.12,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-media-uploader/assets/css/wmu-frontend.min.css?ver=7.0.9,wp-content/plugins/wpdiscuz-media-uploader/assets/css/wmu-frontend.min.css?ver=7.0.9,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/themes/madara/app/lib/fontawesome/web-fonts-with-css/css/all.min.css?ver=5.15.3,wp-content/themes/madara/app/lib/fontawesome/web-fonts-with-css/css/all.min.css?ver=5.15.3,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/themes/madara/css/fonts/ionicons/css/ionicons.min.css?ver=4.5.10,wp-content/themes/madara/css/fonts/ionicons/css/ionicons.min.css?ver=4.5.10,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/themes/madara/css/bootstrap.min.css?ver=4.3.1,wp-content/themes/madara/css/bootstrap.min.css?ver=4.3.1,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/themes/madara/js/slick/slick.css?ver=1.9.0,wp-content/themes/madara/js/slick/slick.css?ver=1.9.0,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/themes/madara/js/slick/slick-theme.css?ver=5.8.1,wp-content/themes/madara/js/slick/slick-theme.css?ver=5.8.1,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/themes/madara/css/loaders.min.css?ver=5.8.1,wp-content/themes/madara/css/loaders.min.css?ver=5.8.1,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-content/themes/madara/style.css?ver=1.6.6,wp-content/themes/madara/style.css?ver=1.6.6,,false,0.040293040293040296,false,true
+false,https://www.mangaread.org/wp-json,wp-json,,false,0.01098901098901099,false,false
+false,https://www.mangaread.org/xmlrpc.php?rsd,xmlrpc.php?rsd,,false,0.007326007326007326,false,false
+false,https://www.mangaread.org/wp-includes/wlwmanifest.xml,wp-includes/wlwmanifest.xml,,false,0.040293040293040296,false,false
+false,https://www.mangaread.org/?p=4025,?p=4025,,false,0.003663003663003663,false,true
+false,https://www.mangaread.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mangaread.org%2Fmanga%2Fcultivator-against-hero-society%2F,wp-json/oembed/1.0/embed?url=https%3a%2f%2fwww.mangaread.org%2fmanga%2fcultivator-against-hero-society%2f,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mangaread.org%2Fmanga%2Fcultivator-against-hero-society%2F&format=xml,wp-json/oembed/1.0/embed?url=https%3a%2f%2fwww.mangaread.org%2fmanga%2fcultivator-against-hero-society%2f&format=xml,,false,0.05128205128205128,false,true
+false,https://www.mangaread.org/manga/cultivator-against-hero-society/amp,manga/cultivator-against-hero-society/amp,,true,0.5714285714285714,false,false
+false,https://www.mangaread.org/wp-content/uploads/2017/10/cropped-unnamed-32x32.png,wp-content/uploads/2017/10/cropped-unnamed-32x32.png,,false,0.003663003663003663,false,true
+false,https://adservice.google.com/adsid/integrator.js?domain=www.mangaread.org,adsid/integrator.js?domain=www.mangaread.org,,false,0.003663003663003663,false,false
+false,https://www.mangaread.org,https://www.mangaread.org,,false,0.003663003663003663,false,false
+false,https://www.mangaread.org/manga/?m_orderby=rating,manga/?m_orderby=rating,TOP,false,0.029304029304029304,false,false
+false,https://www.mangaread.org/contact,contact,CONTACT,false,0.003663003663003663,false,false
+false,javascript:;,javascript:;,,false,0.014652014652014652,false,false
+false,https://www.mangaread.org/?s=&post_type=wp-manga,?s=&post_type=wp-manga,Advanced,false,0.003663003663003663,false,false
+false,javascript:void(0),javascript:void(0),Sign up,false,0.014652014652014652,false,true
+false,https://www.mangaread.org/manga/?m_orderby=new-manga,manga/?m_orderby=new-manga,NEW,false,0.029304029304029304,false,false
+false,https://www.mangaread.org/genres/manhua,genres/manhua,Manhua,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/action,genres/action,Action,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/manhwa,genres/manhwa,Manhwa,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/drama,genres/drama,Drama,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/comedy,genres/comedy,Comedy,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/school-life,genres/school-life,School Life,false,0.08424908424908426,false,false
+false,https://www.mangaread.org/genres/shoujo,genres/shoujo,Shoujo,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/comic,genres/comic,Comic,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/shounen,genres/shounen,Shounen,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/cooking,genres/cooking,Cooking,false,0.08424908424908426,false,false
+false,https://www.mangaread.org/genres/doujinshi,genres/doujinshi,Doujinshi,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/ecchi,genres/ecchi,Ecchi,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/gender-bender,genres/gender-bender,Gender Bender,false,0.02564102564102564,false,false
+false,https://www.mangaread.org/genres/harem,genres/harem,Harem,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/historical,genres/historical,Historical,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/horror,genres/horror,Horror,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/josei,genres/josei,Josei,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/martial-arts,genres/martial-arts,Martial Arts,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/mecha,genres/mecha,Mecha,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/mystery,genres/mystery,Mystery,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/one-shot,genres/one-shot,One shot,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/psychological,genres/psychological,Psychological,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/sci-fi,genres/sci-fi,Sci-fi,false,0.08424908424908426,false,false
+false,https://www.mangaread.org/genres/seinen,genres/seinen,Seinen,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/shoujo-ai,genres/shoujo-ai,Shoujo Ai,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/shounen-ai,genres/shounen-ai,Shounen Ai,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/slice-of-life,genres/slice-of-life,Slice of Life,false,0.08424908424908426,false,false
+false,https://www.mangaread.org/genres/smut,genres/smut,Smut,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/sports,genres/sports,Sports,false,0.08424908424908426,false,false
+false,https://www.mangaread.org/genres/tragedy,genres/tragedy,Tragedy,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/supernatural,genres/supernatural,Supernatural,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/webtoon,genres/webtoon,Webtoon,false,0.08424908424908426,false,false
+false,https://www.mangaread.org/genres/isekai,genres/isekai,Isekai,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/adventure,genres/adventure,Adventure,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/fantasy,genres/fantasy,Fantasy,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/genres/romance,genres/romance,Romance,false,0.10622710622710622,false,false
+false,https://www.mangaread.org/m-author/ruohong-culture,m-author/ruohong-culture,Ruohong Culture,false,0.003663003663003663,false,false
+false,https://www.mangaread.org/artist/ruohong-culture,artist/ruohong-culture,Ruohong Culture,false,0.003663003663003663,false,false
+false,https://www.mangaread.org/release/2020,release/2020,2020,false,0.07326007326007326,false,true
+false,#manga-discussion,#manga-discussion,,false,0.003663003663003663,false,false
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-128,manga/cultivator-against-hero-society/chapter-128,Chapter 128,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-127,manga/cultivator-against-hero-society/chapter-127,Chapter 127,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-126,manga/cultivator-against-hero-society/chapter-126,Chapter 126,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-125,manga/cultivator-against-hero-society/chapter-125,Chapter 125,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-124,manga/cultivator-against-hero-society/chapter-124,Chapter 124,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-123,manga/cultivator-against-hero-society/chapter-123,Chapter 123,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-122,manga/cultivator-against-hero-society/chapter-122,Chapter 122,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-121,manga/cultivator-against-hero-society/chapter-121,Chapter 121,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-120,manga/cultivator-against-hero-society/chapter-120,Chapter 120,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-119,manga/cultivator-against-hero-society/chapter-119,Chapter 119,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-118,manga/cultivator-against-hero-society/chapter-118,Chapter 118,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-117,manga/cultivator-against-hero-society/chapter-117,Chapter 117,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-116,manga/cultivator-against-hero-society/chapter-116,Chapter 116,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-115,manga/cultivator-against-hero-society/chapter-115,Chapter 115,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-114,manga/cultivator-against-hero-society/chapter-114,Chapter 114,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-113,manga/cultivator-against-hero-society/chapter-113,Chapter 113,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-112,manga/cultivator-against-hero-society/chapter-112,Chapter 112,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-111,manga/cultivator-against-hero-society/chapter-111,Chapter 111,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-110,manga/cultivator-against-hero-society/chapter-110,Chapter 110,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-109,manga/cultivator-against-hero-society/chapter-109,Chapter 109,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-108,manga/cultivator-against-hero-society/chapter-108,Chapter 108,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-107,manga/cultivator-against-hero-society/chapter-107,Chapter 107,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-106,manga/cultivator-against-hero-society/chapter-106,Chapter 106,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-105,manga/cultivator-against-hero-society/chapter-105,Chapter 105,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-104,manga/cultivator-against-hero-society/chapter-104,Chapter 104,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-103,manga/cultivator-against-hero-society/chapter-103,Chapter 103,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-102,manga/cultivator-against-hero-society/chapter-102,Chapter 102,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-101,manga/cultivator-against-hero-society/chapter-101,Chapter 101,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-100,manga/cultivator-against-hero-society/chapter-100,Chapter 100,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-99,manga/cultivator-against-hero-society/chapter-99,Chapter 99,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-98,manga/cultivator-against-hero-society/chapter-98,Chapter 98,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-97,manga/cultivator-against-hero-society/chapter-97,Chapter 97,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-96,manga/cultivator-against-hero-society/chapter-96,Chapter 96,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-95,manga/cultivator-against-hero-society/chapter-95,Chapter 95,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-94,manga/cultivator-against-hero-society/chapter-94,Chapter 94,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-93,manga/cultivator-against-hero-society/chapter-93,Chapter 93,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-92,manga/cultivator-against-hero-society/chapter-92,Chapter 92,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-91,manga/cultivator-against-hero-society/chapter-91,Chapter 91,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-90,manga/cultivator-against-hero-society/chapter-90,Chapter 90,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-89,manga/cultivator-against-hero-society/chapter-89,Chapter 89,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-88,manga/cultivator-against-hero-society/chapter-88,Chapter 88,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-87,manga/cultivator-against-hero-society/chapter-87,Chapter 87,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-86,manga/cultivator-against-hero-society/chapter-86,Chapter 86,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-85,manga/cultivator-against-hero-society/chapter-85,Chapter 85,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-84,manga/cultivator-against-hero-society/chapter-84,Chapter 84,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-83,manga/cultivator-against-hero-society/chapter-83,Chapter 83,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-82_1,manga/cultivator-against-hero-society/chapter-82_1,Chapter 82,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-82,manga/cultivator-against-hero-society/chapter-82,Chapter 82,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-81,manga/cultivator-against-hero-society/chapter-81,Chapter 81,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-80,manga/cultivator-against-hero-society/chapter-80,Chapter 80,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-79,manga/cultivator-against-hero-society/chapter-79,Chapter 79,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-78,manga/cultivator-against-hero-society/chapter-78,Chapter 78,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-77,manga/cultivator-against-hero-society/chapter-77,Chapter 77,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-76,manga/cultivator-against-hero-society/chapter-76,Chapter 76,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-75,manga/cultivator-against-hero-society/chapter-75,Chapter 75,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-74,manga/cultivator-against-hero-society/chapter-74,Chapter 74,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-73,manga/cultivator-against-hero-society/chapter-73,Chapter 73,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-72,manga/cultivator-against-hero-society/chapter-72,Chapter 72,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-71,manga/cultivator-against-hero-society/chapter-71,Chapter 71,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-70,manga/cultivator-against-hero-society/chapter-70,Chapter 70,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-69,manga/cultivator-against-hero-society/chapter-69,Chapter 69,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-68,manga/cultivator-against-hero-society/chapter-68,Chapter 68,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-67,manga/cultivator-against-hero-society/chapter-67,Chapter 67,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-66,manga/cultivator-against-hero-society/chapter-66,Chapter 66,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-65,manga/cultivator-against-hero-society/chapter-65,Chapter 65,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-64,manga/cultivator-against-hero-society/chapter-64,Chapter 64,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-63,manga/cultivator-against-hero-society/chapter-63,Chapter 63,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-62,manga/cultivator-against-hero-society/chapter-62,Chapter 62,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-61,manga/cultivator-against-hero-society/chapter-61,Chapter 61,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-60,manga/cultivator-against-hero-society/chapter-60,Chapter 60,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-59,manga/cultivator-against-hero-society/chapter-59,Chapter 59,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-58,manga/cultivator-against-hero-society/chapter-58,Chapter 58,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-57,manga/cultivator-against-hero-society/chapter-57,Chapter 57,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-56,manga/cultivator-against-hero-society/chapter-56,Chapter 56,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-55,manga/cultivator-against-hero-society/chapter-55,Chapter 55,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-54,manga/cultivator-against-hero-society/chapter-54,Chapter 54,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-53,manga/cultivator-against-hero-society/chapter-53,Chapter 53,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-52,manga/cultivator-against-hero-society/chapter-52,Chapter 52,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-51,manga/cultivator-against-hero-society/chapter-51,Chapter 51,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-50,manga/cultivator-against-hero-society/chapter-50,Chapter 50,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-49,manga/cultivator-against-hero-society/chapter-49,Chapter 49,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-48,manga/cultivator-against-hero-society/chapter-48,Chapter 48,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-47,manga/cultivator-against-hero-society/chapter-47,Chapter 47,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-46,manga/cultivator-against-hero-society/chapter-46,Chapter 46,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-45,manga/cultivator-against-hero-society/chapter-45,Chapter 45,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-44,manga/cultivator-against-hero-society/chapter-44,Chapter 44,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-43,manga/cultivator-against-hero-society/chapter-43,Chapter 43,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-42,manga/cultivator-against-hero-society/chapter-42,Chapter 42,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-41,manga/cultivator-against-hero-society/chapter-41,Chapter 41,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-40,manga/cultivator-against-hero-society/chapter-40,Chapter 40,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-39,manga/cultivator-against-hero-society/chapter-39,Chapter 39,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-38,manga/cultivator-against-hero-society/chapter-38,Chapter 38,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-37,manga/cultivator-against-hero-society/chapter-37,Chapter 37,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-36,manga/cultivator-against-hero-society/chapter-36,Chapter 36,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-35,manga/cultivator-against-hero-society/chapter-35,Chapter 35,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-34,manga/cultivator-against-hero-society/chapter-34,Chapter 34,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-33,manga/cultivator-against-hero-society/chapter-33,Chapter 33,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-32,manga/cultivator-against-hero-society/chapter-32,Chapter 32,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-31,manga/cultivator-against-hero-society/chapter-31,Chapter 31,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-30,manga/cultivator-against-hero-society/chapter-30,Chapter 30,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-29,manga/cultivator-against-hero-society/chapter-29,Chapter 29,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-28,manga/cultivator-against-hero-society/chapter-28,Chapter 28,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-27,manga/cultivator-against-hero-society/chapter-27,Chapter 27,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-26,manga/cultivator-against-hero-society/chapter-26,Chapter 26,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-25,manga/cultivator-against-hero-society/chapter-25,Chapter 25,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-24,manga/cultivator-against-hero-society/chapter-24,Chapter 24,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-23,manga/cultivator-against-hero-society/chapter-23,Chapter 23,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-22,manga/cultivator-against-hero-society/chapter-22,Chapter 22,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-21,manga/cultivator-against-hero-society/chapter-21,Chapter 21,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-20,manga/cultivator-against-hero-society/chapter-20,Chapter 20,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-19,manga/cultivator-against-hero-society/chapter-19,Chapter 19,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-18,manga/cultivator-against-hero-society/chapter-18,Chapter 18,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-17,manga/cultivator-against-hero-society/chapter-17,Chapter 17,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-16,manga/cultivator-against-hero-society/chapter-16,Chapter 16,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-15,manga/cultivator-against-hero-society/chapter-15,Chapter 15,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-14,manga/cultivator-against-hero-society/chapter-14,Chapter 14,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-13,manga/cultivator-against-hero-society/chapter-13,Chapter 13,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-12,manga/cultivator-against-hero-society/chapter-12,Chapter 12,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-11,manga/cultivator-against-hero-society/chapter-11,Chapter 11,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-10,manga/cultivator-against-hero-society/chapter-10,Chapter 10,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-9,manga/cultivator-against-hero-society/chapter-9,Chapter 9,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-8,manga/cultivator-against-hero-society/chapter-8,Chapter 8,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-7,manga/cultivator-against-hero-society/chapter-7,Chapter 7,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-6,manga/cultivator-against-hero-society/chapter-6,Chapter 6,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-5,manga/cultivator-against-hero-society/chapter-5,Chapter 5,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-4,manga/cultivator-against-hero-society/chapter-4,Chapter 4,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-3,manga/cultivator-against-hero-society/chapter-3,Chapter 3,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-2,manga/cultivator-against-hero-society/chapter-2,Chapter 2,true,0.5714285714285714,true,true
+true,https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-1,manga/cultivator-against-hero-society/chapter-1,Chapter 1,true,0.5714285714285714,true,true
+false,about:blank,about:blank,,false,0.007326007326007326,false,false
+false,https://www.mangaread.org/manga/story-of-an-unemployed-champion-and-a-princess-who-together-find-their-happiness,manga/story-of-an-unemployed-champion-and-a-princess-who-together-find-their-happiness,,false,0.5714285714285714,false,false
+false,https://www.mangaread.org/manga/relive-game-of-wandering-reincarnations,manga/relive-game-of-wandering-reincarnations,,false,0.5714285714285714,false,false
+false,https://www.mangaread.org/manga/i-want-to-play-happily-because-i-got-the-heavenly-castle,manga/i-want-to-play-happily-because-i-got-the-heavenly-castle,,false,0.047619047619047616,false,false
+false,https://www.mangaread.org/manga/kamisama-ni-kago-2-nin-bun-moraimashita,manga/kamisama-ni-kago-2-nin-bun-moraimashita,,false,0.047619047619047616,false,true
+false,https://www.mangaread.org/manga/martial-peak,manga/martial-peak,,false,0.5714285714285714,false,false
+false,https://www.mangaread.org/manga/martial-peak/chapter-1660,manga/martial-peak/chapter-1660,Chapter 1660,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/martial-peak/chapter-1659,manga/martial-peak/chapter-1659,Chapter 1659,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/yuan-zun,manga/yuan-zun,,false,0.018315018315018316,false,false
+false,https://www.mangaread.org/manga/yuan-zun/chapter-355-5,manga/yuan-zun/chapter-355-5,Chapter 355.5,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/yuan-zun/chapter-355,manga/yuan-zun/chapter-355,Chapter 355,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/god-of-martial-arts,manga/god-of-martial-arts,,false,0.5714285714285714,false,false
+false,https://www.mangaread.org/manga/god-of-martial-arts/chapter-145-3,manga/god-of-martial-arts/chapter-145-3,Chapter 145.3,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/god-of-martial-arts/chapter-145-2,manga/god-of-martial-arts/chapter-145-2,Chapter 145.2,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/the-beginning-after-the-end,manga/the-beginning-after-the-end,,false,0.5714285714285714,false,false
+false,https://www.mangaread.org/manga/the-beginning-after-the-end/chapter-125,manga/the-beginning-after-the-end/chapter-125,Chapter 125,false,0.047619047619047616,true,true
+false,https://www.mangaread.org/manga/the-beginning-after-the-end/chapter-124,manga/the-beginning-after-the-end/chapter-124,Chapter 124,false,0.047619047619047616,true,true
+false,https://www.mangaread.org/manga/magic-emperor,manga/magic-emperor,,false,0.5714285714285714,false,false
+false,https://www.mangaread.org/manga/magic-emperor/chapter-236,manga/magic-emperor/chapter-236,Chapter 236,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/magic-emperor/chapter-235,manga/magic-emperor/chapter-235,Chapter 235,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/tomb-raider-king-manga,manga/tomb-raider-king-manga,,false,0.5714285714285714,false,false
+false,https://www.mangaread.org/manga/tomb-raider-king-manga/chapter-270,manga/tomb-raider-king-manga/chapter-270,Chapter 270,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/tomb-raider-king-manga/chapter-269,manga/tomb-raider-king-manga/chapter-269,Chapter 269,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/one-piece,manga/one-piece,,false,0.029304029304029304,false,false
+false,https://www.mangaread.org/manga/one-piece/chapter-1031,manga/one-piece/chapter-1031,Chapter 1031,false,0.02197802197802198,true,true
+false,https://www.mangaread.org/manga/one-piece/chapter-1030,manga/one-piece/chapter-1030,Chapter 1030,false,0.02197802197802198,true,true
+false,/manga/?m_orderby=trending,/manga/?m_orderby=trending,Here for more Popular Manga,false,0.029304029304029304,false,false
+false,https://www.mangaread.org/release/2021,release/2021,2021,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2019,release/2019,2019,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2018,release/2018,2018,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2017,release/2017,2017,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2016,release/2016,2016,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2015,release/2015,2015,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2014,release/2014,2014,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2013,release/2013,2013,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2012,release/2012,2012,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2011,release/2011,2011,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2010,release/2010,2010,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2009,release/2009,2009,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2007,release/2007,2007,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2006,release/2006,2006,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2005,release/2005,2005,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2002,release/2002,2002,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/2001,release/2001,2001,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/1999,release/1999,1999,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/release/1998,release/1998,1998,false,0.07326007326007326,false,true
+false,https://www.mangaread.org/manga/crimson-karma,manga/crimson-karma,,false,0.5714285714285714,false,false
+false,https://www.mangaread.org/manga/crimson-karma/chapter-110,manga/crimson-karma/chapter-110,Chapter 110,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/crimson-karma/chapter-109,manga/crimson-karma/chapter-109,Chapter 109,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/the-whole-class-was-transported-along-but-im-hiding-my-strength-by-masquerading-as-a-merchant,manga/the-whole-class-was-transported-along-but-im-hiding-my-strength-by-masquerading-as-a-merchant,,false,0.047619047619047616,false,false
+false,https://www.mangaread.org/manga/the-whole-class-was-transported-along-but-im-hiding-my-strength-by-masquerading-as-a-merchant/chapter-5-2,manga/the-whole-class-was-transported-along-but-im-hiding-my-strength-by-masquerading-as-a-merchant/chapter-5-2,Chapter 5.2,false,0.047619047619047616,true,true
+false,https://www.mangaread.org/manga/the-whole-class-was-transported-along-but-im-hiding-my-strength-by-masquerading-as-a-merchant/chapter-5-1,manga/the-whole-class-was-transported-along-but-im-hiding-my-strength-by-masquerading-as-a-merchant/chapter-5-1,Chapter 5.1,false,0.047619047619047616,true,true
+false,https://www.mangaread.org/manga/the-reincarnated-inferior-magic-swordsman,manga/the-reincarnated-inferior-magic-swordsman,,false,0.5714285714285714,false,false
+false,https://www.mangaread.org/manga/the-reincarnated-inferior-magic-swordsman/chapter-52,manga/the-reincarnated-inferior-magic-swordsman/chapter-52,Chapter 52,false,0.047619047619047616,true,true
+false,https://www.mangaread.org/manga/the-reincarnated-inferior-magic-swordsman/chapter-51,manga/the-reincarnated-inferior-magic-swordsman/chapter-51,Chapter 51,false,0.047619047619047616,true,true
+false,https://www.mangaread.org/manga/leveling-up-by-only-eating,manga/leveling-up-by-only-eating,,false,0.5714285714285714,false,false
+false,https://www.mangaread.org/manga/leveling-up-by-only-eating/chapter-86,manga/leveling-up-by-only-eating/chapter-86,Chapter 86,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/manga/leveling-up-by-only-eating/chapter-85,manga/leveling-up-by-only-eating/chapter-85,Chapter 85,false,0.5714285714285714,true,true
+false,https://www.mangaread.org/blog,blog,BLOG,false,0.003663003663003663,false,false
+false,https://www.mangaread.org/about-us,about-us,ABOUT US,false,0.007326007326007326,false,false
+false,https://www.mangaread.org/privacy-policy,privacy-policy,COOKIE POLICY,false,0.003663003663003663,false,false
+false,https://www.mangaread.org/an-application-for-reading-manga,an-application-for-reading-manga,APPILACTION,false,0.003663003663003663,false,false
+false,javascript:avoid(0),javascript:avoid(0),Lost your password?,false,0.014652014652014652,false,true
+false,javascript:void(0);,javascript:void(0);,wpDiscuz,false,0.014652014652014652,false,true
+false,https://mangareader.site/opensearch.xml,opensearch.xml,,false,0.005555555555555556,false,false
+false,https://mangareader.site/manga/fairy-tail-100-years-quest_103,manga/fairy-tail-100-years-quest_103,,true,0.03888888888888889,false,true
+false,/apple-touch-icon.png,/apple-touch-icon.png,,false,0.005555555555555556,false,false
+false,/favicon-32x32.png,/favicon-32x32.png,,false,0.011111111111111112,false,true
+false,/favicon-16x16.png,/favicon-16x16.png,,false,0.011111111111111112,false,true
+false,/manifest.json,/manifest.json,,false,0.005555555555555556,false,false
+false,/safari-pinned-tab.svg,/safari-pinned-tab.svg,,false,0.005555555555555556,false,false
+false,https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700,css?family=roboto:400,400i,500,700,,false,0.005555555555555556,false,true
+false,/css/bootstrap.css?v=200927,/css/bootstrap.css?v=200927,,false,0.016666666666666666,false,true
+false,/assets/vendors.f3db9421.chunk.js,/assets/vendors.f3db9421.chunk.js,,false,0.027777777777777776,false,true
+false,/assets/client.dcacbd1c.js,/assets/client.dcacbd1c.js,,false,0.027777777777777776,false,true
+false,/assets/vendors~chapter~contact~directory~home~login~manga~not-found~privacy~terms~user.c4c05cdd.chunk.js,/assets/vendors~chapter~contact~directory~home~login~manga~not-found~privacy~terms~user.c4c05cdd.chunk.js,,false,0.011111111111111112,true,true
+false,/assets/vendors~chapter~manga~user.3e00107c.chunk.js,/assets/vendors~chapter~manga~user.3e00107c.chunk.js,,false,0.027777777777777776,true,true
+false,/assets/vendors~chapter~manga.23f0149f.chunk.js,/assets/vendors~chapter~manga.23f0149f.chunk.js,,false,0.027777777777777776,true,true
+false,/assets/contact~directory~home~login~manga~not-found~privacy~terms~user.444df516.chunk.js,/assets/contact~directory~home~login~manga~not-found~privacy~terms~user.444df516.chunk.js,,false,0.011111111111111112,false,true
+false,/assets/manga.d81c8031.chunk.js,/assets/manga.d81c8031.chunk.js,,false,0.027777777777777776,false,true
+false,https://c.disquscdn.com/next/embed/styles/lounge.45ce3ab7627dd20241bfd7e5b01d3737.css,next/embed/styles/lounge.45ce3ab7627dd20241bfd7e5b01d3737.css,,false,0.016666666666666666,false,true
+false,https://c.disquscdn.com/next/embed/common.bundle.2f2f40d40785c9541a90e9086c8770a3.js,next/embed/common.bundle.2f2f40d40785c9541a90e9086c8770a3.js,,false,0.016666666666666666,false,true
+false,https://c.disquscdn.com/next/embed/lounge.bundle.ace98c1ec418cae085455f6914352928.js,next/embed/lounge.bundle.ace98c1ec418cae085455f6914352928.js,,false,0.016666666666666666,false,true
+false,https://disqus.com/next/config.js,next/config.js,,false,0.005555555555555556,false,false
+false,https://mangareader.site,https://mangareader.site,MangaReader.site,false,0.011111111111111112,false,false
+false,https://mangareader.site/login,login,,false,0.005555555555555556,false,false
+false,https://mangareader.site/search,search,Directory,false,0.005555555555555556,false,false
+false,https://mangareader.site/popular,popular,Popular,false,0.005555555555555556,false,false
+false,https://mangareader.site/updates,updates,Updates,false,0.005555555555555556,false,false
+false,https://mangareader.site/new,new,New,false,0.005555555555555556,false,false
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-94,chapter/fairy-tail-100-years-quest_103/chapter-94,Chapter 94,true,0.6444444444444445,true,true
+false,https://mangareader.site/genre/action,genre/action,Action,false,0.03888888888888889,false,false
+false,https://mangareader.site/genre/adventure,genre/adventure,Adventure,false,0.03888888888888889,false,false
+false,https://mangareader.site/genre/comedy,genre/comedy,Comedy,false,0.03888888888888889,false,false
+false,https://mangareader.site/genre/drama,genre/drama,Drama,false,0.03888888888888889,false,false
+false,https://mangareader.site/genre/fantasy,genre/fantasy,Fantasy,false,0.03888888888888889,false,false
+false,https://mangareader.site/genre/shounen,genre/shounen,Shounen,false,0.03888888888888889,false,false
+false,https://mangareader.site/genre/supernatural,genre/supernatural,Supernatural,false,0.03888888888888889,false,false
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-73,chapter/fairy-tail-100-years-quest_103/chapter-73,Continue #73,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-1,chapter/fairy-tail-100-years-quest_103/chapter-1,Start Reading,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-93,chapter/fairy-tail-100-years-quest_103/chapter-93,#93 - Fairy Tail 100 Years Quest 933 weeks ago,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-92,chapter/fairy-tail-100-years-quest_103/chapter-92,#92 - The Great Labyrinth10-05-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-91,chapter/fairy-tail-100-years-quest_103/chapter-91,#91 - Chapter 9109-21-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-90,chapter/fairy-tail-100-years-quest_103/chapter-90,#90 - The Return09-07-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-89,chapter/fairy-tail-100-years-quest_103/chapter-89,#89 - Chapter 8908-24-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-88,chapter/fairy-tail-100-years-quest_103/chapter-88,#88 - Vol.10 Chapter 88: Alta Face08-10-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-87,chapter/fairy-tail-100-years-quest_103/chapter-87,#87 - An Unsightly World07-27-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-86,chapter/fairy-tail-100-years-quest_103/chapter-86,#86 - Fairy Tail 100 Years Quest 8607-13-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-85.5,chapter/fairy-tail-100-years-quest_103/chapter-85.5,#85.5 - chapter 85.507-08-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-85,chapter/fairy-tail-100-years-quest_103/chapter-85,#85 - Fairy Tail 100 Years Quest 8506-29-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-84,chapter/fairy-tail-100-years-quest_103/chapter-84,#84 - Fairy Tail 100 Years Quest 8406-15-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-83,chapter/fairy-tail-100-years-quest_103/chapter-83,#83 - Chapter 8306-02-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-82,chapter/fairy-tail-100-years-quest_103/chapter-82,#82 - Chapter 8205-18-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-81,chapter/fairy-tail-100-years-quest_103/chapter-81,#81 - Chapter 8105-05-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-80,chapter/fairy-tail-100-years-quest_103/chapter-80,#80 - chapter 8004-21-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-79,chapter/fairy-tail-100-years-quest_103/chapter-79,#79 - Outer Path: Oumagatoki04-06-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-78,chapter/fairy-tail-100-years-quest_103/chapter-78,#78 - chapter 7803-23-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-77,chapter/fairy-tail-100-years-quest_103/chapter-77,#77 - Whiteout Village03-09-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-76,chapter/fairy-tail-100-years-quest_103/chapter-76,#76 - Battle of the Twin Tigers02-23-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-75,chapter/fairy-tail-100-years-quest_103/chapter-75,#75 - Memories of Water02-09-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-74,chapter/fairy-tail-100-years-quest_103/chapter-74,#74 - Yokai "Nure-Onna"01-26-2021,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-72,chapter/fairy-tail-100-years-quest_103/chapter-72,#72 - Moonlit Beauty Gods12-29-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-71,chapter/fairy-tail-100-years-quest_103/chapter-71,#71 - Spiritual Arts12-15-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-70,chapter/fairy-tail-100-years-quest_103/chapter-70,#70 - Spirior12-01-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-69,chapter/fairy-tail-100-years-quest_103/chapter-69,#69 - Hand11-17-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-68,chapter/fairy-tail-100-years-quest_103/chapter-68,#68 - chapter 6811-04-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-67,chapter/fairy-tail-100-years-quest_103/chapter-67,#67 - Aqua Aera10-20-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-66,chapter/fairy-tail-100-years-quest_103/chapter-66,#66 - At Edolas10-07-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-65,chapter/fairy-tail-100-years-quest_103/chapter-65,#65 - Elentir09-22-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-64,chapter/fairy-tail-100-years-quest_103/chapter-64,#64 - Aldo Spring09-08-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-63,chapter/fairy-tail-100-years-quest_103/chapter-63,#63 - Drameel Banquet08-25-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-62,chapter/fairy-tail-100-years-quest_103/chapter-62,#62 - Burning Will08-12-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-61,chapter/fairy-tail-100-years-quest_103/chapter-61,#61 - Thicket of Arms07-28-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-60,chapter/fairy-tail-100-years-quest_103/chapter-60,#60 - Gigantify07-14-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-59,chapter/fairy-tail-100-years-quest_103/chapter-59,#59 - Gears of Fate07-01-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-58,chapter/fairy-tail-100-years-quest_103/chapter-58,#58 - Ice and Water06-16-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-57,chapter/fairy-tail-100-years-quest_103/chapter-57,#57 - Power To Live06-03-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-56,chapter/fairy-tail-100-years-quest_103/chapter-56,#56 - Reliable Friends05-19-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-55,chapter/fairy-tail-100-years-quest_103/chapter-55,#55 - Fate of Death05-06-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-54,chapter/fairy-tail-100-years-quest_103/chapter-54,#54 - God Seeds04-21-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-53,chapter/fairy-tail-100-years-quest_103/chapter-53,#53 - Precious Curse04-08-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-52,chapter/fairy-tail-100-years-quest_103/chapter-52,#52 - Mind-Reading Trees03-24-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-51,chapter/fairy-tail-100-years-quest_103/chapter-51,#51 - Roaring Earth03-10-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-50,chapter/fairy-tail-100-years-quest_103/chapter-50,#50 - The Wood Dragon God's Secret02-25-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-49,chapter/fairy-tail-100-years-quest_103/chapter-49,#49 - Ch.04902-13-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-48,chapter/fairy-tail-100-years-quest_103/chapter-48,#48 - Fifth Generation Dragon Force01-30-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-47,chapter/fairy-tail-100-years-quest_103/chapter-47,#47 - Ch.04701-15-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-46,chapter/fairy-tail-100-years-quest_103/chapter-46,#46 - Ch.04601-04-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-45.5,chapter/fairy-tail-100-years-quest_103/chapter-45.5,#45.5 - Trembly Wendy Omake10-11-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-45,chapter/fairy-tail-100-years-quest_103/chapter-45,#45 - Ch.04512-18-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-44,chapter/fairy-tail-100-years-quest_103/chapter-44,#44 - A Crimson Battle12-11-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-43,chapter/fairy-tail-100-years-quest_103/chapter-43,#43 - Misunderstanding12-05-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-42,chapter/fairy-tail-100-years-quest_103/chapter-42,#42 - If It’s for the Guild11-27-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-41,chapter/fairy-tail-100-years-quest_103/chapter-41,#41 - Trump Card for a CounterAttack11-20-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-40,chapter/fairy-tail-100-years-quest_103/chapter-40,#40 - Thicker Than Blood11-14-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-39,chapter/fairy-tail-100-years-quest_103/chapter-39,#39 - Ch.03911-06-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-38,chapter/fairy-tail-100-years-quest_103/chapter-38,#38 - Synchro Rate10-30-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-37,chapter/fairy-tail-100-years-quest_103/chapter-37,#37 - Beta Heaven10-22-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-36.5,chapter/fairy-tail-100-years-quest_103/chapter-36.5,#36.5 - Beat Up Gajeel10-11-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-36,chapter/fairy-tail-100-years-quest_103/chapter-36,#36 - Melee at Draseel10-16-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-35,chapter/fairy-tail-100-years-quest_103/chapter-35,#35 - The Spirit Dragon Within10-01-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-34,chapter/fairy-tail-100-years-quest_103/chapter-34,#34 - New Assassins09-18-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-33,chapter/fairy-tail-100-years-quest_103/chapter-33,#33 - Pain09-03-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-32,chapter/fairy-tail-100-years-quest_103/chapter-32,#32 - Star Dress Mix08-21-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-31,chapter/fairy-tail-100-years-quest_103/chapter-31,#31 - Fairy Face-off08-06-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-30,chapter/fairy-tail-100-years-quest_103/chapter-30,#30 - Brawl Fest07-24-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-29,chapter/fairy-tail-100-years-quest_103/chapter-29,#29 - White Out07-09-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-28,chapter/fairy-tail-100-years-quest_103/chapter-28,#28 - White Control06-25-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-27.5,chapter/fairy-tail-100-years-quest_103/chapter-27.5,#27.5 - Gloomy Erza10-11-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-27,chapter/fairy-tail-100-years-quest_103/chapter-27,#27 - Wood God Dragon Aldoron06-12-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-26,chapter/fairy-tail-100-years-quest_103/chapter-26,#26 - About Rainhill05-28-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-25,chapter/fairy-tail-100-years-quest_103/chapter-25,#25 - Fairy Nail05-15-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-24,chapter/fairy-tail-100-years-quest_103/chapter-24,#24 - All's Well that Ends Well04-30-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-23,chapter/fairy-tail-100-years-quest_103/chapter-23,#23 - Port of Blessings04-16-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-22,chapter/fairy-tail-100-years-quest_103/chapter-22,#22 - Without Everyone04-02-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-21,chapter/fairy-tail-100-years-quest_103/chapter-21,#21 - Burn It All03-19-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-20,chapter/fairy-tail-100-years-quest_103/chapter-20,#20 - The Lineage of Flame03-05-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-19,chapter/fairy-tail-100-years-quest_103/chapter-19,#19 - From the Abyss02-19-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-18.5,chapter/fairy-tail-100-years-quest_103/chapter-18.5,#18.5 - Concerned Lucy10-11-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-18,chapter/fairy-tail-100-years-quest_103/chapter-18,#18 - Anguished Determination02-07-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-17,chapter/fairy-tail-100-years-quest_103/chapter-17,#17 - The Water God Dragon01-22-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-16,chapter/fairy-tail-100-years-quest_103/chapter-16,#16 - Ash and Dark Clouds01-08-2019,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-15,chapter/fairy-tail-100-years-quest_103/chapter-15,#15 - Dyed White12-25-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-14,chapter/fairy-tail-100-years-quest_103/chapter-14,#14 - Rain and Shadow12-11-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-13,chapter/fairy-tail-100-years-quest_103/chapter-13,#13 - A Meeting on the Water11-27-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-12,chapter/fairy-tail-100-years-quest_103/chapter-12,#12 - Star and Thunder11-13-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-11,chapter/fairy-tail-100-years-quest_103/chapter-11,#11 - Blade, Armor, Ash10-31-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-10,chapter/fairy-tail-100-years-quest_103/chapter-10,#10 - Cruel Diabolos10-17-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-9.5,chapter/fairy-tail-100-years-quest_103/chapter-9.5,#9.5 - Volume 1 Afterword10-11-2020,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-9,chapter/fairy-tail-100-years-quest_103/chapter-9,#9 - Black or White10-02-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-8,chapter/fairy-tail-100-years-quest_103/chapter-8,#8 - The God Dragon's Melancholy09-18-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-7,chapter/fairy-tail-100-years-quest_103/chapter-7,#7 - A Dragon's Sea09-04-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-6,chapter/fairy-tail-100-years-quest_103/chapter-6,#6 - Slaying Blade08-21-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-5,chapter/fairy-tail-100-years-quest_103/chapter-5,#5 - "Seal" the Holy Pentadrakes08-15-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-4,chapter/fairy-tail-100-years-quest_103/chapter-4,#4 - Amazing Elmina08-07-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-3,chapter/fairy-tail-100-years-quest_103/chapter-3,#3 - Fairy Tail 100 Years Quest 307-31-2018,true,0.6444444444444445,true,true
+true,https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-2,chapter/fairy-tail-100-years-quest_103/chapter-2,#2 - Fairy Tail 100 Years Quest 207-25-2018,true,0.6444444444444445,true,true
+false,https://mangareader.site/manga/goddess-creation-system,manga/goddess-creation-system,,false,0.07222222222222222,false,false
+false,https://mangareader.site/chapter/goddess-creation-system/chapter-436.5,chapter/goddess-creation-system/chapter-436.5,#436.5,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/a-returner-s-magic-should-be-special,manga/a-returner-s-magic-should-be-special,,false,0.03888888888888889,false,false
+false,https://mangareader.site/chapter/a-returner-s-magic-should-be-special/chapter-172,chapter/a-returner-s-magic-should-be-special/chapter-172,#172,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/martial-peak,manga/martial-peak,,false,0.06666666666666667,false,false
+false,https://mangareader.site/chapter/martial-peak/chapter-1660,chapter/martial-peak/chapter-1660,#1660,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/star-martial-god-technique,manga/star-martial-god-technique,,false,0.07222222222222222,false,false
+false,https://mangareader.site/chapter/star-martial-god-technique/chapter-498,chapter/star-martial-god-technique/chapter-498,#498,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/tales-of-demons-and-gods,manga/tales-of-demons-and-gods,,false,0.03888888888888889,false,false
+false,https://mangareader.site/chapter/tales-of-demons-and-gods/chapter-352.5,chapter/tales-of-demons-and-gods/chapter-352.5,#352.5,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/yuan-zun,manga/yuan-zun,,false,0.027777777777777776,false,false
+false,https://mangareader.site/chapter/yuan-zun/chapter-356,chapter/yuan-zun/chapter-356,#356,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/shen-yi-di-nu,manga/shen-yi-di-nu,,false,0.07222222222222222,false,false
+false,https://mangareader.site/chapter/shen-yi-di-nu/chapter-443.5,chapter/shen-yi-di-nu/chapter-443.5,#443.5,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/mairimashita-iruma-kun,manga/mairimashita-iruma-kun,,false,0.06666666666666667,false,false
+false,https://mangareader.site/chapter/mairimashita-iruma-kun/chapter-227,chapter/mairimashita-iruma-kun/chapter-227,#227,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/diamond-no-ace-act-ii,manga/diamond-no-ace-act-ii,,false,0.07222222222222222,false,false
+false,https://mangareader.site/chapter/diamond-no-ace-act-ii/chapter-268,chapter/diamond-no-ace-act-ii/chapter-268,#268,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/detective-conan_125,manga/detective-conan_125,,false,0.07222222222222222,false,true
+false,https://mangareader.site/chapter/detective-conan_125/chapter-1081,chapter/detective-conan_125/chapter-1081,#1081,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/jujutsu-kaisen,manga/jujutsu-kaisen,,false,0.06666666666666667,false,false
+false,https://mangareader.site/chapter/jujutsu-kaisen/chapter-164,chapter/jujutsu-kaisen/chapter-164,#164,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/black-clover_117,manga/black-clover_117,,false,0.07222222222222222,false,true
+false,https://mangareader.site/manga/boku-no-hero-academia_119,manga/boku-no-hero-academia_119,,false,0.07222222222222222,false,true
+false,https://mangareader.site/manga/one-piece_114,manga/one-piece_114,,false,0.07222222222222222,false,true
+false,https://mangareader.site/manga/akatsuki-no-yona_117,manga/akatsuki-no-yona_117,,false,0.07222222222222222,false,true
+false,https://mangareader.site/chapter/akatsuki-no-yona_117/chapter-216,chapter/akatsuki-no-yona_117/chapter-216,#216,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/enen-no-shouboutai,manga/enen-no-shouboutai,,false,0.07222222222222222,false,false
+false,https://mangareader.site/chapter/enen-no-shouboutai/chapter-290,chapter/enen-no-shouboutai/chapter-290,#290,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/against-the-gods,manga/against-the-gods,,false,0.07222222222222222,false,false
+false,https://mangareader.site/chapter/against-the-gods/chapter-417,chapter/against-the-gods/chapter-417,#417,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/tower-of-god,manga/tower-of-god,,false,0.07222222222222222,false,false
+false,https://mangareader.site/chapter/tower-of-god/chapter-515,chapter/tower-of-god/chapter-515,#515,false,0.6444444444444445,true,true
+false,https://mangareader.site/manga/world-trigger_114,manga/world-trigger_114,,false,0.07222222222222222,false,true
+false,https://mangareader.site/chapter/world-trigger_114/chapter-215,chapter/world-trigger_114/chapter-215,#215,false,0.6444444444444445,true,true
+false,https://www.facebook.com/MangaReader.io,mangareader.io,,false,0.07222222222222222,false,false
+false,https://www.instagram.com/mangareader.io,mangareader.io,,false,0.07222222222222222,false,false
+false,https://twitter.com/MangaReaderIO,mangareaderio,,false,0.07222222222222222,false,false
+false,https://www.pinterest.com/mangareaderio,mangareaderio,,false,0.07222222222222222,false,false
+false,https://www.youtube.com/channel/UCNvF60s459_xiD1F_1EwxbA,channel/ucnvf60s459_xid1f_1ewxba,,false,0.005555555555555556,false,true
+false,https://mangareader.site/contact,contact,Contact,false,0.005555555555555556,false,false
+false,https://mangareader.site/terms,terms,Terms,false,0.005555555555555556,false,false
+false,https://mangareader.site/privacy,privacy,Privacy,false,0.005555555555555556,false,false
+false,https://mangahub.io,https://mangahub.io,©mangahub.io group,false,0.011111111111111112,false,false
+false,https://mangareader.site/user/history,user/history,Full List,false,0.005555555555555556,false,false
+false,/css/notifications.css,/css/notifications.css,,false,0.016666666666666666,false,false
+false,/css/nprogress.css,/css/nprogress.css,,false,0.016666666666666666,false,false

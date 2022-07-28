@@ -1,0 +1,8 @@
+    private static var testChapterPagesLinks = [
+        "https://mangahere.onl/chapter/return-of-immortal-emperor/chapter-154",
+        "https://mangapanda.onl/chapter/coffee-vanilla/chapter-16",
+        "https://kissmanga.org/chapter/dz919342/chapter_52",
+        "https://bato.to/chapter/1544051",
+        "https://www.mangaread.org/manga/cultivator-against-hero-society/chapter-50/",
+        "https://mangareader.site/chapter/fairy-tail-100-years-quest_103/chapter-72"
+    ]

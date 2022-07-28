@@ -1,0 +1,247 @@
+isPageImage, link, compareLink, similarityRatio, isRelatedLink, containsHost, isJPG, hasNumericName
+false,/logo.png,/logo.png,0.5,false,false,false,false
+false,/logo-small.png,/logo-small.png,0.5,false,false,false,false
+true,https://img.mghubcdn.com/file/imghub/return-of-immortal-emperor/154/1.jpg,file/imghub/return-of-immortal-emperor/154/1.jpg,0.5,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/return-of-immortal-emperor/154/2.jpg,file/imghub/return-of-immortal-emperor/154/2.jpg,0.5,true,false,true,true
+false,/logo.png,/logo.png,0.14285714285714285,false,false,false,false
+false,/logo-small.png,/logo-small.png,0.14285714285714285,false,false,false,false
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/1.jpg,file/imghub/coffee-vanilla/16/1.jpg,0.8571428571428571,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/2.jpg,file/imghub/coffee-vanilla/16/2.jpg,0.8571428571428571,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/3.jpg,file/imghub/coffee-vanilla/16/3.jpg,0.8571428571428571,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/4.jpg,file/imghub/coffee-vanilla/16/4.jpg,0.8571428571428571,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/5.jpg,file/imghub/coffee-vanilla/16/5.jpg,0.8571428571428571,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/6.jpg,file/imghub/coffee-vanilla/16/6.jpg,0.8571428571428571,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/7.jpg,file/imghub/coffee-vanilla/16/7.jpg,0.8571428571428571,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/8.jpg,file/imghub/coffee-vanilla/16/8.jpg,0.8571428571428571,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/9.jpg,file/imghub/coffee-vanilla/16/9.jpg,0.8571428571428571,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/10.jpg,file/imghub/coffee-vanilla/16/10.jpg,0.8571428571428571,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/11.jpg,file/imghub/coffee-vanilla/16/11.jpg,0.8571428571428571,true,false,true,true
+true,https://img.mghubcdn.com/file/imghub/coffee-vanilla/16/12.jpg,file/imghub/coffee-vanilla/16/12.jpg,0.8571428571428571,true,false,true,true
+false,/static/images/user-small.png,/static/images/user-small.png,0.07317073170731707,false,false,false,false
+false,/static/images/previous.png,/static/images/previous.png,0.07317073170731707,false,false,false,false
+false,/static/images/next.png,/static/images/next.png,0.07317073170731707,false,false,false,false
+true,https://cm.blazefast.co/83/4d/834d0d57867aa82294e946abb3e8444f.jpg,83/4d/834d0d57867aa82294e946abb3e8444f.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/89/92/8992343e74196cdb38152d2e70edcfd8.jpg,89/92/8992343e74196cdb38152d2e70edcfd8.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/dd/1f/dd1fb45407058590cc7edf330ea1f36f.jpg,dd/1f/dd1fb45407058590cc7edf330ea1f36f.jpg,0.3170731707317073,false,false,true,true
+true,https://cm.blazefast.co/3d/d4/3dd44fed0ce0b786eef2b0f784e64d8a.jpg,3d/d4/3dd44fed0ce0b786eef2b0f784e64d8a.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/13/97/13976dfd300e6a5b75b99a5c22fe6876.jpg,13/97/13976dfd300e6a5b75b99a5c22fe6876.jpg,0.3170731707317073,false,false,true,true
+true,https://cm.blazefast.co/e6/60/e660481571902ab79f90f16f6ab60e84.jpg,e6/60/e660481571902ab79f90f16f6ab60e84.jpg,0.24390243902439024,false,false,true,true
+true,https://cm.blazefast.co/b1/65/b165cacb6ae9e448abe2bd1e61631b82.jpg,b1/65/b165cacb6ae9e448abe2bd1e61631b82.jpg,0.2926829268292683,false,false,true,true
+true,https://cm.blazefast.co/f7/29/f72937d3a2e0f0720e3eb65204814ed9.jpg,f7/29/f72937d3a2e0f0720e3eb65204814ed9.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/85/f8/85f820b8ecd05415c93f530e305d90be.jpg,85/f8/85f820b8ecd05415c93f530e305d90be.jpg,0.3170731707317073,false,false,true,true
+true,https://cm.blazefast.co/09/57/0957cf348cc2368919ba4e80529e62f3.jpg,09/57/0957cf348cc2368919ba4e80529e62f3.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/17/50/1750e310516ad0ca084929ca64a565e5.jpg,17/50/1750e310516ad0ca084929ca64a565e5.jpg,0.2926829268292683,false,false,true,true
+true,https://cm.blazefast.co/80/85/8085d79ddfdcab0a0a421d2b1e207f98.jpg,80/85/8085d79ddfdcab0a0a421d2b1e207f98.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/a1/6e/a16e83ba036092ee213a59ada3c83cc0.jpg,a1/6e/a16e83ba036092ee213a59ada3c83cc0.jpg,0.2926829268292683,false,false,true,true
+true,https://cm.blazefast.co/a4/03/a4033cfd118f85e6efa1f952c6f26b1b.jpg,a4/03/a4033cfd118f85e6efa1f952c6f26b1b.jpg,0.3170731707317073,false,false,true,true
+true,https://cm.blazefast.co/43/c1/43c142caf70aa6a56b8d3325abdc6833.jpg,43/c1/43c142caf70aa6a56b8d3325abdc6833.jpg,0.24390243902439024,false,false,true,true
+true,https://cm.blazefast.co/b0/04/b004effbc71f1a64cc116b48b4aef4f3.jpg,b0/04/b004effbc71f1a64cc116b48b4aef4f3.jpg,0.24390243902439024,false,false,true,true
+true,https://cm.blazefast.co/99/3e/993ee06cce9871135825726bc49d8926.jpg,99/3e/993ee06cce9871135825726bc49d8926.jpg,0.2926829268292683,false,false,true,true
+true,https://cm.blazefast.co/fe/d6/fed65968a6f1ca9879aac3a6cb538ab1.jpg,fe/d6/fed65968a6f1ca9879aac3a6cb538ab1.jpg,0.24390243902439024,false,false,true,true
+true,https://cm.blazefast.co/fd/91/fd9177b0b1c545f60916fb03bbff4c08.jpg,fd/91/fd9177b0b1c545f60916fb03bbff4c08.jpg,0.3170731707317073,false,false,true,true
+true,https://cm.blazefast.co/e1/ed/e1edc3d129c2a25ac6273f7bb6bf6c8b.jpg,e1/ed/e1edc3d129c2a25ac6273f7bb6bf6c8b.jpg,0.2926829268292683,false,false,true,true
+true,https://cm.blazefast.co/2d/ea/2dea3c14931548a2739c1e98ab436608.jpg,2d/ea/2dea3c14931548a2739c1e98ab436608.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/92/91/9291667dcd391c3ca98ef3250bbc3e5a.jpg,92/91/9291667dcd391c3ca98ef3250bbc3e5a.jpg,0.2926829268292683,false,false,true,true
+true,https://cm.blazefast.co/dd/a2/dda2ab285d7e228ee9f49968241e350a.jpg,dd/a2/dda2ab285d7e228ee9f49968241e350a.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/8e/21/8e21e6edbbcbbfe70bdb4924a258ac24.jpg,8e/21/8e21e6edbbcbbfe70bdb4924a258ac24.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/e8/ec/e8ecbfcbeb4fb493f2c2565d98e092c8.jpg,e8/ec/e8ecbfcbeb4fb493f2c2565d98e092c8.jpg,0.2926829268292683,false,false,true,true
+true,https://cm.blazefast.co/19/3c/193c84e997f732a2d6a18864feb1a4e4.jpg,19/3c/193c84e997f732a2d6a18864feb1a4e4.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/b2/7d/b27d121681b9ea000a53661cdc99cba9.jpg,b2/7d/b27d121681b9ea000a53661cdc99cba9.jpg,0.2926829268292683,false,false,true,true
+true,https://cm.blazefast.co/8b/0f/8b0ffe62533b9713fb298f4d10de07eb.jpg,8b/0f/8b0ffe62533b9713fb298f4d10de07eb.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/b2/a2/b2a2213791d6f76993c1a14bf555927b.jpg,b2/a2/b2a2213791d6f76993c1a14bf555927b.jpg,0.12195121951219512,false,false,true,true
+true,https://cm.blazefast.co/4f/05/4f055d826c36f25ae9144a8bbaa581ff.jpg,4f/05/4f055d826c36f25ae9144a8bbaa581ff.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/1d/3f/1d3f2b9887504680bb48d7b527678ef3.jpg,1d/3f/1d3f2b9887504680bb48d7b527678ef3.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/8a/6c/8a6cdfbb92babc3273708aaf1fa5010f.jpg,8a/6c/8a6cdfbb92babc3273708aaf1fa5010f.jpg,0.12195121951219512,false,false,true,true
+true,https://cm.blazefast.co/e6/aa/e6aa497572283c1ed2f7c268b1a4cb08.jpg,e6/aa/e6aa497572283c1ed2f7c268b1a4cb08.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/7e/d5/7ed5450619ad77c6c2a58f01bb57ec96.jpg,7e/d5/7ed5450619ad77c6c2a58f01bb57ec96.jpg,0.3170731707317073,false,false,true,true
+true,https://cm.blazefast.co/69/18/69180e6c0a140c5ebddb94f7e9ffda86.jpg,69/18/69180e6c0a140c5ebddb94f7e9ffda86.jpg,0.24390243902439024,false,false,true,true
+true,https://cm.blazefast.co/01/c2/01c29413401085f446b659bb7cd8155e.jpg,01/c2/01c29413401085f446b659bb7cd8155e.jpg,0.2926829268292683,false,false,true,true
+true,https://cm.blazefast.co/0e/f8/0ef80935946f2d0a8b1180395150ace8.jpg,0e/f8/0ef80935946f2d0a8b1180395150ace8.jpg,0.36585365853658536,false,false,true,true
+true,https://cm.blazefast.co/f6/8c/f68c68dbeafc4febb60ca76e65ded257.jpg,f6/8c/f68c68dbeafc4febb60ca76e65ded257.jpg,0.024390243902439025,false,false,true,true
+false,https://styles.amarkcdn.com/img/btoto/logo-batoto.png?v0,img/btoto/logo-batoto.png,0.02040816326530612,false,false,false,false
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214835_940_1347_104154.jpeg?acc=w4F1Cm4NBOmlh-S_nCfnYQ&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214835_940_1347_104154.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214836_940_1995_208271.jpeg?acc=E9_9F5_qW224fNF0tpeSvA&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214836_940_1995_208271.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214837_940_1995_274077.jpeg?acc=PJtLGBPQ0q03fJTA1-ii1Q&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214837_940_1995_274077.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214838_940_1995_204391.jpeg?acc=N4RG_MwJEXO3kEdYC2b_yw&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214838_940_1995_204391.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214839_940_1995_262975.jpeg?acc=rBx_5KFjVNCYBV_hX7W_7w&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214839_940_1995_262975.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214840_940_1995_265357.jpeg?acc=Jy_eyLhmTm5dbRx54IOZ5g&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214840_940_1995_265357.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214841_940_1995_191407.jpeg?acc=lTCLMvOs0VEk9c16J_BFMQ&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214841_940_1995_191407.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214842_940_1989_210903.jpeg?acc=rOxebvgAGA0BuzthewlerA&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214842_940_1989_210903.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214843_940_1769_221639.jpeg?acc=oTurawjxYNJtjVwsDUb7Kw&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214843_940_1769_221639.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214844_940_1769_181581.jpeg?acc=jr9gXzYS81zmuEeJ2qiw5w&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214844_940_1769_181581.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214847_940_1769_208999.jpeg?acc=NEXRtSxpZYI45hqIY5PuJA&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214847_940_1769_208999.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214846_940_1769_184388.jpeg?acc=QqIoAEwKKQKkwUAV-8eKcA&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214846_940_1769_184388.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214845_940_1769_166218.jpeg?acc=58fgNI_VbSVk_ZY2iMg9FA&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214845_940_1769_166218.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214848_940_1769_214760.jpeg?acc=KMmBnSjENbtn54r2dACtwA&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214848_940_1769_214760.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214849_940_1769_191703.jpeg?acc=GD2y7PrTbL8k0Cnqg17fuw&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214849_940_1769_191703.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214850_940_1767_206465.jpeg?acc=_LqEuD5S5vxviQeWEGyGFA&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214850_940_1767_206465.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214851_940_1777_213431.jpeg?acc=u6W4pl-CjGCli12Gu1jqEg&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214851_940_1777_213431.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214853_940_1777_128867.jpeg?acc=gSVT2pkQfgoe5XMkhEdF4g&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214853_940_1777_128867.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214855_940_1777_164218.jpeg?acc=K_W7K8GrbZdL-tnObZEabQ&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214855_940_1777_164218.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214857_940_1777_173488.jpeg?acc=T8qxz5Mc_8aHvLCFClFF4g&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214857_940_1777_173488.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214859_940_1777_188472.jpeg?acc=uzmNwkul7Qdf7f9ubiuydw&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214859_940_1777_188472.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214861_940_1777_243618.jpeg?acc=9o6WC5ZYSlhA7v8MQFAKBw&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214861_940_1777_243618.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214863_940_1777_188302.jpeg?acc=COZ6Cpm1mFX4VSO5W7Si9A&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214863_940_1777_188302.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214864_940_1777_152225.jpeg?acc=kmkKNYEJg0OGh4bnAikktQ&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214864_940_1777_152225.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214866_940_1759_219785.jpeg?acc=boMHdxet5rDeR2HU_2OO8Q&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214866_940_1759_219785.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214868_940_1759_142393.jpeg?acc=nPh_aqZSQHkgbTF07ALkJA&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214868_940_1759_142393.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214870_940_1759_273080.jpeg?acc=TxOpuligcFYnv4dfdlKtHg&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214870_940_1759_273080.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214872_940_1759_189022.jpeg?acc=9LKks3aRV01ZQP4aXPAa2g&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214872_940_1759_189022.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214874_940_1759_103384.jpeg?acc=v_zXPbINd8vxBmvPO9A_Bg&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214874_940_1759_103384.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214876_940_1759_144302.jpeg?acc=nNf58vofEDsbP502knt4PQ&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214876_940_1759_144302.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214878_940_1759_191630.jpeg?acc=LK5IxDXPv8miVLYl46QOVg&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214878_940_1759_191630.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214880_940_1755_145399.jpeg?acc=fE1mRDJmRBCcNerTEdFjag&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214880_940_1755_145399.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214883_940_1922_205291.jpeg?acc=OLM0HzfRDxGtEsJ1S7ct7w&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214883_940_1922_205291.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214884_940_1922_272983.jpeg?acc=vW0a_jOPB6B28w2mbbj45w&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214884_940_1922_272983.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214886_940_1922_193268.jpeg?acc=GDUV2xMsk7GZMjOBQ79OLw&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214886_940_1922_193268.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214889_940_1922_178424.jpeg?acc=xBu-qXkwpuw5BQbyZMTnuw&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214889_940_1922_178424.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214891_940_1922_161661.jpeg?acc=6cpBoV_Btt5VADnQyUv5fQ&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214891_940_1922_161661.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214893_940_1922_332071.jpeg?acc=MbE1IGn1mjeLvU0m2356jw&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214893_940_1922_332071.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214894_940_1922_250869.jpeg?acc=OyHcPaLs5WqT8hDSvKaRYg&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214894_940_1922_250869.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214896_940_1919_232655.jpeg?acc=eHDz_ILq2OGfTvlZLK_5DQ&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214896_940_1919_232655.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214898_940_1709_168868.jpeg?acc=yA2-h5ChlbLHSx7VmutOGA&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214898_940_1709_168868.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214900_940_1709_183907.jpeg?acc=s65O16DwuhBfSwUkjT2whw&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214900_940_1709_183907.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214902_940_1709_133318.jpeg?acc=vXLioPOB8RuVYeQgkPaWnQ&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214902_940_1709_133318.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214905_940_1709_221339.jpeg?acc=Zdr7oee0YiSGWNJZn8RlKw&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214905_940_1709_221339.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214906_940_1709_237306.jpeg?acc=EgUVmj4CQ5DfRNmhJ0gbRw&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214906_940_1709_237306.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214908_940_1704_92947.jpeg?acc=XE28ANR9x78DQs2CEFQxuQ&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214908_940_1704_92947.jpeg,0.9591836734693877,false,false,true,true
+true,https://xfs-007.batcg.com/7002/36c/5fc0030a1379ea4f51550c63/2214910_940_672_63617.jpeg?acc=5mVJb0UWpqDgVIt5ONN2Qg&exp=1636303405,7002/36c/5fc0030a1379ea4f51550c63/2214910_940_672_63617.jpeg,0.9591836734693877,false,false,true,true
+false,https://file-avatars.animemark.com/176/5f9e8d03b660a857f0c92671.jpg,176/5f9e8d03b660a857f0c92671.jpg,0.02040816326530612,false,false,true,true
+false,https://www.mangaread.org/wp-content/uploads/2017/10/llogos.png,wp-content/uploads/2017/10/llogos.png,0.3,false,true,false,false
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/1.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/1.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/2.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/2.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/3.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/3.jpg,0.325,false,true,true,true
+true,			
+
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/4.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/4.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/5.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/5.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/6.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/6.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/7.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/7.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/8.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/8.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/9.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/9.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/10.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/10.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/11.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/11.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/12.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/12.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/13.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/13.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/14.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/14.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/15.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/15.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/16.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/16.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/17.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/17.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/18.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/18.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/19.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/19.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/20.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/20.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/21.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/21.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/22.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/22.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/23.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/23.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/24.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/24.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/25.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/25.jpg,0.325,false,true,true,true
+true,			
+			http://www.mangaread.org/wp-content/uploads/WP-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/26.jpg,			
+			wp-content/uploads/wp-manga/data/manga_5ef9a1f74747c/ec44fb4fc4d01dd371e04529ac6d9197/26.jpg,0.325,false,true,true,true
+false,https://secure.gravatar.com/avatar/?s=56&d=mm&r=g,avatar/,0.0125,false,false,false,true
+false,http://www.mangaread.org/wp-content/uploads/2021/10/image1.jpg,wp-content/uploads/2021/10/image1.jpg,0.3,false,true,true,false
+false,https://www.mangaread.org/wp-content/uploads/2020/02/home.png,wp-content/uploads/2020/02/home.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2020/05/Read-Mahwa-75x106.jpg,wp-content/uploads/2020/05/read-mahwa-75x106.jpg,0.3,false,true,true,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/Read-Manhua-5-75x106.jpg,wp-content/uploads/2021/09/read-manhua-5-75x106.jpg,0.3,false,true,true,false
+false,https://www.mangaread.org/wp-content/uploads/2020/01/15-1583493237-75x106.jpg,wp-content/uploads/2020/01/15-1583493237-75x106.jpg,0.3,false,true,true,false
+false,https://www.mangaread.org/wp-content/uploads/2019/11/Manga-Read-75x106.png,wp-content/uploads/2019/11/manga-read-75x106.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2020/05/Manga-Read-125x180.jpg,wp-content/uploads/2020/05/manga-read-125x180.jpg,0.3,false,true,true,false
+false,https://www.mangaread.org/wp-content/uploads/2020/08/Read-Manga-4-125x180.jpg,wp-content/uploads/2020/08/read-manga-4-125x180.jpg,0.3,false,true,true,false
+false,https://www.mangaread.org/wp-content/uploads/2019/12/Image01-76-125x180.jpg,wp-content/uploads/2019/12/image01-76-125x180.jpg,0.3,false,true,true,false
+false,https://www.mangaread.org/wp-content/uploads/2020/06/Manga-Read-59-125x180.jpg,wp-content/uploads/2020/06/manga-read-59-125x180.jpg,0.3,false,true,true,false
+false,https://www.mangaread.org/wp-content/uploads/2020/05/Manga-Read-20-125x180.jpg,wp-content/uploads/2020/05/manga-read-20-125x180.jpg,0.3,false,true,true,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/grin.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/grin.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/wink.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/wink.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/twisted.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/twisted.svg,0.1875,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/shock.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/shock.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/unamused.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/unamused.svg,0.1875,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/cool.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/cool.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/evil.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/evil.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/cry.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/cry.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/eek.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/eek.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/lol.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/lol.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/mad.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/mad.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/sad.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/sad.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/question.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/question.svg,0.1875,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/beg.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/beg.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/plugins/wpdiscuz-emoticons/emoticons/img/envy.svg,wp-content/plugins/wpdiscuz-emoticons/emoticons/img/envy.svg,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/9319-phoenixwright.png,wp-content/uploads/2021/09/9319-phoenixwright.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/5283-luffylike.png,wp-content/uploads/2021/09/5283-luffylike.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/5681-gura-and-ina-scared.png,wp-content/uploads/2021/09/5681-gura-and-ina-scared.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/9548-surprised-jiraiya.png,wp-content/uploads/2021/09/9548-surprised-jiraiya.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/9891d56785ad55b9cbae0a0d299dad6d.png,wp-content/uploads/2021/09/9891d56785ad55b9cbae0a0d299dad6d.png,0.3,false,true,false,true
+false,https://www.mangaread.org/wp-content/uploads/2021/09/ae27cbdd3e02b18d71564a359d41e770.png,wp-content/uploads/2021/09/ae27cbdd3e02b18d71564a359d41e770.png,0.3,false,true,false,true
+false,https://www.mangaread.org/wp-content/uploads/2021/09/bd2560a8da0ac68bd9ff8ea689cd9490.png,wp-content/uploads/2021/09/bd2560a8da0ac68bd9ff8ea689cd9490.png,0.3,false,true,false,true
+false,https://www.mangaread.org/wp-content/uploads/2021/09/71a5bcadce41995a042f61ccb5637bb6.png,wp-content/uploads/2021/09/71a5bcadce41995a042f61ccb5637bb6.png,0.3,false,true,false,true
+false,https://www.mangaread.org/wp-content/uploads/2021/09/b9ba6f0d8b950d37d0b61d52ff10ac2e.png,wp-content/uploads/2021/09/b9ba6f0d8b950d37d0b61d52ff10ac2e.png,0.3,false,true,false,true
+false,https://www.mangaread.org/wp-content/uploads/2021/09/017585452a2eaa44d92a06c7781bbc50.png,wp-content/uploads/2021/09/017585452a2eaa44d92a06c7781bbc50.png,0.3,false,true,false,true
+false,https://www.mangaread.org/wp-content/uploads/2021/09/ZeroTwoFightMe.png,wp-content/uploads/2021/09/zerotwofightme.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/9438-remheart-1.png,wp-content/uploads/2021/09/9438-remheart-1.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/2167-saitamawow-1.png,wp-content/uploads/2021/09/2167-saitamawow-1.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/3560-iruma-woah.png,wp-content/uploads/2021/09/3560-iruma-woah.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/8552-pepehands.png,wp-content/uploads/2021/09/8552-pepehands.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/6776-ps-bruh.png,wp-content/uploads/2021/09/6776-ps-bruh.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/879982987268194304.png,wp-content/uploads/2021/09/879982987268194304.png,0.3,false,true,false,true
+false,https://www.mangaread.org/wp-content/uploads/2021/09/879982988492931093.png,wp-content/uploads/2021/09/879982988492931093.png,0.3,false,true,false,true
+false,https://www.mangaread.org/wp-content/uploads/2021/09/4465-menhera-chan-overwhelmed-love.jpg,wp-content/uploads/2021/09/4465-menhera-chan-overwhelmed-love.jpg,0.3,false,true,true,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/6697-cross.png,wp-content/uploads/2021/09/6697-cross.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/09/2216-homer-wahoo.gif,wp-content/uploads/2021/09/2216-homer-wahoo.gif,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/10/PIKACHUflexpokemon.gif,wp-content/uploads/2021/10/pikachuflexpokemon.gif,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/10/verifynoob.gif,wp-content/uploads/2021/10/verifynoob.gif,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/10/laugh_naruto.png,wp-content/uploads/2021/10/laugh_naruto.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/10/CatNanie.png,wp-content/uploads/2021/10/catnanie.png,0.3,false,true,false,false
+false,https://www.mangaread.org/wp-content/uploads/2021/10/Z_NekoLove1.gif,wp-content/uploads/2021/10/z_nekolove1.gif,0.3,false,true,false,false
+false,/logo.png,/logo.png,0.4,false,false,false,false
+false,/logo-small.png,/logo-small.png,0.4,false,false,false,false
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/1.jpg,file/imghub/fairy-tail-100-years-quest/72/1.jpg,0.6,false,false,true,true
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/2.jpg,file/imghub/fairy-tail-100-years-quest/72/2.jpg,0.6,false,false,true,true
+true,https://img.mghubcdn.com/file/imghub/fairy-tail-100-years-quest/72/3.jpg,file/imghub/fairy-tail-100-years-quest/72/3.jpg,0.6,false,false,true,true
