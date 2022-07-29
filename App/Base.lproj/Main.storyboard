@@ -73,7 +73,7 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
-                        <outlet property="mangoTableView" destination="U1G-a2-vba" id="azQ-e0-DSX"/>
+                        <outlet property="mangoTableView" destination="U1G-a2-vba" id="bsC-I2-sCl"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -178,7 +178,7 @@
                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                 <state key="normal" title="Print Chapter Test Data"/>
                                 <connections>
-                                    <action selector="onPrintChapterTestData:" destination="ao1-cg-LIT" eventType="touchUpInside" id="PIU-wW-T1e"/>
+                                    <action selector="onPrintChapterTestData:" destination="ao1-cg-LIT" eventType="touchUpInside" id="IUR-8z-XcU"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p2M-DO-Szd">
@@ -186,7 +186,7 @@
                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                 <state key="normal" title="Print Page Test Data"/>
                                 <connections>
-                                    <action selector="onPrintPageTestData:" destination="ao1-cg-LIT" eventType="touchUpInside" id="Jv7-Wp-AOC"/>
+                                    <action selector="onPrintPageTestData:" destination="ao1-cg-LIT" eventType="touchUpInside" id="f6r-aA-4fs"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -236,14 +236,14 @@
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="ChapterTableCell" id="kDy-21-3Be" customClass="ChapterTableCell" customModule="Mangos" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="44.5" width="426" height="43.5"/>
+                                        <rect key="frame" x="0.0" y="44.5" width="426" height="43"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="kDy-21-3Be" id="dY6-25-mwt">
-                                            <rect key="frame" x="0.0" y="0.0" width="426" height="43.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="426" height="43"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gdp-w0-9hr">
-                                                    <rect key="frame" x="20" y="11" width="386" height="21.5"/>
+                                                    <rect key="frame" x="20" y="11" width="386" height="21"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>

@@ -7,35 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B10FB3F6272A78630012704C /* TestDataVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10FB3F5272A78630012704C /* TestDataVC.swift */; };
-		B124FA3323753E2D000F9440 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B124FA3223753E2D000F9440 /* AppDelegate.swift */; };
-		B124FA3523753E2D000F9440 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B124FA3423753E2D000F9440 /* SceneDelegate.swift */; };
-		B124FA3723753E2D000F9440 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B124FA3623753E2D000F9440 /* MainVC.swift */; };
 		B124FA3A23753E2D000F9440 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B124FA3823753E2D000F9440 /* Main.storyboard */; };
-		B124FA3C23753E2F000F9440 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B124FA3B23753E2F000F9440 /* Assets.xcassets */; };
 		B124FA3F23753E2F000F9440 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B124FA3D23753E2F000F9440 /* LaunchScreen.storyboard */; };
 		B124FA4A23753E2F000F9440 /* MangosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B124FA4923753E2F000F9440 /* MangosTests.swift */; };
 		B124FA5523753E2F000F9440 /* MangosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B124FA5423753E2F000F9440 /* MangosUITests.swift */; };
-		B12FF9AE239A24DD004BEF11 /* ChapterListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12FF9AD239A24DD004BEF11 /* ChapterListVC.swift */; };
-		B12FF9B0239A3206004BEF11 /* ChapterTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12FF9AF239A3206004BEF11 /* ChapterTableCell.swift */; };
-		B14578A1238F289000F68757 /* MangoTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14578A0238F289000F68757 /* MangoTableCell.swift */; };
+		B1358DDB2893A51900CB98B3 /* MangosML.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1358DDA2893A51900CB98B3 /* MangosML.swift */; };
+		B1358DDD2893A53B00CB98B3 /* ChapterHrefData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1358DDC2893A53B00CB98B3 /* ChapterHrefData.swift */; };
+		B1358DDF2893A54D00CB98B3 /* MangosMLData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1358DDE2893A54D00CB98B3 /* MangosMLData.swift */; };
+		B1358DE12893A55600CB98B3 /* PageImageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1358DE02893A55600CB98B3 /* PageImageData.swift */; };
+		B1358DE32893A58500CB98B3 /* Mango.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1358DE22893A58500CB98B3 /* Mango.swift */; };
+		B1358DE52893A59200CB98B3 /* MangoPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1358DE42893A59200CB98B3 /* MangoPage.swift */; };
+		B1358DE82893A5AA00CB98B3 /* HrefData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1358DE72893A5AA00CB98B3 /* HrefData.swift */; };
+		B1358DEA2893A5B700CB98B3 /* ImgData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1358DE92893A5B700CB98B3 /* ImgData.swift */; };
+		B1358DF22893A6BC00CB98B3 /* MangoChapterClassifier_V3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B1358DF02893A6BC00CB98B3 /* MangoChapterClassifier_V3.mlmodel */; };
+		B1358DF32893A6BC00CB98B3 /* MangoPageClassifier_V2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B1358DF12893A6BC00CB98B3 /* MangoPageClassifier_V2.mlmodel */; };
+		B17680E928924399007EAC41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B17680E828924399007EAC41 /* Assets.xcassets */; };
 		B18E346A25B55E3300687602 /* ShareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B18E346925B55E3300687602 /* ShareViewController.swift */; };
 		B18E347125B55E3300687602 /* MangoAddShare.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = B18E346725B55E3300687602 /* MangoAddShare.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B1A2DFD82893C3AC00DAAFE8 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A2DFD72893C3AC00DAAFE8 /* MainVC.swift */; };
+		B1A2DFDD2893C3F800DAAFE8 /* ChapterListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A2DFDB2893C3F800DAAFE8 /* ChapterListVC.swift */; };
+		B1A2DFDE2893C3F800DAAFE8 /* ChapterReadVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A2DFDC2893C3F800DAAFE8 /* ChapterReadVC.swift */; };
+		B1A2DFE02893C40000DAAFE8 /* TestDataVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A2DFDF2893C40000DAAFE8 /* TestDataVC.swift */; };
+		B1A2DFE62893C42C00DAAFE8 /* ChapterTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A2DFE22893C42C00DAAFE8 /* ChapterTableCell.swift */; };
+		B1A2DFE72893C42C00DAAFE8 /* MangoPageViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A2DFE32893C42C00DAAFE8 /* MangoPageViewCell.swift */; };
+		B1A2DFE82893C42C00DAAFE8 /* MangoTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A2DFE42893C42C00DAAFE8 /* MangoTableCell.swift */; };
+		B1A2DFE92893C42C00DAAFE8 /* ImageScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A2DFE52893C42C00DAAFE8 /* ImageScrollView.swift */; };
 		B1A8790225B1339800C9A27F /* SwiftSoup in Frameworks */ = {isa = PBXBuildFile; productRef = B1A8790125B1339800C9A27F /* SwiftSoup */; };
 		B1A8790825B133EA00C9A27F /* StringMetric in Frameworks */ = {isa = PBXBuildFile; productRef = B1A8790725B133EA00C9A27F /* StringMetric */; };
-		B1B43AE328923F8000492CF5 /* ML Models in Resources */ = {isa = PBXBuildFile; fileRef = B1B43AE228923F8000492CF5 /* ML Models */; };
-		B1BCC0C425B2CA0000E65487 /* ImageScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BCC0C325B2CA0000E65487 /* ImageScrollView.swift */; };
-		B1D87372239C6006004FC978 /* ChapterReadVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D87371239C6006004FC978 /* ChapterReadVC.swift */; };
-		B1DD868D246B819B006800E9 /* MangoPageViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DD868C246B819B006800E9 /* MangoPageViewCell.swift */; };
-		B1DFBE8A25B135AA00295CA5 /* MangoPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE7C25B135AA00295CA5 /* MangoPage.swift */; };
-		B1DFBE8B25B135AA00295CA5 /* HrefData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE7E25B135AA00295CA5 /* HrefData.swift */; };
-		B1DFBE8C25B135AA00295CA5 /* ImgData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE7F25B135AA00295CA5 /* ImgData.swift */; };
-		B1DFBE8D25B135AA00295CA5 /* MangosML.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8125B135AA00295CA5 /* MangosML.swift */; };
-		B1DFBE8E25B135AA00295CA5 /* MangosMLData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8325B135AA00295CA5 /* MangosMLData.swift */; };
-		B1DFBE8F25B135AA00295CA5 /* PageImageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8425B135AA00295CA5 /* PageImageData.swift */; };
-		B1DFBE9025B135AA00295CA5 /* ChapterHrefData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8525B135AA00295CA5 /* ChapterHrefData.swift */; };
-		B1DFBE9125B135AA00295CA5 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8625B135AA00295CA5 /* Utility.swift */; };
-		B1DFBE9225B135AA00295CA5 /* Mango.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DFBE8725B135AA00295CA5 /* Mango.swift */; };
+		B1FD3CA92893A120002F7A05 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FD3CA62893A03F002F7A05 /* AppDelegate.swift */; };
+		B1FD3CAA2893A120002F7A05 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FD3CA52893A03F002F7A05 /* SceneDelegate.swift */; };
+		B1FD3CCB2893A30C002F7A05 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1FD3CCA2893A30C002F7A05 /* Utility.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,40 +78,41 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B10FB3F5272A78630012704C /* TestDataVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDataVC.swift; sourceTree = "<group>"; };
 		B124FA2F23753E2D000F9440 /* Mangos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mangos.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B124FA3223753E2D000F9440 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B124FA3423753E2D000F9440 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		B124FA3623753E2D000F9440 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		B124FA3923753E2D000F9440 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B124FA3B23753E2F000F9440 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B124FA3E23753E2F000F9440 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		B124FA4023753E2F000F9440 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B124FA4523753E2F000F9440 /* MangosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MangosTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B124FA4923753E2F000F9440 /* MangosTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangosTests.swift; sourceTree = "<group>"; };
 		B124FA4B23753E2F000F9440 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B124FA5023753E2F000F9440 /* MangosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MangosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B124FA5423753E2F000F9440 /* MangosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangosUITests.swift; sourceTree = "<group>"; };
 		B124FA5623753E2F000F9440 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B12FF9AD239A24DD004BEF11 /* ChapterListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterListVC.swift; sourceTree = "<group>"; };
-		B12FF9AF239A3206004BEF11 /* ChapterTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterTableCell.swift; sourceTree = "<group>"; };
-		B14578A0238F289000F68757 /* MangoTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangoTableCell.swift; sourceTree = "<group>"; };
+		B1358DDA2893A51900CB98B3 /* MangosML.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangosML.swift; sourceTree = "<group>"; };
+		B1358DDC2893A53B00CB98B3 /* ChapterHrefData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterHrefData.swift; sourceTree = "<group>"; };
+		B1358DDE2893A54D00CB98B3 /* MangosMLData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangosMLData.swift; sourceTree = "<group>"; };
+		B1358DE02893A55600CB98B3 /* PageImageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageImageData.swift; sourceTree = "<group>"; };
+		B1358DE22893A58500CB98B3 /* Mango.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mango.swift; sourceTree = "<group>"; };
+		B1358DE42893A59200CB98B3 /* MangoPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangoPage.swift; sourceTree = "<group>"; };
+		B1358DE72893A5AA00CB98B3 /* HrefData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HrefData.swift; sourceTree = "<group>"; };
+		B1358DE92893A5B700CB98B3 /* ImgData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImgData.swift; sourceTree = "<group>"; };
+		B1358DF02893A6BC00CB98B3 /* MangoChapterClassifier_V3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MangoChapterClassifier_V3.mlmodel; sourceTree = "<group>"; };
+		B1358DF12893A6BC00CB98B3 /* MangoPageClassifier_V2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MangoPageClassifier_V2.mlmodel; sourceTree = "<group>"; };
+		B17680E828924399007EAC41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B18E346725B55E3300687602 /* MangoAddShare.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = MangoAddShare.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		B18E346925B55E3300687602 /* ShareViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareViewController.swift; sourceTree = "<group>"; };
 		B18E346E25B55E3300687602 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B1B43AE228923F8000492CF5 /* ML Models */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ML Models"; sourceTree = SOURCE_ROOT; };
-		B1BCC0C325B2CA0000E65487 /* ImageScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageScrollView.swift; sourceTree = "<group>"; };
-		B1D87371239C6006004FC978 /* ChapterReadVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterReadVC.swift; sourceTree = "<group>"; };
-		B1DD868C246B819B006800E9 /* MangoPageViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangoPageViewCell.swift; sourceTree = "<group>"; };
-		B1DFBE7C25B135AA00295CA5 /* MangoPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MangoPage.swift; sourceTree = "<group>"; };
-		B1DFBE7E25B135AA00295CA5 /* HrefData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HrefData.swift; sourceTree = "<group>"; };
-		B1DFBE7F25B135AA00295CA5 /* ImgData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImgData.swift; sourceTree = "<group>"; };
-		B1DFBE8125B135AA00295CA5 /* MangosML.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MangosML.swift; sourceTree = "<group>"; };
-		B1DFBE8325B135AA00295CA5 /* MangosMLData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MangosMLData.swift; sourceTree = "<group>"; };
-		B1DFBE8425B135AA00295CA5 /* PageImageData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageImageData.swift; sourceTree = "<group>"; };
-		B1DFBE8525B135AA00295CA5 /* ChapterHrefData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChapterHrefData.swift; sourceTree = "<group>"; };
-		B1DFBE8625B135AA00295CA5 /* Utility.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
-		B1DFBE8725B135AA00295CA5 /* Mango.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mango.swift; sourceTree = "<group>"; };
+		B1A2DFD72893C3AC00DAAFE8 /* MainVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
+		B1A2DFDB2893C3F800DAAFE8 /* ChapterListVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChapterListVC.swift; sourceTree = "<group>"; };
+		B1A2DFDC2893C3F800DAAFE8 /* ChapterReadVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChapterReadVC.swift; sourceTree = "<group>"; };
+		B1A2DFDF2893C40000DAAFE8 /* TestDataVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestDataVC.swift; sourceTree = "<group>"; };
+		B1A2DFE22893C42C00DAAFE8 /* ChapterTableCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChapterTableCell.swift; sourceTree = "<group>"; };
+		B1A2DFE32893C42C00DAAFE8 /* MangoPageViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MangoPageViewCell.swift; sourceTree = "<group>"; };
+		B1A2DFE42893C42C00DAAFE8 /* MangoTableCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MangoTableCell.swift; sourceTree = "<group>"; };
+		B1A2DFE52893C42C00DAAFE8 /* ImageScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageScrollView.swift; sourceTree = "<group>"; };
+		B1FD3C9728924492002F7A05 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1FD3CA52893A03F002F7A05 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		B1FD3CA62893A03F002F7A05 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B1FD3CCA2893A30C002F7A05 /* Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,27 +149,10 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B10FB3F4272A78520012704C /* Test */ = {
-			isa = PBXGroup;
-			children = (
-				B10FB3F5272A78630012704C /* TestDataVC.swift */,
-			);
-			path = Test;
-			sourceTree = "<group>";
-		};
-		B11BAB462390FA5F0082CBD9 /* SelectItem */ = {
-			isa = PBXGroup;
-			children = (
-				B12FF9AD239A24DD004BEF11 /* ChapterListVC.swift */,
-				B1D87371239C6006004FC978 /* ChapterReadVC.swift */,
-			);
-			path = SelectItem;
-			sourceTree = "<group>";
-		};
 		B124FA2623753E2D000F9440 = {
 			isa = PBXGroup;
 			children = (
-				B124FA3123753E2D000F9440 /* Mangos */,
+				B1FD3C912892446D002F7A05 /* Mangos */,
 				B124FA4823753E2F000F9440 /* MangosTests */,
 				B124FA5323753E2F000F9440 /* MangosUITests */,
 				B18E346825B55E3300687602 /* MangoAddShare */,
@@ -184,22 +169,6 @@
 				B18E346725B55E3300687602 /* MangoAddShare.appex */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		B124FA3123753E2D000F9440 /* Mangos */ = {
-			isa = PBXGroup;
-			children = (
-				B1B43AE228923F8000492CF5 /* ML Models */,
-				B1DFBE7925B135AA00295CA5 /* Logic */,
-				B145789C238F271600F68757 /* UI */,
-				B124FA3223753E2D000F9440 /* AppDelegate.swift */,
-				B124FA3423753E2D000F9440 /* SceneDelegate.swift */,
-				B124FA3823753E2D000F9440 /* Main.storyboard */,
-				B124FA3B23753E2F000F9440 /* Assets.xcassets */,
-				B124FA3D23753E2F000F9440 /* LaunchScreen.storyboard */,
-				B124FA4023753E2F000F9440 /* Info.plist */,
-			);
-			path = Mangos;
 			sourceTree = "<group>";
 		};
 		B124FA4823753E2F000F9440 /* MangosTests */ = {
@@ -220,34 +189,62 @@
 			path = MangosUITests;
 			sourceTree = "<group>";
 		};
-		B124FA6223754FF3000F9440 /* ViewControllers */ = {
+		B1358DD72893A4DA00CB98B3 /* Logic */ = {
 			isa = PBXGroup;
 			children = (
-				B10FB3F4272A78520012704C /* Test */,
-				B11BAB462390FA5F0082CBD9 /* SelectItem */,
-				B124FA3623753E2D000F9440 /* MainVC.swift */,
+				B1358DE62893A5A000CB98B3 /* Html */,
+				B1358DD82893A4F300CB98B3 /* ML */,
+				B1FD3CCA2893A30C002F7A05 /* Utility.swift */,
+				B1358DE22893A58500CB98B3 /* Mango.swift */,
+				B1358DE42893A59200CB98B3 /* MangoPage.swift */,
 			);
-			path = ViewControllers;
+			path = Logic;
 			sourceTree = "<group>";
 		};
-		B145789C238F271600F68757 /* UI */ = {
+		B1358DD82893A4F300CB98B3 /* ML */ = {
 			isa = PBXGroup;
 			children = (
-				B124FA6223754FF3000F9440 /* ViewControllers */,
-				B145789D238F272800F68757 /* Views */,
+				B1358DDA2893A51900CB98B3 /* MangosML.swift */,
+				B1358DD92893A4F900CB98B3 /* Data */,
+			);
+			path = ML;
+			sourceTree = "<group>";
+		};
+		B1358DD92893A4F900CB98B3 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				B1358DDC2893A53B00CB98B3 /* ChapterHrefData.swift */,
+				B1358DDE2893A54D00CB98B3 /* MangosMLData.swift */,
+				B1358DE02893A55600CB98B3 /* PageImageData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		B1358DE62893A5A000CB98B3 /* Html */ = {
+			isa = PBXGroup;
+			children = (
+				B1358DE72893A5AA00CB98B3 /* HrefData.swift */,
+				B1358DE92893A5B700CB98B3 /* ImgData.swift */,
+			);
+			path = Html;
+			sourceTree = "<group>";
+		};
+		B1358DEB2893A64000CB98B3 /* ML Models */ = {
+			isa = PBXGroup;
+			children = (
+				B1358DF02893A6BC00CB98B3 /* MangoChapterClassifier_V3.mlmodel */,
+				B1358DF12893A6BC00CB98B3 /* MangoPageClassifier_V2.mlmodel */,
+			);
+			path = "ML Models";
+			sourceTree = "<group>";
+		};
+		B1358DF42893A70500CB98B3 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				B1A2DFE12893C41100DAAFE8 /* Views */,
+				B1A2DFD62893C39500DAAFE8 /* ViewController */,
 			);
 			path = UI;
-			sourceTree = "<group>";
-		};
-		B145789D238F272800F68757 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				B1BCC0C325B2CA0000E65487 /* ImageScrollView.swift */,
-				B14578A0238F289000F68757 /* MangoTableCell.swift */,
-				B1DD868C246B819B006800E9 /* MangoPageViewCell.swift */,
-				B12FF9AF239A3206004BEF11 /* ChapterTableCell.swift */,
-			);
-			path = Views;
 			sourceTree = "<group>";
 		};
 		B18E346825B55E3300687602 /* MangoAddShare */ = {
@@ -259,44 +256,58 @@
 			path = MangoAddShare;
 			sourceTree = "<group>";
 		};
-		B1DFBE7925B135AA00295CA5 /* Logic */ = {
+		B1A2DFD62893C39500DAAFE8 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
-				B1DFBE7D25B135AA00295CA5 /* Html */,
-				B1DFBE8025B135AA00295CA5 /* ML */,
-				B1DFBE7C25B135AA00295CA5 /* MangoPage.swift */,
-				B1DFBE8625B135AA00295CA5 /* Utility.swift */,
-				B1DFBE8725B135AA00295CA5 /* Mango.swift */,
+				B1A2DFD92893C3C900DAAFE8 /* SelectItem */,
+				B1A2DFDA2893C3CF00DAAFE8 /* Test */,
+				B1A2DFD72893C3AC00DAAFE8 /* MainVC.swift */,
 			);
-			path = Logic;
+			path = ViewController;
 			sourceTree = "<group>";
 		};
-		B1DFBE7D25B135AA00295CA5 /* Html */ = {
+		B1A2DFD92893C3C900DAAFE8 /* SelectItem */ = {
 			isa = PBXGroup;
 			children = (
-				B1DFBE7E25B135AA00295CA5 /* HrefData.swift */,
-				B1DFBE7F25B135AA00295CA5 /* ImgData.swift */,
+				B1A2DFDB2893C3F800DAAFE8 /* ChapterListVC.swift */,
+				B1A2DFDC2893C3F800DAAFE8 /* ChapterReadVC.swift */,
 			);
-			path = Html;
+			path = SelectItem;
 			sourceTree = "<group>";
 		};
-		B1DFBE8025B135AA00295CA5 /* ML */ = {
+		B1A2DFDA2893C3CF00DAAFE8 /* Test */ = {
 			isa = PBXGroup;
 			children = (
-				B1DFBE8125B135AA00295CA5 /* MangosML.swift */,
-				B1DFBE8225B135AA00295CA5 /* Data */,
+				B1A2DFDF2893C40000DAAFE8 /* TestDataVC.swift */,
 			);
-			path = ML;
+			path = Test;
 			sourceTree = "<group>";
 		};
-		B1DFBE8225B135AA00295CA5 /* Data */ = {
+		B1A2DFE12893C41100DAAFE8 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				B1DFBE8325B135AA00295CA5 /* MangosMLData.swift */,
-				B1DFBE8425B135AA00295CA5 /* PageImageData.swift */,
-				B1DFBE8525B135AA00295CA5 /* ChapterHrefData.swift */,
+				B1A2DFE22893C42C00DAAFE8 /* ChapterTableCell.swift */,
+				B1A2DFE52893C42C00DAAFE8 /* ImageScrollView.swift */,
+				B1A2DFE32893C42C00DAAFE8 /* MangoPageViewCell.swift */,
+				B1A2DFE42893C42C00DAAFE8 /* MangoTableCell.swift */,
 			);
-			path = Data;
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B1FD3C912892446D002F7A05 /* Mangos */ = {
+			isa = PBXGroup;
+			children = (
+				B1FD3CA62893A03F002F7A05 /* AppDelegate.swift */,
+				B1FD3CA52893A03F002F7A05 /* SceneDelegate.swift */,
+				B124FA3D23753E2F000F9440 /* LaunchScreen.storyboard */,
+				B124FA3823753E2D000F9440 /* Main.storyboard */,
+				B17680E828924399007EAC41 /* Assets.xcassets */,
+				B1FD3C9728924492002F7A05 /* Info.plist */,
+				B1358DD72893A4DA00CB98B3 /* Logic */,
+				B1358DEB2893A64000CB98B3 /* ML Models */,
+				B1358DF42893A70500CB98B3 /* UI */,
+			);
+			name = Mangos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -390,6 +401,7 @@
 				TargetAttributes = {
 					B124FA2E23753E2D000F9440 = {
 						CreatedOnToolsVersion = 11.1;
+						LastSwiftMigration = 1310;
 					};
 					B124FA4423753E2F000F9440 = {
 						CreatedOnToolsVersion = 11.1;
@@ -435,8 +447,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B124FA3F23753E2F000F9440 /* LaunchScreen.storyboard in Resources */,
-				B124FA3C23753E2F000F9440 /* Assets.xcassets in Resources */,
-				B1B43AE328923F8000492CF5 /* ML Models in Resources */,
+				B17680E928924399007EAC41 /* Assets.xcassets in Resources */,
 				B124FA3A23753E2D000F9440 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -469,25 +480,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B12FF9B0239A3206004BEF11 /* ChapterTableCell.swift in Sources */,
-				B1DFBE8E25B135AA00295CA5 /* MangosMLData.swift in Sources */,
-				B1DFBE9025B135AA00295CA5 /* ChapterHrefData.swift in Sources */,
-				B14578A1238F289000F68757 /* MangoTableCell.swift in Sources */,
-				B1BCC0C425B2CA0000E65487 /* ImageScrollView.swift in Sources */,
-				B124FA3723753E2D000F9440 /* MainVC.swift in Sources */,
-				B1DFBE9225B135AA00295CA5 /* Mango.swift in Sources */,
-				B1DFBE8F25B135AA00295CA5 /* PageImageData.swift in Sources */,
-				B1DFBE8B25B135AA00295CA5 /* HrefData.swift in Sources */,
-				B1DFBE8A25B135AA00295CA5 /* MangoPage.swift in Sources */,
-				B124FA3323753E2D000F9440 /* AppDelegate.swift in Sources */,
-				B1DD868D246B819B006800E9 /* MangoPageViewCell.swift in Sources */,
-				B10FB3F6272A78630012704C /* TestDataVC.swift in Sources */,
-				B124FA3523753E2D000F9440 /* SceneDelegate.swift in Sources */,
-				B1DFBE9125B135AA00295CA5 /* Utility.swift in Sources */,
-				B12FF9AE239A24DD004BEF11 /* ChapterListVC.swift in Sources */,
-				B1D87372239C6006004FC978 /* ChapterReadVC.swift in Sources */,
-				B1DFBE8D25B135AA00295CA5 /* MangosML.swift in Sources */,
-				B1DFBE8C25B135AA00295CA5 /* ImgData.swift in Sources */,
+				B1A2DFE72893C42C00DAAFE8 /* MangoPageViewCell.swift in Sources */,
+				B1A2DFE82893C42C00DAAFE8 /* MangoTableCell.swift in Sources */,
+				B1358DF32893A6BC00CB98B3 /* MangoPageClassifier_V2.mlmodel in Sources */,
+				B1FD3CA92893A120002F7A05 /* AppDelegate.swift in Sources */,
+				B1358DE12893A55600CB98B3 /* PageImageData.swift in Sources */,
+				B1358DE82893A5AA00CB98B3 /* HrefData.swift in Sources */,
+				B1A2DFDD2893C3F800DAAFE8 /* ChapterListVC.swift in Sources */,
+				B1A2DFE02893C40000DAAFE8 /* TestDataVC.swift in Sources */,
+				B1358DDB2893A51900CB98B3 /* MangosML.swift in Sources */,
+				B1358DDD2893A53B00CB98B3 /* ChapterHrefData.swift in Sources */,
+				B1358DE32893A58500CB98B3 /* Mango.swift in Sources */,
+				B1358DDF2893A54D00CB98B3 /* MangosMLData.swift in Sources */,
+				B1A2DFE62893C42C00DAAFE8 /* ChapterTableCell.swift in Sources */,
+				B1FD3CAA2893A120002F7A05 /* SceneDelegate.swift in Sources */,
+				B1A2DFDE2893C3F800DAAFE8 /* ChapterReadVC.swift in Sources */,
+				B1A2DFE92893C42C00DAAFE8 /* ImageScrollView.swift in Sources */,
+				B1FD3CCB2893A30C002F7A05 /* Utility.swift in Sources */,
+				B1358DF22893A6BC00CB98B3 /* MangoChapterClassifier_V3.mlmodel in Sources */,
+				B1358DE52893A59200CB98B3 /* MangoPage.swift in Sources */,
+				B1358DEA2893A5B700CB98B3 /* ImgData.swift in Sources */,
+				B1A2DFD82893C3AC00DAAFE8 /* MainVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -676,6 +689,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = ENSZYY2HUU;
@@ -687,6 +701,10 @@
 				MARKETING_VERSION = 1.11;
 				PRODUCT_BUNDLE_IDENTIFIER = com.gamicarts.mangos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SHARED_PRECOMPS_DIR = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_PRECOMPILE_BRIDGING_HEADER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -697,6 +715,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = ENSZYY2HUU;
@@ -708,6 +727,9 @@
 				MARKETING_VERSION = 1.11;
 				PRODUCT_BUNDLE_IDENTIFIER = com.gamicarts.mangos;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SHARED_PRECOMPS_DIR = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_PRECOMPILE_BRIDGING_HEADER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

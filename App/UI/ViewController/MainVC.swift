@@ -10,7 +10,7 @@ import UIKit
 import WebKit
 
 class MainVC : UIViewController {
-
+    
     @IBOutlet weak var mangoTableView: UITableView!
     
     private static let mangoTableCellReuseId = "MangoTableCell"
